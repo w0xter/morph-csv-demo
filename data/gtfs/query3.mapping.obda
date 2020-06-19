@@ -1,0 +1,13 @@
+[PrefixDeclaration]
+obda:		https://w3id.org/obda/vocabulary#
+xsd:		http://www.w3.org/2001/XMLSchema#
+owl:		http://www.w3.org/2002/07/owl#
+rdf:		http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdfs:		http://www.w3.org/2000/01/rdf-schema#
+
+[MappingDeclaration] @collection [[
+mappingId	mapping--834172924
+target		<http://transport.linkeddata.es/madrid/metro/stops/{stop_id}> a <http://vocab.gtfs.org/terms#Stop> ; <http://www.w3.org/2003/01/geo/wgs84_pos#lat> {stop_lat}^^xsd:double ; <http://www.w3.org/2003/01/geo/wgs84_pos#long> {stop_lon}^^xsd:double ; <http://vocab.gtfs.org/terms#locationType> <http://transport.linkeddata.es/resource/LocationType/{location_type}> ; <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://transport.linkeddata.es/resource/WheelchairBoardingStatus/{wheelchair_boarding}> ; <http://purl.org/dc/terms/description> {stop_desc} . 
+source		SELECT * FROM STOPS
+]]
+

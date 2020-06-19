@@ -1,0 +1,21 @@
+[PrefixDeclaration]
+obda:		https://w3id.org/obda/vocabulary#
+xsd:		http://www.w3.org/2001/XMLSchema#
+owl:		http://www.w3.org/2002/07/owl#
+rdf:		http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdfs:		http://www.w3.org/2000/01/rdf-schema#
+
+[MappingDeclaration] @collection [[
+mappingId	mapping-1843322538
+target		<http://transport.linkeddata.es/madrid/metro/routes/{route_id}> a <http://vocab.gtfs.org/terms#Route> ; <http://vocab.gtfs.org/terms#shortName> {route_short_name} ; <http://vocab.gtfs.org/terms#longName> {route_long_name} ; <http://purl.org/dc/terms/description> {route_desc} . 
+source		SELECT * FROM ROUTES
+
+mappingId	mapping-join-1350339122
+target		<http://transport.linkeddata.es/madrid/metro/routes/{route_id}> <http://vocab.gtfs.org/terms#agency> <http://transport.linkeddata.es/madrid/agency/{agency_id}> . 
+source		SELECT * FROM (SELECT * FROM ROUTES) AS child, (SELECT agency_id as parentId FROM AGENCY) as parent WHERE child.agency_id=parent.parentId
+
+mappingId	mapping--1359174097
+target		<http://transport.linkeddata.es/madrid/agency/{agency_id}> a <http://vocab.gtfs.org/terms#Agency> ; <http://xmlns.com/foaf/0.1/name> {agency_name} ; <http://xmlns.com/foaf/0.1/phone> {agency_phone} ; <http://xmlns.com/foaf/0.1/page> <{agency_url}> . 
+source		SELECT * FROM AGENCY
+]]
+
