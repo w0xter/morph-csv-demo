@@ -1,8 +1,8 @@
 import React from 'react'
-import {Row, Col, Layout} from 'antd'
+import {Row, Col, Layout, BackTop} from 'antd'
 import DatasetSelector from './DatasetSelector'
 import NavHeader from './NavHeader'
-const { Header, Content, Sider } = Layout;
+const { Header, Content, Sider} = Layout;
 export default function cLayout(props){
     return(
         <Layout>
@@ -17,8 +17,10 @@ export default function cLayout(props){
                     padding: 24,
                     margin: 0,
                     minHeight: 280,
+                    background:'#ffffff'
                     }}
                     >
+                        <BackTop />
                         {props.children}
                     </Content>
                 </Layout>
