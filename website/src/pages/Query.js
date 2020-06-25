@@ -5,8 +5,10 @@ import QueryChart from '../components/query/QueryCharts'
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { docco } from 'react-syntax-highlighter/dist/esm/styles/hljs';
 import {CloudDownloadOutlined} from '@ant-design/icons'
-
+import FileComparator from '../components/query/FileComparator'
 const {TabPane} = Tabs;
+const {Title, Paragraph, Text} = Typography;
+
 const query = 
 `PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -28,159 +30,116 @@ SELECT * WHERE {
 	OPTIONAL { ?agency foaf:phone ?agencyPhone . }
 }
 `
-const csvw = `
-{
+const csvw = 
+`{
   "@context": [
     "http://www.w3.org/ns/csvw"
   ],
   "tables": [
     {
-      "url": "/data/SHAPES.csv",
+      "url": "/data/AGENCY.csv",
       "dialect": {
         "header": false
       },
       "tableSchema": {
-        "primaryKey": "shape_pt_sequence,shape_id",
+        "primaryKey": "agency_id",
         "columns": [
           {
             "datatype": "string",
-            "titles": "shape_id"
+            "titles": "agency_id"
           },
           {
-            "datatype": "decimal",
-            "titles": "shape_pt_lat"
+            "datatype": "string",
+            "titles": "agency_url"
           },
           {
-            "datatype": "decimal",
-            "titles": "shape_pt_lon"
+            "datatype": "string",
+            "titles": "agency_name"
           },
           {
-            "datatype": "integer",
-            "titles": "shape_pt_sequence"
+            "datatype": "string",
+            "titles": "agency_phone"
           }
         ],
         "rowTitles": [
-          "shape_id",
-          "shape_pt_lat",
-          "shape_pt_lon",
-          "shape_pt_sequence",
-          "shape_dist"
+          "agency_id",
+          "agency_name",
+          "agency_url",
+          "agency_timezone",
+          "agency_lang",
+          "agency_phone",
+          "agency_fare_url"
         ],
         "foreignKeys": []
       },
       "filteredRowTitles": [
-        "shape_id",
-        "shape_pt_lat",
-        "shape_pt_lon",
-        "shape_pt_sequence"
+        "agency_id",
+        "agency_name",
+        "agency_url",
+        "agency_phone"
+      ]
+    },
+    {
+      "url": "/data/ROUTES.csv",
+      "dialect": {
+        "header": false
+      },
+      "tableSchema": {
+        "primaryKey": "route_id",
+        "foreignKey": [
+          {
+            "columnReference": "agency_id",
+            "reference": {
+              "resource": "/data/AGENCY.csv",
+              "columnReference": "agency_id"
+            }
+          }
+        ],
+        "columns": [
+          {
+            "datatype": "string",
+            "titles": "route_id"
+          },
+          {
+            "datatype": "string",
+            "titles": "agency_id"
+          },
+          {
+            "datatype": "string",
+            "titles": "route_short_name"
+          },
+          {
+            "datatype": "string",
+            "titles": "route_long_name"
+          },
+          {
+            "datatype": "string",
+            "titles": "route_desc"
+          }
+        ],
+        "rowTitles": [
+          "route_id",
+          "agency_id",
+          "route_short_name",
+          "route_long_name",
+          "route_desc",
+          "route_type",
+          "route_url",
+          "route_color",
+          "route_text_color"
+        ],
+        "foreignKeys": []
+      },
+      "filteredRowTitles": [
+        "route_id",
+        "agency_id",
+        "route_short_name",
+        "route_long_name",
+        "route_desc"
       ]
     }
   ]
-}
-`
-const rml = `
-@prefix rr: <http://www.w3.org/ns/r2rml#>.
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
-@prefix fnml: <http://semweb.mmlab.be/ns/fnml#>.
-@prefix fno: <https://w3id.org/function/ontology#>.
-@prefix d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#>.
-@prefix : <http://mapping.example.com/>.
-@prefix dc: <http://purl.org/dc/elements/1.1/>.
-@prefix dct: <http://purl.org/dc/terms/>.
-@prefix foaf: <http://xmlns.com/foaf/0.1/>.
-@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>.
-@prefix gtfs: <http://vocab.gtfs.org/terms#>.
-@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
-@prefix rev: <http://purl.org/stuff/rev#>.
-@prefix rml: <http://semweb.mmlab.be/ns/rml#>.
-@prefix schema: <http://schema.org/>.
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
-
-:map_agency_0 rr:logicalTable :source_0.
-:source_0 a rr:LogicalTable;
-    rr:tableName "AGENCY".
-:map_agency_0 a rr:TriplesMap;
-    rdfs:label "agency".
-:s_0 a rr:SubjectMap.
-:map_agency_0 rr:subjectMap :s_0.
-:s_0 rr:template "http://transport.linkeddata.es/madrid/agency/{agency_id}";
-    rr:class gtfs:Agency.
-:pom_0 a rr:PredicateObjectMap.
-:map_agency_0 rr:predicateObjectMap :pom_0.
-:pm_0 a rr:PredicateMap.
-:pom_0 rr:predicateMap :pm_0.
-:pm_0 rr:constant foaf:page.
-:pom_0 rr:objectMap :om_0.
-:om_0 a rr:ObjectMap;
-    rr:column "agency_url";
-    rr:termType rr:IRI.
-:pom_1 a rr:PredicateObjectMap.
-:map_agency_0 rr:predicateObjectMap :pom_1.
-:pm_1 a rr:PredicateMap.
-:pom_1 rr:predicateMap :pm_1.
-:pm_1 rr:constant foaf:name.
-:pom_1 rr:objectMap :om_1.
-:om_1 a rr:ObjectMap;
-    rr:column "agency_name";
-    rr:termType rr:Literal.
-:pom_2 a rr:PredicateObjectMap.
-:map_agency_0 rr:predicateObjectMap :pom_2.
-:pm_2 a rr:PredicateMap.
-:pom_2 rr:predicateMap :pm_2.
-:pm_2 rr:constant foaf:phone.
-:pom_2 rr:objectMap :om_2.
-:om_2 a rr:ObjectMap;
-    rr:column "agency_phone";
-    rr:termType rr:Literal.
-:map_routes_0 rr:logicalTable :source_1.
-:source_1 a rr:LogicalTable;
-    rr:tableName "ROUTES".
-:map_routes_0 a rr:TriplesMap;
-    rdfs:label "routes".
-:s_1 a rr:SubjectMap.
-:map_routes_0 rr:subjectMap :s_1.
-:s_1 rr:template "http://transport.linkeddata.es/madrid/metro/routes/{route_id}";
-    rr:class gtfs:Route.
-:pom_3 a rr:PredicateObjectMap.
-:map_routes_0 rr:predicateObjectMap :pom_3.
-:pm_3 a rr:PredicateMap.
-:pom_3 rr:predicateMap :pm_3.
-:pm_3 rr:constant gtfs:shortName.
-:pom_3 rr:objectMap :om_3.
-:om_3 a rr:ObjectMap;
-    rr:column "route_short_name";
-    rr:termType rr:Literal.
-:pom_4 a rr:PredicateObjectMap.
-:map_routes_0 rr:predicateObjectMap :pom_4.
-:pm_4 a rr:PredicateMap.
-:pom_4 rr:predicateMap :pm_4.
-:pm_4 rr:constant gtfs:longName.
-:pom_4 rr:objectMap :om_4.
-:om_4 a rr:ObjectMap;
-    rr:column "route_long_name";
-    rr:termType rr:Literal.
-:pom_5 a rr:PredicateObjectMap.
-:map_routes_0 rr:predicateObjectMap :pom_5.
-:pm_5 a rr:PredicateMap.
-:pom_5 rr:predicateMap :pm_5.
-:pm_5 rr:constant dct:description.
-:pom_5 rr:objectMap :om_5.
-:om_5 a rr:ObjectMap;
-    rr:column "route_desc";
-    rr:termType rr:Literal.
-:pom_6 a rr:PredicateObjectMap.
-:map_routes_0 rr:predicateObjectMap :pom_6.
-:pm_6 a rr:PredicateMap.
-:pom_6 rr:predicateMap :pm_6.
-:pm_6 rr:constant gtfs:agency.
-:pom_6 rr:objectMap :om_6.
-:om_6 a rr:ObjectMap;
-    rr:parentTriplesMap :map_agency_0;
-    rr:joinCondition :jc_0.
-:jc_0 rr:child "agency_id";
-    rr:parent "agency_id".
-`
+}`
 const yarrrml = `
 mappings:
   agency:
@@ -217,9 +176,6 @@ prefixes: {dc: http://purl.org/dc/elements/1.1/, dct: http://purl.org/dc/terms/,
   xsd: http://www.w3.org/2001/XMLSchema#}
 
 `
-
-
-
 const schema = `
 DROP TABLE IF EXISTS "agency" CASCADE;
 CREATE TABLE agency(
@@ -231,7 +187,7 @@ CREATE TABLE agency(
 );
 DROP TABLE IF EXISTS "routes" CASCADE;
 CREATE TABLE routes(
-    route_id VARCHAR,SPARQL Result
+    route_id VARCHAR,
     agency_id VARCHAR,
     route_short_name VARCHAR,
     route_long_name VARCHAR,
@@ -271,7 +227,7 @@ const outputCsv = [
       dataIndex: 'shape_dist',
       ellipsis:true,
       key: 'shape_dist',
-    },
+    }
   ],
     data:[
       {
@@ -415,7 +371,107 @@ const outputCsv = [
         "shape_dist": 1.199149364598
       }
     ]
-  }
+  },
+  {
+    title:'ROUTES.csv',
+    columns:[
+      {
+        title: 'route_id',
+        dataIndex: 'route_id',
+        ellipsis:true,
+        key: 'route_id',
+      },
+      {
+        title: 'agency_id',
+        dataIndex: 'agency_id',
+        ellipsis:true,
+        key: 'agency_id',
+      },
+      {
+        title: 'route_short_name',
+        dataIndex: 'route_short_name',
+        ellipsis:true,
+        key: 'route_short_name',
+      },
+      {
+        title: 'route_long_name',
+        dataIndex: 'route_long_name',
+        ellipsis:true,
+        key: 'route_long_name',
+      },
+      {
+        title: 'route_desc',
+        dataIndex: 'route_desc',
+        ellipsis:true,
+        key: 'route_desc',
+      }
+    ],
+    data:[
+      {
+        "route_id": "4__10___",
+        "agency_id": "CRTM",
+        "route_short_name": 10,
+        "route_long_name": "Hospital del Norte-Puerta del Sur",
+        "route_desc": ""
+      },
+      {
+        "route_id": "4__11___",
+        "agency_id": "CRTM",
+        "route_short_name": 11,
+        "route_long_name": "Plaza Elíptica-La Fortuna",
+        "route_desc": ""
+      },
+      {
+        "route_id": "4__12___",
+        "agency_id": "CRTM",
+        "route_short_name": 12,
+        "route_long_name": "MetroSur",
+        "route_desc": ""
+      },
+      {
+        "route_id": "4__1___",
+        "agency_id": "CRTM",
+        "route_short_name": 1,
+        "route_long_name": "Pinar de Chamartín-Valdecarros",
+        "route_desc": ""
+      },
+      {
+        "route_id": "4__2___",
+        "agency_id": "CRTM",
+        "route_short_name": 2,
+        "route_long_name": "Las Rosas-Cuatro Caminos",
+        "route_desc": ""
+      },
+      {
+        "route_id": "4__3___",
+        "agency_id": "CRTM",
+        "route_short_name": 3,
+        "route_long_name": "Villaverde Alto-Moncloa",
+        "route_desc": ""
+      },
+      {
+        "route_id": "4__4___",
+        "agency_id": "CRTM",
+        "route_short_name": 4,
+        "route_long_name": "Pinar de Chamartín-Argüelles",
+        "route_desc": ""
+      },
+      {
+        "route_id": "4__5___",
+        "agency_id": "CRTM",
+        "route_short_name": 5,
+        "route_long_name": "Alameda de Osuna-Casa de Campo",
+        "route_desc": ""
+      },
+      {
+        "route_id": "4__6___",
+        "agency_id": "CRTM",
+        "route_short_name": 6,
+        "route_long_name": "Circular",
+        "route_desc": ""
+      }
+    ]
+}
 ]
 const dataSource = [
   {
@@ -614,16 +670,12 @@ const columns = [
   },
 ];
 
-const {Title, Paragraph} = Typography;
 export default function Query(props){
     return(
         <Layout>
           <Row style={{marginBottom:32}}>
             <Col  xs={24}>
             <Title level={2}>Query 4: Select all routes and the agency of each route.</Title>
-            <div style={{marginTop:16}}>
-                  <Button type="primary">Download the MORPH-CSV output <CloudDownloadOutlined size={100} /> </Button>
-            </div>
             </Col>
           </Row>
             <Row gutter={32} justify="" align="top">
@@ -641,32 +693,53 @@ export default function Query(props){
             </Row>
             <Divider/>
             <Title level={3}>SPARQL Result</Title>
-              <Table bordered dataSource={dataSource} columns={columns} />
-              <Title level={3}>Morph-CSV Output</Title>
+            <Table bordered dataSource={dataSource} columns={columns} />
+            <Row gutter={16}>
+              <Col>
+              <Title level={3}>Morph-CSV Output</Title>              
+              </Col>
+              <Col>
+                  <Button type="primary">Download <CloudDownloadOutlined size={100} /> </Button>
+              </Col>
+            </Row>
             <Tabs>
               <TabPane tab="SQL Schema" key="1">
                   <SyntaxHighlighter language="sql" style={docco}>
                   {schema}
                   </SyntaxHighlighter>
-              </TabPane>
-              <TabPane tab="Simplified RML Mapping" key="2">
-                  <SyntaxHighlighter language="ttl" style={docco}>
-                  {rml}
-                  </SyntaxHighlighter>
-              </TabPane>              
+              </TabPane>             
               <TabPane tab="Simplified YARRRML Mapping" key="3">
+                  <Row>
+                    <Col span={12}>
+                    <Text>
+                      <Text strong>YARRRML</Text> is a human readable text-based representation for declarative Linked Data generation rules.
+                      It is a subset of YAML, a widely used data serialization language designed to be human-friendly.
+                      It can already be used to represent R2RML and RML rules. You can learn more <a href="https://rml.io/yarrrml/">here</a>.
+                    </Text>
+                    </Col>
+                  </Row>
+                  <Row style={{marginTop:8, marginBottom:32}}>
+                    <Col>
+                    <FileComparator key={1} original={'null'} language='yaml' simplified={yarrrml}></FileComparator>
+                    </Col>
+                  </Row>
                   <SyntaxHighlighter language="yaml" style={docco}>
                   {yarrrml}
                   </SyntaxHighlighter>
               </TabPane>
               <TabPane tab="Simplified CSVW" key="4">
+              <Row style={{marginTop:8, marginBottom:32}}>
+                    <Col>
+                    <FileComparator key={2} original={'null'} language='json' simplified={csvw}></FileComparator>
+                    </Col>
+              </Row>
                   <SyntaxHighlighter language="json" style={docco}>
                   {csvw}
                   </SyntaxHighlighter>
               </TabPane>
             </Tabs>
             <Divider></Divider>
-            <Title level={3}>
+            <Title level={4}>
               Processed CSVs
             </Title>
             <Tabs>

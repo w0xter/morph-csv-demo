@@ -9,7 +9,7 @@ const data = [
             'Selected Columns',
       ],
         datasets: [{
-            data: [74, 5],
+            data: [74, 9],
             backgroundColor: [
             '#ca2302',
             '#0163c0',
@@ -22,11 +22,11 @@ const data = [
     },
     {
         labels: [
-            'Dataset',
-            'Selected Files',
+            'Sources',
+            'Selected Sources',
       ],
         datasets: [{
-            data: [10, 1],
+            data: [10, 2],
             backgroundColor: [
             '#ca2302',
             '#0163c0',
@@ -49,7 +49,7 @@ export default function QueryChart(props){
         </Row>
 
         <div style={{textAlign:'center', marginTop:32}}>
-        <Row  gutter={32} style={{}}>
+        <Row  gutter={32} justify="center" style={{}}>
                 <Col>
                 <Statistic title={<Title level={4} type="">Primary Keys</Title>} value={2} />
                 </Col>
@@ -68,10 +68,10 @@ export default function QueryChart(props){
                 <Divider/>
                 </Col>
             </Row>
-            <Row  style={{marginTop:16}}>
+            <Row  justify="center" style={{marginTop:16}}>
                 <Col>
                 <Doughnut data={data[1]}/>
-                <Title level={4} type="">Selected Files</Title>
+                <Title level={4} type="">Selected Sources</Title>
                 </Col>                  
                 <Col>
                 <Pie data={data[0]}/>
