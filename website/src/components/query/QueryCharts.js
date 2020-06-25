@@ -1,7 +1,6 @@
 import React from 'react';
 import {Pie, Doughnut} from 'react-chartjs-2';
-import {Row, Col, Typography, Statistic, Divider, Space} from 'antd';
-
+import {Row, Col, Typography, Statistic, Divider, Space, Button} from 'antd';
 const {Title} = Typography;
 const data = [
     {
@@ -12,12 +11,12 @@ const data = [
         datasets: [{
             data: [74, 5],
             backgroundColor: [
-            '#d00000',
-            '#1C7C54',
+            '#ca2302',
+            '#0163c0',
             ],
             hoverBackgroundColor: [
-            '#d00000',
-            '#1C7C54',
+            '#ca2302',
+            '#0163c0',
             ]
         }]
     },
@@ -29,12 +28,12 @@ const data = [
         datasets: [{
             data: [10, 1],
             backgroundColor: [
-            '#d00000',
-            '#1C7C54',
+            '#ca2302',
+            '#0163c0',
             ],
             hoverBackgroundColor: [
-            '#d00000',
-            '#1C7C54',
+            '#ca2302',
+            '#0163c0',
             ]
         }]        
     }
@@ -43,9 +42,14 @@ const data = [
 export default function QueryChart(props){
     return(
         <>
-        <Title level={3}></Title>
-        <div style={{marginTop:32}}>
-        <Row justify="center" gutter={32} style={{textAlign:'center'}}>
+        <Row  gutter={32} style={{}}>
+            <Col>
+            <Title level={3}>Applied Constraints</Title>
+            </Col>
+        </Row>
+
+        <div style={{textAlign:'center', marginTop:32}}>
+        <Row  gutter={32} style={{}}>
                 <Col>
                 <Statistic title={<Title level={4} type="">Primary Keys</Title>} value={2} />
                 </Col>
@@ -59,7 +63,12 @@ export default function QueryChart(props){
                 <Statistic title={<Title level={4} type="">Datatypes</Title>} value="-" />
                 </Col>            
             </Row>
-            <Row justify="center" style={{textAlign:'center', marginTop:48}}>
+            <Row style={{marginTop:16}}>
+                <Col span={24}>
+                <Divider/>
+                </Col>
+            </Row>
+            <Row  style={{marginTop:16}}>
                 <Col>
                 <Doughnut data={data[1]}/>
                 <Title level={4} type="">Selected Files</Title>
@@ -69,6 +78,7 @@ export default function QueryChart(props){
                 <Title level={4} type="">Selected Columns</Title>
                 </Col>              
             </Row>
+
         </div>
     </>
     )
