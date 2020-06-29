@@ -729,7 +729,7 @@ export default function Query(props){
               </TabPane>
               <TabPane tab="Simplified CSVW" key="4">
               <Row style={{marginTop:8, marginBottom:32}}>
-                    <Col>
+                    <Col span={12}>
                     <FileComparator key={2} original={'null'} language='json' simplified={csvw}></FileComparator>
                     </Col>
               </Row>
