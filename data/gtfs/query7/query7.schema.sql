@@ -1,0 +1,12 @@
+DROP TABLE IF EXISTS "calendar" CASCADE;
+CREATE TABLE calendar(service_id VARCHAR,PRIMARY KEY (service_id));
+DROP TABLE IF EXISTS "calendar_dates" CASCADE;
+CREATE TABLE calendar_dates(service_id VARCHAR,PRIMARY KEY (service_id));
+DROP TABLE IF EXISTS "routes" CASCADE;
+CREATE TABLE routes(route_id VARCHAR,route_short_name VARCHAR,route_desc VARCHAR,PRIMARY KEY (route_id));
+DROP TABLE IF EXISTS "stop_times" CASCADE;
+CREATE TABLE stop_times(trip_id VARCHAR,arrival_time VARCHAR,stop_id VARCHAR,PRIMARY KEY (stop_id,trip_id,arrival_time));
+DROP TABLE IF EXISTS "stops" CASCADE;
+CREATE TABLE stops(stop_id VARCHAR,stop_desc VARCHAR,stop_lat DECIMAL(40,15),stop_lon DECIMAL(40,15),wheelchair_boarding INT,PRIMARY KEY (stop_id));
+DROP TABLE IF EXISTS "trips" CASCADE;
+CREATE TABLE trips(route_id VARCHAR,service_id VARCHAR,trip_id VARCHAR,trip_short_name VARCHAR,PRIMARY KEY (trip_id));

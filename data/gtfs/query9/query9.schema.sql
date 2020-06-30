@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS "calendar" CASCADE;
+CREATE TABLE calendar(service_id VARCHAR,PRIMARY KEY (service_id));
+DROP TABLE IF EXISTS "calendar_dates" CASCADE;
+CREATE TABLE calendar_dates(service_id VARCHAR,PRIMARY KEY (service_id));
+DROP TABLE IF EXISTS "routes" CASCADE;
+CREATE TABLE routes(route_id VARCHAR,PRIMARY KEY (route_id));
+DROP TABLE IF EXISTS "shapes" CASCADE;
+CREATE TABLE shapes(shape_id VARCHAR,shape_pt_lat DECIMAL(40,15),shape_pt_sequence INT,PRIMARY KEY (shape_pt_sequence,shape_id));
+DROP TABLE IF EXISTS "trips" CASCADE;
+CREATE TABLE trips(route_id VARCHAR,service_id VARCHAR,trip_id VARCHAR,trip_short_name VARCHAR,shape_id VARCHAR,PRIMARY KEY (trip_id));
