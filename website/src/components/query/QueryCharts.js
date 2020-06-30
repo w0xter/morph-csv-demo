@@ -40,6 +40,16 @@ const data = [
 ]
 
 export default function QueryChart(props){
+    let foreignKeys = 0;
+    let primaryKeys = 0;
+    let subtitutions = 0;
+    let dataTypes = [];
+    let selectedCols = 0;
+    let selectedSources = 0;
+
+    props.csvw.tables.map((table) => {
+
+    });
     return(
         <>
         <Row  gutter={32} style={{}}>
@@ -54,7 +64,7 @@ export default function QueryChart(props){
                 <Statistic title={<Title level={4} type="">Primary Keys</Title>} value={2} />
                 </Col>
                 <Col>
-                <Statistic title={<Title level={4} type="">Foreign Keys</Title>} value={1} />
+                <Statistic title={<Title level={4} type="">Foreign Keys</Title>} value={foreignKeys} />
                 </Col>
                 <Col>
                 <Statistic title={<Title level={4} type="">Substitutions</Title>} value={7} />

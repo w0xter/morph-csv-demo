@@ -1,7 +1,7 @@
 import React from 'react'
 import {Row, Col, Menu} from 'antd'
 import {MailOutlined,AppstoreOutlined,SettingOutlined} from '@ant-design/icons'
-import datasets from '../../data/data'
+import {data} from '../../data/data'
 import { Link } from 'react-router-dom';
 const {SubMenu} = Menu;
 export default class DatasetSelector extends React.Component{
@@ -20,18 +20,18 @@ export default class DatasetSelector extends React.Component{
             mode="inline"
             style={{ height: '100%', borderRight:'10 #000000'}}
           >
-              {Object.keys(datasets).map((dataset, idx) => {
+              {Object.keys(data).map((dataset, idx) => {
                   return(
                       <SubMenu
                         key={"sub" + idx}
                         title={dataset}
                       >
-                          {datasets[dataset].map((query,jdx) => {
+                          {Object.keys(data[dataset]["queries"]).map((query,jdx) => {
                               return(
                                 <Menu.Item key={dataset + query}>
-                                    <Link to={`/run/${dataset}/query${jdx}`}>
-                                        {query}     
-                                    </Link>
+                                    <a href={`/run/${dataset}/${jdx + 1}`}>
+                                    {"Query" + query}     
+                                    </a>
                                 </Menu.Item>
                               )
                           })}

@@ -1,11 +1,15 @@
 import React from 'react'
-import Layout from '../components/general/Layout'
 import {Row, Col, Typography,Table, Divider, Button, Descriptions, Space, Tabs} from 'antd'
-import QueryChart from '../components/query/QueryCharts'
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { docco } from 'react-syntax-highlighter/dist/esm/styles/hljs';
 import {CloudDownloadOutlined} from '@ant-design/icons'
-import FileComparator from '../components/query/FileComparator'
+import axios from 'axios'
+import Layout from '../components/general/Layout'
+import QueryChart from '../components/query/QueryCharts'
+import {data} from '../data/data'
+
+
+
 const {TabPane} = Tabs;
 const {Title, Paragraph, Text} = Typography;
 
@@ -669,90 +673,143 @@ const columns = [
     key: 'agencyPhone',
   },
 ];
+function fetchData(url){
+  return new Promise((resolve, reject) => {
+    axios.get(url).then((response) => {
+      resolve(response.data);
+    }).catch((err) => reject(err))
 
-export default function Query(props){
+  })
+}
+
+export default class Query extends React.Component{
+  constructor(props) {
+    super(props);
+    this.state = {
+      dataset:'',
+      queryIdx:'',
+      query:'',
+      dir:'',
+      csvw:null,
+      strCsvw:'',
+      yarrrml:null,
+      schema:null
+    }
+  }
+
+  render(){
     return(
-        <Layout>
-          <Row style={{marginBottom:32}}>
-            <Col  xs={24}>
-            <Title level={2}>Query 4: Select all routes and the agency of each route.</Title>
+      <>
+      {this.state.csvw !== null && this.state.yarrrml !== null && this.state.schema !== null ?(this.page()):null}
+      </>
+    )
+  }
+  page(){
+    return(
+      <Layout>
+        <Row style={{marginBottom:32}}>
+          <Col  xs={24}>
+          <Title level={2}>{"Query" + this.state.queryIdx + ' :' +  this.state.query.title }</Title>
+          </Col>
+        </Row>
+          <Row gutter={32} justify="" align="top">
+              <Col xs={24} md={12}>
+                <Title level={3}>SPARQL Query</Title>
+                <div style={{marginTop:32}}>
+                <SyntaxHighlighter language="ttl" style={docco}>
+                  {this.state.query.sparql}
+                  </SyntaxHighlighter>
+                </div>
+              </Col>
+              <Col xs={24} md={12}>
+                <QueryChart csvw={csvw}></QueryChart>
+              </Col>
+          </Row>
+          <Divider/>
+          <Title level={3}>SPARQL Result</Title>
+          <Table bordered dataSource={dataSource} columns={columns} />
+          <Row gutter={16}>
+            <Col>
+            <Title level={3}>Morph-CSV Output</Title>              
+            </Col>
+            <Col>
+                <Button type="primary">Download <CloudDownloadOutlined size={100} /> </Button>
             </Col>
           </Row>
-            <Row gutter={32} justify="" align="top">
-                <Col xs={24} md={12}>
-                  <Title level={3}>SPARQL Query</Title>
-                  <div style={{marginTop:32}}>
-                  <SyntaxHighlighter language="ttl" style={docco}>
-                    {query}
-                    </SyntaxHighlighter>
-                  </div>
-                </Col>
-                <Col xs={24} md={12}>
-                  <QueryChart></QueryChart>
-                </Col>
+          <Tabs>
+            <TabPane tab="SQL Schema" key="1">
+                <SyntaxHighlighter language="sql" style={docco}>
+                {this.state.schema}
+                </SyntaxHighlighter>
+            </TabPane>             
+            <TabPane tab="Simplified YARRRML Mapping" key="3">
+                <Row>
+                  <Col span={12}>
+                  <Text>
+                    <Text strong>YARRRML</Text> is a human readable text-based representation for declarative Linked Data generation rules.
+                    It is a subset of YAML, a widely used data serialization language designed to be human-friendly.
+                    It can already be used to represent R2RML and RML rules. You can learn more <a href="https://rml.io/yarrrml/">here</a>.
+                  </Text>
+                  </Col>
+                </Row>
+                <Row style={{marginTop:8, marginBottom:32}}>
+                  <Col>
+                  </Col>
+                </Row>
+                <SyntaxHighlighter language="yaml" style={docco}>
+                {this.state.yarrrml}
+                </SyntaxHighlighter>
+            </TabPane>
+            <TabPane tab="Simplified CSVW" key="4">
+            <Row style={{marginTop:8, marginBottom:32}}>
+                  <Col span={12}>
+                  </Col>
             </Row>
-            <Divider/>
-            <Title level={3}>SPARQL Result</Title>
-            <Table bordered dataSource={dataSource} columns={columns} />
-            <Row gutter={16}>
-              <Col>
-              <Title level={3}>Morph-CSV Output</Title>              
-              </Col>
-              <Col>
-                  <Button type="primary">Download <CloudDownloadOutlined size={100} /> </Button>
-              </Col>
-            </Row>
-            <Tabs>
-              <TabPane tab="SQL Schema" key="1">
-                  <SyntaxHighlighter language="sql" style={docco}>
-                  {schema}
-                  </SyntaxHighlighter>
-              </TabPane>             
-              <TabPane tab="Simplified YARRRML Mapping" key="3">
-                  <Row>
-                    <Col span={12}>
-                    <Text>
-                      <Text strong>YARRRML</Text> is a human readable text-based representation for declarative Linked Data generation rules.
-                      It is a subset of YAML, a widely used data serialization language designed to be human-friendly.
-                      It can already be used to represent R2RML and RML rules. You can learn more <a href="https://rml.io/yarrrml/">here</a>.
-                    </Text>
-                    </Col>
-                  </Row>
-                  <Row style={{marginTop:8, marginBottom:32}}>
-                    <Col>
-                    <FileComparator key={1} original={'null'} language='yaml' simplified={yarrrml}></FileComparator>
-                    </Col>
-                  </Row>
-                  <SyntaxHighlighter language="yaml" style={docco}>
-                  {yarrrml}
-                  </SyntaxHighlighter>
-              </TabPane>
-              <TabPane tab="Simplified CSVW" key="4">
-              <Row style={{marginTop:8, marginBottom:32}}>
-                    <Col span={12}>
-                    <FileComparator key={2} original={'null'} language='json' simplified={csvw}></FileComparator>
-                    </Col>
-              </Row>
-                  <SyntaxHighlighter language="json" style={docco}>
-                  {csvw}
-                  </SyntaxHighlighter>
-              </TabPane>
-            </Tabs>
-            <Divider></Divider>
-            <Title level={4}>
-              Processed CSVs
-            </Title>
-            <Tabs>
-              {outputCsv.map((csv) => {
-                return(
-                  <TabPane key={csv.title} tab={csv.title}>
-                    <Table dataSource={csv.data} columns={csv.columns}></Table>
-                  </TabPane>
-                )
-              })}
+                <SyntaxHighlighter language="json" style={docco}>
+                {this.state.strCsvw.toString()}
+                </SyntaxHighlighter>
+            </TabPane>
+          </Tabs>
+          <Divider></Divider>
+          <Title level={4}>
+            Processed CSVs
+          </Title>
+          <Tabs>
+            {outputCsv.map((csv) => {
+              return(
+                <TabPane key={csv.title} tab={csv.title}>
+                  <Table dataSource={csv.data} columns={csv.columns}></Table>
+                </TabPane>
+              )
+            })}
 
-            </Tabs>
+          </Tabs>
 
-        </Layout>
-    )
+      </Layout>
+   )    
+  }
+  async getData(){
+    const dataset = this.props.match.params.dataset;
+    const queryIdx = this.props.match.params.query;
+    this.setState({query:data[dataset]['queries'][queryIdx], queryIdx:queryIdx, dataset:dataset})
+    const dir = data[dataset]['url'] + 'query' + queryIdx + '/query' + queryIdx + '.'
+   try{
+      const csvw = await fetchData(dir + 'csvw.min.json') 
+      const strCsvw = JSON.stringify(csvw,null,"  ");
+      const yarrrml = await fetchData(dir + 'mapping.yaml')
+      const schema = await fetchData(dir + 'schema.sql')
+      this.setState({csvw:csvw,strCsvw:csvw, yarrrml:yarrrml,schema:schema})
+      console.log(this.state)
+   }catch(err){
+     console.log(err)
+   }
+  }
+  async componentDidMount(){
+    await this.getData();  
+  }
+  // async componentDidUpdate(){
+  //   if(this.state.idx != this.props.match.params.query || this.state.idx != this.props.match.params.dataset){
+  //     await this.getData()
+  //   }
+  // }
 } 
