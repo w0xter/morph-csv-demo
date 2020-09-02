@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS "wbgeneids" CASCADE;CREATE TABLE wbgeneids(gene_id VARCHAR,symbol VARCHAR,cosmid VARCHAR);DROP TABLE IF EXISTS "cutinteractions" CASCADE;CREATE TABLE cutinteractions(WBInteractionID VARCHAR,Interaction_type VARCHAR,Interaction_subtype VARCHAR,Interactor1 VARCHAR,Interactor2 VARCHAR,PRIMARY KEY (WBInteractionID));

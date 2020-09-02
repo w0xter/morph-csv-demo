@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS "homologene" CASCADE;CREATE TABLE homologene(hid VARCHAR,genesymbol VARCHAR,refseq VARCHAR);
