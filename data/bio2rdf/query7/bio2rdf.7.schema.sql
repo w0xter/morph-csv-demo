@@ -1,1 +1,0 @@
-DROP TABLE IF EXISTS "genage_models" CASCADE;CREATE TABLE genage_models(GenAge_ID VARCHAR,name_gene VARCHAR,organism VARCHAR,PRIMARY KEY (GenAge_ID));DROP TABLE IF EXISTS "names" CASCADE;CREATE TABLE names(tax_id VARCHAR,name_txt VARCHAR,unique_name VARCHAR,name_class VARCHAR);

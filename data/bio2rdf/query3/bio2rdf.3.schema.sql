@@ -1,1 +1,0 @@
-DROP TABLE IF EXISTS "wbgeneids" CASCADE;CREATE TABLE wbgeneids(gene_id VARCHAR);DROP TABLE IF EXISTS "wbgene_association" CASCADE;CREATE TABLE wbgene_association(gene_id VARCHAR,GO_id VARCHAR,evidence VARCHAR);ALTER TABLE "wbgene_association" ADD COLUMN seealso VARCHAR;UPDATE "wbgene_association" SET seealso=concat('http://purl.obolibrary.org/obo/',replace(go_id,':','_'));

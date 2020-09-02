@@ -1,1 +1,0 @@
-DROP TABLE IF EXISTS "hgnc" CASCADE;CREATE TABLE hgnc(HGNC_ID VARCHAR,Approved_Symbol VARCHAR,Status VARCHAR,Locus_Group VARCHAR,Date_Approved DATE,PRIMARY KEY (HGNC_ID));ALTER TABLE "hgnc" ADD COLUMN statusfn VARCHAR;UPDATE "hgnc" SET statusfn=concat('hgncv:',replace(status,' ','-'));

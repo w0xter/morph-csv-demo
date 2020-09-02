@@ -675,6 +675,7 @@ const columns = [
 ];
 function fetchData(url){
   return new Promise((resolve, reject) => {
+    console.log(url)
     axios.get(url).then((response) => {
       resolve(response.data);
     }).catch((err) => reject(err))
@@ -798,6 +799,7 @@ export default class Query extends React.Component{
       const strCsvw = JSON.stringify(csvw,null,"  ");
       const yarrrml = await fetchData(dir + 'mapping.yaml')
       const schema = await fetchData(dir + 'schema.sql')
+      console.log(dir)
       this.setState({csvw:csvw,strCsvw:csvw, yarrrml:yarrrml,schema:schema})
       console.log(this.state)
    }catch(err){

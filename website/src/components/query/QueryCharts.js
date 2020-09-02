@@ -47,9 +47,9 @@ export default function QueryChart(props){
     let selectedCols = 0;
     let selectedSources = 0;
 
-    props.csvw.tables.map((table) => {
+    // props.csvw.tables.map((table) => {
 
-    });
+    // });
     return(
         <>
         <Row  gutter={32} style={{}}>

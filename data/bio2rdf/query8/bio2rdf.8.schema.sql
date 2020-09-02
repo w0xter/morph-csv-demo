@@ -1,1 +1,0 @@
-DROP TABLE IF EXISTS "wbgeneids" CASCADE;CREATE TABLE wbgeneids(gene_id VARCHAR,symbol VARCHAR);
