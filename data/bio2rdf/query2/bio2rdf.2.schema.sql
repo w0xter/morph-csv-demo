@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS "gene_info" CASCADE;CREATE TABLE gene_info(tax_id VARCHAR,GeneID VARCHAR,Symbol VARCHAR,LocusTag VARCHAR,description VARCHAR);DROP TABLE IF EXISTS "homologene" CASCADE;CREATE TABLE homologene(hid VARCHAR,ncbigene VARCHAR,PRIMARY KEY (ncbigene,hid));

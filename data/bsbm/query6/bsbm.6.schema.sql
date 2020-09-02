@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS "product" CASCADE;CREATE TABLE product(nr INT,label VARCHAR,producer INT);

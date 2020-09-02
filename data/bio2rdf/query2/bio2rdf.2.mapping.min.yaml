@@ -1,0 +1,34 @@
+mappings:
+  TMhomologene:
+    po:
+    - [http://www.w3.org/1999/02/22-rdf-syntax-ns#type, "http://bio2rdf.org/homologene_vocabulary:Resource"]
+    - [http://www.w3.org/1999/02/22-rdf-syntax-ns#type, "http://bio2rdf.org/homologene_vocabulary:Homologene-Group"]
+    - o:
+      - condition:
+          function: equal
+          parameters:
+          - [str1, $(ncbigene)]
+          - [str2, $(geneid)]
+        mapping: TMncbigene-gene_info
+      p: http://bio2rdf.org/homologene_vocabulary:x-ncbigene
+    s: http://bio2rdf.org/homologene:$(hid)
+    sources:
+    - {table: HOMOLOGENE}
+  TMncbigene-gene_info:
+    po:
+    - [http://www.w3.org/2000/01/rdf-schema#label, "$(description) (symbol:$(symbol),
+        taxon:$(tax_id)) [ncbigene:$(geneid)]"]
+    - [http://bio2rdf.org/ncbigene_vocabulary:locus, $(locustag)]
+    s: http://bio2rdf.org/ncbigene:$(geneid)
+    sources:
+    - {table: GENE_INFO}
+prefixes: {bv: http://bio2rdf.org/bio2rdf_vocabulary:, dcterms: http://purl.org/dc/terms/,
+  fno: http://w3id.org/function/ontology#, genagev: http://bio2rdf.org/genage_vocabulary:,
+  hgncv: http://bio2rdf.org/hgnc_vocabulary, homogv: http://bio2rdf.org/homologene_vocabulary:,
+  hsv: http://bio2rdf.org/hgnc.symbol_vocabulary:, ncbiv: http://bio2rdf.org/ncbigene_vocabulary:,
+  ndcv: http://bio2rdf.org/ndc_vocabulary:, owl: http://www.w3.org/2002/07/owl#,
+  ql: http://semweb.mmlab.be/ns/ql#, rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#,
+  rdfs: http://www.w3.org/2000/01/rdf-schema#, rml: http://semweb.mmlab.be/ns/rml#,
+  rr: http://www.w3.org/ns/r2rml#, sidv: http://bio2rdf.org/sider_vocabulary:,
+  sql: http://w3.org/ns/sql#, taxv: http://bio2rdf.org/taxonomy_vocabulary:, wbv: http://bio2rdf.org/wormbase_vocabulary:,
+  xsd: http://www.w3.org/2001/XMLSchema#}

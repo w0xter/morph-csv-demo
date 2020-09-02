@@ -1,0 +1,46 @@
+mappings:
+  product:
+    po:
+    - [http://www.w3.org/2000/01/rdf-schema#label, $(label)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyNumeric1,
+      $(propertynum1)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyNumeric2,
+      $(propertynum2)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyTextual1,
+      $(propertytex1)]
+    - o:
+      - condition:
+          function: equal
+          parameters:
+          - [str1, $(nr)]
+          - [str2, $(product)]
+        mapping: productfeatureproduct
+      p: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productFeature
+    - o:
+      - condition:
+          function: equal
+          parameters:
+          - [str1, $(nr)]
+          - [str2, $(product)]
+        mapping: producttypeproduct
+      p: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productType
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer$(producer)/Product$(nr)
+    sources:
+    - {table: PRODUCT}
+  productfeatureproduct:
+    po: []
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/ProductFeature$(productfeature)
+    sources:
+    - {table: PRODUCTFEATUREPRODUCT}
+  producttypeproduct:
+    po: []
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/ProductType$(producttype)
+    sources:
+    - {table: PRODUCTTYPEPRODUCT}
+prefixes: {bsbm: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/, bsbm-inst: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/,
+  dc: http://purl.org/dc/elements/1.1/, dct: http://purl.org/dc/terms/, foaf: http://xmlns.com/foaf/0.1/,
+  geo: http://www.w3.org/2003/01/geo/wgs84_pos#, gtfs: http://vocab.gtfs.org/terms#,
+  ql: http://semweb.mmlab.be/ns/ql#, rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#,
+  rdfs: http://www.w3.org/2000/01/rdf-schema#, rev: http://purl.org/stuff/rev#,
+  rml: http://semweb.mmlab.be/ns/rml#, rr: http://www.w3.org/ns/r2rml#, schema: http://schema.org/,
+  xsd: http://www.w3.org/2001/XMLSchema#}

@@ -1,0 +1,22 @@
+mappings:
+  TMncbigene-gene2go2:
+    po:
+    - [http://www.w3.org/1999/02/22-rdf-syntax-ns#type, "http://bio2rdf.org/ncbigene_vocabulary:Resource"]
+    - [http://purl.org/dc/terms/title, "association between $(geneid) and $(go_id)"]
+    - [http://bio2rdf.org/ncbigene_vocabulary:evidence, "http://bio2rdf.org/eco:$(evidence)"]
+    - [http://bio2rdf.org/ncbigene_vocabulary:go-category, "ncbigene_vocabulary:$(category)"]
+    - [http://bio2rdf.org/ncbigene_vocabulary:go-term, $(go_id)]
+    - [http://bio2rdf.org/ncbigene_vocabulary:go-term, $(go-term)]
+    s: http://bio2rdf.org/ncbigene_resource:$(geneid)_$(go_id)
+    sources:
+    - {table: GENE2GO}
+prefixes: {bv: http://bio2rdf.org/bio2rdf_vocabulary:, dcterms: http://purl.org/dc/terms/,
+  fno: http://w3id.org/function/ontology#, genagev: http://bio2rdf.org/genage_vocabulary:,
+  hgncv: http://bio2rdf.org/hgnc_vocabulary, homogv: http://bio2rdf.org/homologene_vocabulary:,
+  hsv: http://bio2rdf.org/hgnc.symbol_vocabulary:, ncbiv: http://bio2rdf.org/ncbigene_vocabulary:,
+  ndcv: http://bio2rdf.org/ndc_vocabulary:, owl: http://www.w3.org/2002/07/owl#,
+  ql: http://semweb.mmlab.be/ns/ql#, rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#,
+  rdfs: http://www.w3.org/2000/01/rdf-schema#, rml: http://semweb.mmlab.be/ns/rml#,
+  rr: http://www.w3.org/ns/r2rml#, sidv: http://bio2rdf.org/sider_vocabulary:,
+  sql: http://w3.org/ns/sql#, taxv: http://bio2rdf.org/taxonomy_vocabulary:, wbv: http://bio2rdf.org/wormbase_vocabulary:,
+  xsd: http://www.w3.org/2001/XMLSchema#}

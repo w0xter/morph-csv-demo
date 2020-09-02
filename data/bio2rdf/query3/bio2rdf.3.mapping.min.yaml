@@ -1,0 +1,27 @@
+mappings:
+  TMwormbase-gene_association:
+    po:
+    - [http://www.w3.org/1999/02/22-rdf-syntax-ns#type, "http://bio2rdf.org/wormbase_vocabulary:Resource"]
+    - [http://www.w3.org/1999/02/22-rdf-syntax-ns#type, "http://bio2rdf.org/wormbase_vocabulary:Gene-GO-Association"]
+    - [http://www.w3.org/2000/01/rdf-schema#seeAlso, $(seealso)]
+    s: http://bio2rdf.org/wormbase_resource:$(gene_id)_$(go_id)_$(evidence)
+    sources:
+    - {table: WBGENE_ASSOCIATION}
+  TMwormbase-geneid:
+    po:
+    - [http://www.w3.org/1999/02/22-rdf-syntax-ns#type, "http://bio2rdf.org/wormbase_vocabulary:Resource"]
+    - [http://www.w3.org/1999/02/22-rdf-syntax-ns#type, "http://bio2rdf.org/wormbase_vocabulary:Gene"]
+    - [http://www.w3.org/2000/01/rdf-schema#seeAlso, "http://wormbase.org/db/gene/gene?name=$(gene_id)"]
+    s: http://bio2rdf.org/wormbase:$(gene_id)
+    sources:
+    - {table: WBGENEIDS}
+prefixes: {bv: http://bio2rdf.org/bio2rdf_vocabulary:, dcterms: http://purl.org/dc/terms/,
+  fno: http://w3id.org/function/ontology#, genagev: http://bio2rdf.org/genage_vocabulary:,
+  hgncv: http://bio2rdf.org/hgnc_vocabulary, homogv: http://bio2rdf.org/homologene_vocabulary:,
+  hsv: http://bio2rdf.org/hgnc.symbol_vocabulary:, ncbiv: http://bio2rdf.org/ncbigene_vocabulary:,
+  ndcv: http://bio2rdf.org/ndc_vocabulary:, owl: http://www.w3.org/2002/07/owl#,
+  ql: http://semweb.mmlab.be/ns/ql#, rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#,
+  rdfs: http://www.w3.org/2000/01/rdf-schema#, rml: http://semweb.mmlab.be/ns/rml#,
+  rr: http://www.w3.org/ns/r2rml#, sidv: http://bio2rdf.org/sider_vocabulary:,
+  sql: http://w3.org/ns/sql#, taxv: http://bio2rdf.org/taxonomy_vocabulary:, wbv: http://bio2rdf.org/wormbase_vocabulary:,
+  xsd: http://www.w3.org/2001/XMLSchema#}

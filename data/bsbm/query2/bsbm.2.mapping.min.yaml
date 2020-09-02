@@ -1,0 +1,84 @@
+mappings:
+  producer:
+    po:
+    - [http://www.w3.org/2000/01/rdf-schema#label, $(label)]
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer$(nr)/Producer$(nr)
+    sources:
+    - {table: PRODUCER}
+  product:
+    po:
+    - [http://www.w3.org/2000/01/rdf-schema#label, $(label)]
+    - [http://www.w3.org/2000/01/rdf-schema#comment, $(comment)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyNumeric1,
+      $(propertynum1)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyNumeric2,
+      $(propertynum2)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyNumeric4,
+      $(propertynum4)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyTextual1,
+      $(propertytex1)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyTextual2,
+      $(propertytex2)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyTextual3,
+      $(propertytex3)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyTextual4,
+      $(propertytex4)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productPropertyTextual5,
+      $(propertytex5)]
+    - o:
+      - condition:
+          function: equal
+          parameters:
+          - [str1, $(producer)]
+          - [str2, $(nr)]
+        mapping: producer
+      p: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/producer
+    - o:
+      - condition:
+          function: equal
+          parameters:
+          - [str1, $(nr)]
+          - [str2, $(publisher)]
+        mapping: producer
+      p: http://purl.org/dc/elements/1.1/publisher
+    - o:
+      - condition:
+          function: equal
+          parameters:
+          - [str1, $(nr)]
+          - [str2, $(product)]
+        mapping: productfeatureproduct
+      p: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/productFeature
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer$(producer)/Product$(nr)
+    sources:
+    - {table: PRODUCT}
+  productfeature:
+    po:
+    - [http://www.w3.org/2000/01/rdf-schema#label, $(label)]
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/ProductFeature$(nr)
+    sources:
+    - {table: PRODUCTFEATURE}
+  productfeatureproduct:
+    po: []
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/ProductFeature$(productfeature)
+    sources:
+    - {table: PRODUCTFEATUREPRODUCT}
+  producttype:
+    po:
+    - [http://www.w3.org/2000/01/rdf-schema#label, $(label)]
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/ProductType$(nr)
+    sources:
+    - {table: PRODUCTTYPE}
+  vendor:
+    po:
+    - [http://www.w3.org/2000/01/rdf-schema#label, $(label)]
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/Vendor$(nr)
+    sources:
+    - {table: VENDOR}
+prefixes: {bsbm: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/, bsbm-inst: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/,
+  dc: http://purl.org/dc/elements/1.1/, dct: http://purl.org/dc/terms/, foaf: http://xmlns.com/foaf/0.1/,
+  geo: http://www.w3.org/2003/01/geo/wgs84_pos#, gtfs: http://vocab.gtfs.org/terms#,
+  ql: http://semweb.mmlab.be/ns/ql#, rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#,
+  rdfs: http://www.w3.org/2000/01/rdf-schema#, rev: http://purl.org/stuff/rev#,
+  rml: http://semweb.mmlab.be/ns/rml#, rr: http://www.w3.org/ns/r2rml#, schema: http://schema.org/,
+  xsd: http://www.w3.org/2001/XMLSchema#}

@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS "product" CASCADE;CREATE TABLE product(nr INT,label VARCHAR,producer INT,propertyNum1 INT,propertyNum2 INT,PRIMARY KEY (nr));DROP TABLE IF EXISTS "productfeatureproduct" CASCADE;CREATE TABLE productfeatureproduct(product INT,productFeature INT,PRIMARY KEY (productFeature,product));

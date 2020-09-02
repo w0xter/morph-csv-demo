@@ -1,0 +1,63 @@
+mappings:
+  offer:
+    po:
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/price, $(price)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/validTo, $(validto)]
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/deliveryDays, $(deliverydays)]
+    - o:
+      - condition:
+          function: equal
+          parameters:
+          - [str1, $(product)]
+          - [str2, $(nr)]
+        mapping: product
+      p: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/product
+    - o:
+      - condition:
+          function: equal
+          parameters:
+          - [str1, $(vendor)]
+          - [str2, $(nr)]
+        mapping: vendor
+      p: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/vendor
+    - o:
+      - condition:
+          function: equal
+          parameters:
+          - [str1, $(publisher)]
+          - [str2, $(nr)]
+        mapping: vendor
+      p: http://purl.org/dc/elements/1.1/publisher
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/Offer$(nr)
+    sources:
+    - {table: OFFER}
+  person:
+    po:
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/country, "http://downlode.org/rdf/iso-3166/countries#$(country)"]
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/Reviewer$(nr)
+    sources:
+    - {table: PERSON}
+  producer:
+    po:
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/country, "http://downlode.org/rdf/iso-3166/countries#$(country)"]
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer$(nr)/Producer$(nr)
+    sources:
+    - {table: PRODUCER}
+  product:
+    po: []
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer$(producer)/Product$(nr)
+    sources:
+    - {table: PRODUCT}
+  vendor:
+    po:
+    - [http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/country, "http://downlode.org/rdf/iso-3166/countries#$(country)"]
+    s: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/Vendor$(nr)
+    sources:
+    - {table: VENDOR}
+prefixes: {bsbm: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/vocabulary/, bsbm-inst: http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/,
+  dc: http://purl.org/dc/elements/1.1/, dct: http://purl.org/dc/terms/, foaf: http://xmlns.com/foaf/0.1/,
+  geo: http://www.w3.org/2003/01/geo/wgs84_pos#, gtfs: http://vocab.gtfs.org/terms#,
+  ql: http://semweb.mmlab.be/ns/ql#, rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#,
+  rdfs: http://www.w3.org/2000/01/rdf-schema#, rev: http://purl.org/stuff/rev#,
+  rml: http://semweb.mmlab.be/ns/rml#, rr: http://www.w3.org/ns/r2rml#, schema: http://schema.org/,
+  xsd: http://www.w3.org/2001/XMLSchema#}
