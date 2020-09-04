@@ -723,7 +723,7 @@ export default class Query extends React.Component{
                 </div>
               </Col>
               <Col xs={24} md={12}>
-                <QueryChart csvw={csvw}></QueryChart>
+                <QueryChart csvw={this.state.csvw} dataset={this.state.dataset}></QueryChart>
               </Col>
           </Row>
           <Divider/>
@@ -740,7 +740,7 @@ export default class Query extends React.Component{
           <Tabs>
             <TabPane tab="SQL Schema" key="1">
                 <SyntaxHighlighter language="sql" style={docco}>
-                {this.state.schema}
+                {this.state.schema.replace(';', ';\n')}
                 </SyntaxHighlighter>
             </TabPane>             
             <TabPane tab="Simplified YARRRML Mapping" key="3">
@@ -799,8 +799,9 @@ export default class Query extends React.Component{
       const strCsvw = JSON.stringify(csvw,null,"  ");
       const yarrrml = await fetchData(dir + 'mapping.yaml')
       const schema = await fetchData(dir + 'schema.sql')
+      //const query = await fetchData(dir + 'rq')
       console.log(dir)
-      this.setState({csvw:csvw,strCsvw:csvw, yarrrml:yarrrml,schema:schema})
+      this.setState({dataset:dataset, csvw:csvw,strCsvw:strCsvw, yarrrml:yarrrml,schema:schema})
       console.log(this.state)
    }catch(err){
      console.log(err)

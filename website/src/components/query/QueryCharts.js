@@ -2,54 +2,78 @@ import React from 'react';
 import {Pie, Doughnut} from 'react-chartjs-2';
 import {Row, Col, Typography, Statistic, Divider, Space, Button} from 'antd';
 const {Title} = Typography;
-const data = [
-    {
-        labels: [
-            'Total Columns',
-            'Selected Columns',
-      ],
-        datasets: [{
-            data: [74, 9],
-            backgroundColor: [
-            '#ca2302',
-            '#0163c0',
-            ],
-            hoverBackgroundColor: [
-            '#ca2302',
-            '#0163c0',
-            ]
-        }]
+const totalElements = {
+    gtfs:{
+        columns:74,
+        sources:10
     },
-    {
-        labels: [
-            'Sources',
-            'Selected Sources',
-      ],
-        datasets: [{
-            data: [10, 2],
-            backgroundColor: [
-            '#ca2302',
-            '#0163c0',
-            ],
-            hoverBackgroundColor: [
-            '#ca2302',
-            '#0163c0',
-            ]
-        }]        
+    bio2rdf:{
+        sources:12,
+        columns:164
+    },
+    bsbm:{
+        sources:10,
+        columns:78
     }
-]
-
+}
 export default function QueryChart(props){
     let foreignKeys = 0;
     let primaryKeys = 0;
     let subtitutions = 0;
     let dataTypes = [];
-    let selectedCols = 0;
-    let selectedSources = 0;
-
-    // props.csvw.tables.map((table) => {
-
-    // });
+    let totalSources = totalElements[props.dataset].sources;
+    let totalColumns = totalElements[props.dataset].columns;
+    let selectedColumns = 0;
+    let selectedSources = props.csvw.tables.length;
+    props.csvw.tables.map((table) => {
+        if(Object.keys(table.tableSchema).includes("primaryKey") && table.tableSchema.primaryKey.length != 0){
+            primaryKeys++;
+        }
+        selectedColumns += table.filteredRowTitles.length;
+        foreignKeys += Object.keys(table.tableSchema).includes("foreignKey") ? table.tableSchema.foreignKey.length:0;
+        if(Object.keys(table).includes('columns')){
+            table.columns.map((col) => {
+                if(Object.keys(col).includes('datatype'))
+                    dataTypes.push(col.datatype)
+            })
+        }
+    });
+    let data = [
+        {
+            labels: [
+                'Total Columns',
+                'Selected Columns',
+          ],
+            datasets: [{
+                data: [totalColumns, selectedColumns],
+                backgroundColor: [
+                '#ca2302',
+                '#0163c0',
+                ],
+                hoverBackgroundColor: [
+                '#ca2302',
+                '#0163c0',
+                ]
+            }]
+        },
+        {
+            labels: [
+                'Sources',
+                'Selected Sources',
+          ],
+            datasets: [{
+                data: [totalSources, selectedSources],
+                backgroundColor: [
+                '#ca2302',
+                '#0163c0',
+                ],
+                hoverBackgroundColor: [
+                '#ca2302',
+                '#0163c0',
+                ]
+            }]        
+        }
+    ]    
     return(
         <>
         <Row  gutter={32} style={{}}>
@@ -61,16 +85,16 @@ export default function QueryChart(props){
         <div style={{textAlign:'center', marginTop:32}}>
         <Row  gutter={32} justify="center" style={{}}>
                 <Col>
-                <Statistic title={<Title level={4} type="">Primary Keys</Title>} value={2} />
+                <Statistic title={<Title level={4} type="">Primary Keys</Title>} value={primaryKeys} />
                 </Col>
                 <Col>
                 <Statistic title={<Title level={4} type="">Foreign Keys</Title>} value={foreignKeys} />
                 </Col>
                 <Col>
-                <Statistic title={<Title level={4} type="">Substitutions</Title>} value={7} />
+                <Statistic title={<Title level={4} type="">Substitutions</Title>} value={subtitutions} />
                 </Col>
                 <Col>
-                <Statistic title={<Title level={4} type="">Datatypes</Title>} value="-" />
+                <Statistic title={<Title level={4} type="">Datatypes</Title>} value={dataTypes} />
                 </Col>            
             </Row>
             <Row style={{marginTop:16}}>
