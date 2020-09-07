@@ -7,198 +7,16 @@ import axios from 'axios'
 import Layout from '../components/general/Layout'
 import QueryChart from '../components/query/QueryCharts'
 import {data} from '../data/data'
+import renderEmpty from 'antd/lib/config-provider/renderEmpty';
+import { readString } from 'react-papaparse';
 
 
 
 const {TabPane} = Tabs;
 const {Title, Paragraph, Text} = Typography;
 
-const query = 
-`PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-PREFIX gtfs: <http://vocab.gtfs.org/terms#>
-PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
-PREFIX dct: <http://purl.org/dc/terms/>
 
-SELECT * WHERE {
-	?route a gtfs:Route .
-	OPTIONAL { ?route gtfs:shortName ?routeShortName . }
-	OPTIONAL { ?route gtfs:longName ?routeLongName . } 
-	OPTIONAL { ?route dct:description ?routeDescription . } 
-	?route gtfs:agency ?agency .
 
-	?agency a gtfs:Agency .
-	?agency foaf:page ?agencyPage .
-	?agency foaf:name ?agencyName .
-	OPTIONAL { ?agency foaf:phone ?agencyPhone . }
-}
-`
-const csvw = 
-`{
-  "@context": [
-    "http://www.w3.org/ns/csvw"
-  ],
-  "tables": [
-    {
-      "url": "/data/AGENCY.csv",
-      "dialect": {
-        "header": false
-      },
-      "tableSchema": {
-        "primaryKey": "agency_id",
-        "columns": [
-          {
-            "datatype": "string",
-            "titles": "agency_id"
-          },
-          {
-            "datatype": "string",
-            "titles": "agency_url"
-          },
-          {
-            "datatype": "string",
-            "titles": "agency_name"
-          },
-          {
-            "datatype": "string",
-            "titles": "agency_phone"
-          }
-        ],
-        "rowTitles": [
-          "agency_id",
-          "agency_name",
-          "agency_url",
-          "agency_timezone",
-          "agency_lang",
-          "agency_phone",
-          "agency_fare_url"
-        ],
-        "foreignKeys": []
-      },
-      "filteredRowTitles": [
-        "agency_id",
-        "agency_name",
-        "agency_url",
-        "agency_phone"
-      ]
-    },
-    {
-      "url": "/data/ROUTES.csv",
-      "dialect": {
-        "header": false
-      },
-      "tableSchema": {
-        "primaryKey": "route_id",
-        "foreignKey": [
-          {
-            "columnReference": "agency_id",
-            "reference": {
-              "resource": "/data/AGENCY.csv",
-              "columnReference": "agency_id"
-            }
-          }
-        ],
-        "columns": [
-          {
-            "datatype": "string",
-            "titles": "route_id"
-          },
-          {
-            "datatype": "string",
-            "titles": "agency_id"
-          },
-          {
-            "datatype": "string",
-            "titles": "route_short_name"
-          },
-          {
-            "datatype": "string",
-            "titles": "route_long_name"
-          },
-          {
-            "datatype": "string",
-            "titles": "route_desc"
-          }
-        ],
-        "rowTitles": [
-          "route_id",
-          "agency_id",
-          "route_short_name",
-          "route_long_name",
-          "route_desc",
-          "route_type",
-          "route_url",
-          "route_color",
-          "route_text_color"
-        ],
-        "foreignKeys": []
-      },
-      "filteredRowTitles": [
-        "route_id",
-        "agency_id",
-        "route_short_name",
-        "route_long_name",
-        "route_desc"
-      ]
-    }
-  ]
-}`
-const yarrrml = `
-mappings:
-  agency:
-    po:
-    - [http://www.w3.org/1999/02/22-rdf-syntax-ns#type, "http://vocab.gtfs.org/terms#Agency"]
-    - [http://xmlns.com/foaf/0.1/page, $(agency_url)~iri]
-    - [http://xmlns.com/foaf/0.1/name, $(agency_name)]
-    - [http://xmlns.com/foaf/0.1/phone, $(agency_phone)]
-    s: http://transport.linkeddata.es/madrid/agency/$(agency_id)
-    sources:
-    - {table: AGENCY}
-  routes:
-    po:
-    - [http://www.w3.org/1999/02/22-rdf-syntax-ns#type, "http://vocab.gtfs.org/terms#Route"]
-    - [http://vocab.gtfs.org/terms#shortName, $(route_short_name)]
-    - [http://vocab.gtfs.org/terms#longName, $(route_long_name)]
-    - [http://purl.org/dc/terms/description, $(route_desc)]
-    - o:
-      - condition:
-          function: equal
-          parameters:
-          - [str1, $(agency_id)]
-          - [str2, $(agency_id)]
-        mapping: agency
-      p: http://vocab.gtfs.org/terms#agency
-    s: http://transport.linkeddata.es/madrid/metro/routes/$(route_id)
-    sources:
-    - {table: ROUTES}
-prefixes: {dc: http://purl.org/dc/elements/1.1/, dct: http://purl.org/dc/terms/,
-  foaf: http://xmlns.com/foaf/0.1/, geo: http://www.w3.org/2003/01/geo/wgs84_pos#,
-  gtfs: http://vocab.gtfs.org/terms#, ql: http://semweb.mmlab.be/ns/ql#, rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#,
-  rdfs: http://www.w3.org/2000/01/rdf-schema#, rev: http://purl.org/stuff/rev#,
-  rml: http://semweb.mmlab.be/ns/rml#, rr: http://www.w3.org/ns/r2rml#, schema: http://schema.org/,
-  xsd: http://www.w3.org/2001/XMLSchema#}
-
-`
-const schema = `
-DROP TABLE IF EXISTS "agency" CASCADE;
-CREATE TABLE agency(
-    agency_id VARCHAR,
-    agency_name VARCHAR,
-    agency_url VARCHAR,
-    agency_phone VARCHAR,
-    PRIMARY KEY (agency_id)
-);
-DROP TABLE IF EXISTS "routes" CASCADE;
-CREATE TABLE routes(
-    route_id VARCHAR,
-    agency_id VARCHAR,
-    route_short_name VARCHAR,
-    route_long_name VARCHAR,
-    route_desc VARCHAR,
-    PRIMARY KEY (route_id)
-);
-`
 const outputCsv = [
   { title:'SHAPE.csv',
   columns:[
@@ -691,6 +509,7 @@ export default class Query extends React.Component{
       queryIdx:'',
       query:'',
       dir:'',
+      csvs:null,
       csvw:null,
       strCsvw:'',
       yarrrml:null,
@@ -718,7 +537,7 @@ export default class Query extends React.Component{
                 <Title level={3}>SPARQL Query</Title>
                 <div style={{marginTop:32}}>
                 <SyntaxHighlighter language="ttl" style={docco}>
-                  {this.state.query.sparql}
+                  {this.state.query}
                   </SyntaxHighlighter>
                 </div>
               </Col>
@@ -789,24 +608,38 @@ export default class Query extends React.Component{
       </Layout>
    )    
   }
+
   async getData(){
     const dataset = this.props.match.params.dataset;
     const queryIdx = this.props.match.params.query;
-    this.setState({query:data[dataset]['queries'][queryIdx], queryIdx:queryIdx, dataset:dataset})
-    const dir = data[dataset]['url'] + 'query' + queryIdx + '/query' + queryIdx + '.'
+    this.setState({queryIdx:queryIdx, dataset:dataset})
+    const queryDir = data[dataset]['url'] + 'query' + queryIdx;
+    const dir =  queryDir + '/query' + queryIdx + '.';
    try{
       const csvw = await fetchData(dir + 'csvw.min.json') 
       const strCsvw = JSON.stringify(csvw,null,"  ");
       const yarrrml = await fetchData(dir + 'mapping.yaml')
       const schema = await fetchData(dir + 'schema.sql')
-      //const query = await fetchData(dir + 'rq')
-      console.log(dir)
-      this.setState({dataset:dataset, csvw:csvw,strCsvw:strCsvw, yarrrml:yarrrml,schema:schema})
-      console.log(this.state)
+      const query = await fetchData(dir + 'rq')
+      const csvUrls = csvw['tables'].map(table =>  queryDir + '/results/' + table.url.split("/").pop())
+      const getCsvs = async () => {
+        let CSVs = [];
+        csvUrls.map(url => this.loadCSVs(url).then(data => CSVs.push(data)));
+        this.setState({csvs:CSVs})
+      }
+      await getCsvs()
+      console.log(this.state.csvs)
+      this.setState({dataset:dataset, csvw:csvw,strCsvw:strCsvw, yarrrml:yarrrml,schema:schema, query:query})
    }catch(err){
      console.log(err)
    }
   }
+  loadCSVs(url){
+    return new Promise(async (resolve, reject) =>{
+      const data = await fetchData(url).catch((err) => reject(err));
+      resolve(readString(data));
+    });
+  }  
   async componentDidMount(){
     await this.getData();  
   }
