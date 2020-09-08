@@ -1,0 +1,499 @@
+{
+  "data": [
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0005942",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0005942",
+      "evidence": "IDA"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0005942",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0008286",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0008286",
+      "evidence": "IGI"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0008286",
+      "evidence": "IMP"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0008340",
+      "evidence": "IMP"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0016301",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0016310",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0019901",
+      "evidence": "IPI"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0035014",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0040024",
+      "evidence": "IGI"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0040024",
+      "evidence": "IMP"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0043551",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0046854",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "GO_id": "GO:0046935",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:0003333",
+      "evidence": "IDA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:0005886",
+      "evidence": "IDA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:0015179",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:0015179",
+      "evidence": "IDA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:0016020",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:0016021",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:0022857",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:0055085",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:1902475",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "GO_id": "GO:1990184",
+      "evidence": "IPI"
+    },
+    {
+      "gene_id": "WBGene00000003",
+      "GO_id": "GO:0015179",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000003",
+      "GO_id": "GO:0016020",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000003",
+      "GO_id": "GO:0016021",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000003",
+      "GO_id": "GO:0022857",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000003",
+      "GO_id": "GO:0055085",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000003",
+      "GO_id": "GO:1902475",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "GO_id": "GO:0003333",
+      "evidence": "IDA"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "GO_id": "GO:0005886",
+      "evidence": "IDA"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "GO_id": "GO:0015179",
+      "evidence": "IDA"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "GO_id": "GO:0016020",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "GO_id": "GO:0016021",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "GO_id": "GO:0022857",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "GO_id": "GO:0055085",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "GO_id": "GO:1902475",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "GO_id": "GO:1990184",
+      "evidence": "IPI"
+    },
+    {
+      "gene_id": "WBGene00000005",
+      "GO_id": "GO:0015179",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000005",
+      "GO_id": "GO:0016020",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000005",
+      "GO_id": "GO:0016021",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000005",
+      "GO_id": "GO:0022857",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000005",
+      "GO_id": "GO:0055085",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000005",
+      "GO_id": "GO:1902475",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "GO_id": "GO:0015179",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "GO_id": "GO:0016020",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "GO_id": "GO:0016021",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "GO_id": "GO:0022857",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "GO_id": "GO:0055085",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "GO_id": "GO:1902475",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000007",
+      "GO_id": "GO:0015179",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000007",
+      "GO_id": "GO:0016020",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000007",
+      "GO_id": "GO:0016021",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000007",
+      "GO_id": "GO:0022857",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000007",
+      "GO_id": "GO:0055085",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000007",
+      "GO_id": "GO:1902475",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000008",
+      "GO_id": "GO:0015179",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000008",
+      "GO_id": "GO:0016020",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000008",
+      "GO_id": "GO:0016021",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000008",
+      "GO_id": "GO:0022857",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000008",
+      "GO_id": "GO:0055085",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000008",
+      "GO_id": "GO:1902475",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000009",
+      "GO_id": "GO:0015179",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000009",
+      "GO_id": "GO:0016020",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000009",
+      "GO_id": "GO:0016021",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000009",
+      "GO_id": "GO:0022857",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000009",
+      "GO_id": "GO:0055085",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000009",
+      "GO_id": "GO:1902475",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000010",
+      "GO_id": "GO:0009986",
+      "evidence": "IDA"
+    },
+    {
+      "gene_id": "WBGene00000010",
+      "GO_id": "GO:0015179",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000010",
+      "GO_id": "GO:0016020",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000010",
+      "GO_id": "GO:0016021",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000010",
+      "GO_id": "GO:0022857",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000010",
+      "GO_id": "GO:0055085",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000010",
+      "GO_id": "GO:1902475",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "GO_id": "GO:0000278",
+      "evidence": "IMP"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "GO_id": "GO:0009792",
+      "evidence": "IMP"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "GO_id": "GO:0040025",
+      "evidence": "IMP"
+    },
+    {
+      "gene_id": "WBGene00000012",
+      "GO_id": "GO:0005576",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000012",
+      "GO_id": "GO:0098542",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "GO_id": "GO:0003674",
+      "evidence": "ND"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "GO_id": "GO:0005576",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "GO_id": "GO:0031640",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "GO_id": "GO:0042742",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "GO_id": "GO:0050829",
+      "evidence": "IEP"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "GO_id": "GO:0050830",
+      "evidence": "IEP"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "GO_id": "GO:0050832",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "GO_id": "GO:0098542",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "GO_id": "GO:0000077",
+      "evidence": "IGI"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "GO_id": "GO:0000166",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "GO_id": "GO:0004672",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "GO_id": "GO:0004713",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "GO_id": "GO:0004715",
+      "evidence": "IBA"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "GO_id": "GO:0004715",
+      "evidence": "IEA"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "GO_id": "GO:0004715",
+      "evidence": "ISS"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "GO_id": "GO:0005515",
+      "evidence": "IPI"
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "data": [
+    {
+      "tax_id": "1",
+      "parent_tax_id": "1",
+      "division_id": "8",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "10",
+      "parent_tax_id": "1706371",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100",
+      "parent_tax_id": "99",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100000",
+      "parent_tax_id": "963",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000000",
+      "parent_tax_id": "33882",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000001",
+      "parent_tax_id": "1763",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000002",
+      "parent_tax_id": "1763",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000003",
+      "parent_tax_id": "1817",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000004",
+      "parent_tax_id": "52972",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000005",
+      "parent_tax_id": "43676",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000006",
+      "parent_tax_id": "43676",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000007",
+      "parent_tax_id": "286",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000008",
+      "parent_tax_id": "286",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000009",
+      "parent_tax_id": "286",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100001",
+      "parent_tax_id": "963",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000010",
+      "parent_tax_id": "286",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000011",
+      "parent_tax_id": "286",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000012",
+      "parent_tax_id": "286",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000013",
+      "parent_tax_id": "286",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000014",
+      "parent_tax_id": "286",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000015",
+      "parent_tax_id": "1827",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000016",
+      "parent_tax_id": "1827",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000017",
+      "parent_tax_id": "1827",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000018",
+      "parent_tax_id": "1827",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000019",
+      "parent_tax_id": "1827",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100002",
+      "parent_tax_id": "963",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000020",
+      "parent_tax_id": "60919",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000021",
+      "parent_tax_id": "60919",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000022",
+      "parent_tax_id": "60919",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000023",
+      "parent_tax_id": "83494",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000024",
+      "parent_tax_id": "234440",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000025",
+      "parent_tax_id": "234440",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000026",
+      "parent_tax_id": "99482",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000027",
+      "parent_tax_id": "33807",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000028",
+      "parent_tax_id": "65119",
+      "division_id": "11",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000029",
+      "parent_tax_id": "286",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100003",
+      "parent_tax_id": "963",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000030",
+      "parent_tax_id": "357",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000031",
+      "parent_tax_id": "357",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000032",
+      "parent_tax_id": "547",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000033",
+      "parent_tax_id": "237",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000034",
+      "parent_tax_id": "551",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100004",
+      "parent_tax_id": "963",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100005",
+      "parent_tax_id": "963",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100006",
+      "parent_tax_id": "191",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100007",
+      "parent_tax_id": "1763",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100008",
+      "parent_tax_id": "159987",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "100009",
+      "parent_tax_id": "100008",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "10001",
+      "parent_tax_id": "337752",
+      "division_id": "6",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "2"
+    },
+    {
+      "tax_id": "100010",
+      "parent_tax_id": "159987",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "100011",
+      "parent_tax_id": "100010",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "100012",
+      "parent_tax_id": "773",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100013",
+      "parent_tax_id": "773",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100014",
+      "parent_tax_id": "80841",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100015",
+      "parent_tax_id": "80841",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100016",
+      "parent_tax_id": "80841",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100017",
+      "parent_tax_id": "83494",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100018",
+      "parent_tax_id": "83494",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100019",
+      "parent_tax_id": "55170",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "10002",
+      "parent_tax_id": "10007",
+      "division_id": "6",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "2"
+    },
+    {
+      "tax_id": "100020",
+      "parent_tax_id": "83494",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100021",
+      "parent_tax_id": "80841",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100022",
+      "parent_tax_id": "80841",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100023",
+      "parent_tax_id": "83494",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100024",
+      "parent_tax_id": "83494",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100025",
+      "parent_tax_id": "191554",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "100026",
+      "parent_tax_id": "100025",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "100027",
+      "parent_tax_id": "100026",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "1000273",
+      "parent_tax_id": "570",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000274",
+      "parent_tax_id": "469",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000275",
+      "parent_tax_id": "497",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000276",
+      "parent_tax_id": "497",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000277",
+      "parent_tax_id": "1279",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000278",
+      "parent_tax_id": "78079",
+      "division_id": "10",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "2"
+    },
+    {
+      "tax_id": "1000279",
+      "parent_tax_id": "547",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100028",
+      "parent_tax_id": "715943",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "1000280",
+      "parent_tax_id": "570",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000281",
+      "parent_tax_id": "1386",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000282",
+      "parent_tax_id": "68",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000283",
+      "parent_tax_id": "28263",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000284",
+      "parent_tax_id": "28263",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000285",
+      "parent_tax_id": "28263",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000286",
+      "parent_tax_id": "28263",
+      "division_id": "0",
+      "genetic_code_id": "11",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000287",
+      "parent_tax_id": "31454",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "1000288",
+      "parent_tax_id": "119210",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000289",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "100029",
+      "parent_tax_id": "100028",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    },
+    {
+      "tax_id": "1000290",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000291",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000292",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000293",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000294",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000295",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000296",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000297",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000298",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "1000299",
+      "parent_tax_id": "114727",
+      "division_id": "9",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "0"
+    },
+    {
+      "tax_id": "10003",
+      "parent_tax_id": "10007",
+      "division_id": "6",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "2"
+    },
+    {
+      "tax_id": "100030",
+      "parent_tax_id": "45292",
+      "division_id": "4",
+      "genetic_code_id": "1",
+      "mitochondrial_genetic_code_id": "4"
+    }
+  ]
+}

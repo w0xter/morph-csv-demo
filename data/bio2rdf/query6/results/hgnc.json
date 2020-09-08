@@ -1,0 +1,400 @@
+{
+  "data": [
+    {
+      "HGNC_ID": "HGNC:1",
+      "Approved_Symbol": "A12M1"
+    },
+    {
+      "HGNC_ID": "HGNC:10",
+      "Approved_Symbol": "A2MRAP"
+    },
+    {
+      "HGNC_ID": "HGNC:100",
+      "Approved_Symbol": "ASIC1"
+    },
+    {
+      "HGNC_ID": "HGNC:1000",
+      "Approved_Symbol": "BCL5"
+    },
+    {
+      "HGNC_ID": "HGNC:10000",
+      "Approved_Symbol": "RGS4"
+    },
+    {
+      "HGNC_ID": "HGNC:10001",
+      "Approved_Symbol": "RGS5"
+    },
+    {
+      "HGNC_ID": "HGNC:10002",
+      "Approved_Symbol": "RGS6"
+    },
+    {
+      "HGNC_ID": "HGNC:10003",
+      "Approved_Symbol": "RGS7"
+    },
+    {
+      "HGNC_ID": "HGNC:10004",
+      "Approved_Symbol": "RGS9"
+    },
+    {
+      "HGNC_ID": "HGNC:10005",
+      "Approved_Symbol": "RH"
+    },
+    {
+      "HGNC_ID": "HGNC:10006",
+      "Approved_Symbol": "RHAG"
+    },
+    {
+      "HGNC_ID": "HGNC:10007",
+      "Approved_Symbol": "RHBDL1"
+    },
+    {
+      "HGNC_ID": "HGNC:10008",
+      "Approved_Symbol": "RHCE"
+    },
+    {
+      "HGNC_ID": "HGNC:10009",
+      "Approved_Symbol": "RHD"
+    },
+    {
+      "HGNC_ID": "HGNC:1001",
+      "Approved_Symbol": "BCL6"
+    },
+    {
+      "HGNC_ID": "HGNC:10010",
+      "Approved_Symbol": "RHEBP1"
+    },
+    {
+      "HGNC_ID": "HGNC:10011",
+      "Approved_Symbol": "RHEB"
+    },
+    {
+      "HGNC_ID": "HGNC:10012",
+      "Approved_Symbol": "RHO"
+    },
+    {
+      "HGNC_ID": "HGNC:10013",
+      "Approved_Symbol": "GRK1"
+    },
+    {
+      "HGNC_ID": "HGNC:10014",
+      "Approved_Symbol": "RIEG1"
+    },
+    {
+      "HGNC_ID": "HGNC:10015",
+      "Approved_Symbol": "RIEG2"
+    },
+    {
+      "HGNC_ID": "HGNC:10016",
+      "Approved_Symbol": "RIMKLP"
+    },
+    {
+      "HGNC_ID": "HGNC:10017",
+      "Approved_Symbol": "RIT2"
+    },
+    {
+      "HGNC_ID": "HGNC:10018",
+      "Approved_Symbol": "RING1"
+    },
+    {
+      "HGNC_ID": "HGNC:10019",
+      "Approved_Symbol": "RIPK1"
+    },
+    {
+      "HGNC_ID": "HGNC:1002",
+      "Approved_Symbol": "BCL6B"
+    },
+    {
+      "HGNC_ID": "HGNC:10020",
+      "Approved_Symbol": "RIPK2"
+    },
+    {
+      "HGNC_ID": "HGNC:10021",
+      "Approved_Symbol": "RIPK3"
+    },
+    {
+      "HGNC_ID": "HGNC:10022",
+      "Approved_Symbol": "RIR"
+    },
+    {
+      "HGNC_ID": "HGNC:10023",
+      "Approved_Symbol": "RIT1"
+    },
+    {
+      "HGNC_ID": "HGNC:10024",
+      "Approved_Symbol": "RLBP1"
+    },
+    {
+      "HGNC_ID": "HGNC:10025",
+      "Approved_Symbol": "RLF"
+    },
+    {
+      "HGNC_ID": "HGNC:10026",
+      "Approved_Symbol": "RLN1"
+    },
+    {
+      "HGNC_ID": "HGNC:10027",
+      "Approved_Symbol": "RLN2"
+    },
+    {
+      "HGNC_ID": "HGNC:10028",
+      "Approved_Symbol": "RLNL"
+    },
+    {
+      "HGNC_ID": "HGNC:10029",
+      "Approved_Symbol": "RMCH"
+    },
+    {
+      "HGNC_ID": "HGNC:1003",
+      "Approved_Symbol": "BCL7"
+    },
+    {
+      "HGNC_ID": "HGNC:10030",
+      "Approved_Symbol": "RMD1"
+    },
+    {
+      "HGNC_ID": "HGNC:10031",
+      "Approved_Symbol": "RMRP"
+    },
+    {
+      "HGNC_ID": "HGNC:10032",
+      "Approved_Symbol": "RMSA1"
+    },
+    {
+      "HGNC_ID": "HGNC:10033",
+      "Approved_Symbol": "RN5S"
+    },
+    {
+      "HGNC_ID": "HGNC:10034",
+      "Approved_Symbol": "RN5S1@"
+    },
+    {
+      "HGNC_ID": "HGNC:10035",
+      "Approved_Symbol": "RN5S2@"
+    },
+    {
+      "HGNC_ID": "HGNC:10036",
+      "Approved_Symbol": "RN5S3@"
+    },
+    {
+      "HGNC_ID": "HGNC:10037",
+      "Approved_Symbol": "RN7SK"
+    },
+    {
+      "HGNC_ID": "HGNC:10038",
+      "Approved_Symbol": "RN7SL1"
+    },
+    {
+      "HGNC_ID": "HGNC:10039",
+      "Approved_Symbol": "RN7SL4P"
+    },
+    {
+      "HGNC_ID": "HGNC:1004",
+      "Approved_Symbol": "BCL7A"
+    },
+    {
+      "HGNC_ID": "HGNC:10040",
+      "Approved_Symbol": "RN7SL5P"
+    },
+    {
+      "HGNC_ID": "HGNC:10041",
+      "Approved_Symbol": "RN7SL6P"
+    },
+    {
+      "HGNC_ID": "HGNC:10042",
+      "Approved_Symbol": "RN7SL7P"
+    },
+    {
+      "HGNC_ID": "HGNC:10043",
+      "Approved_Symbol": "RN7SL8P"
+    },
+    {
+      "HGNC_ID": "HGNC:10044",
+      "Approved_Symbol": "RNASE1"
+    },
+    {
+      "HGNC_ID": "HGNC:10045",
+      "Approved_Symbol": "RNASE2"
+    },
+    {
+      "HGNC_ID": "HGNC:10046",
+      "Approved_Symbol": "RNASE3"
+    },
+    {
+      "HGNC_ID": "HGNC:10047",
+      "Approved_Symbol": "RNASE4"
+    },
+    {
+      "HGNC_ID": "HGNC:10048",
+      "Approved_Symbol": "RNASE6"
+    },
+    {
+      "HGNC_ID": "HGNC:10049",
+      "Approved_Symbol": "RNASEH1P1"
+    },
+    {
+      "HGNC_ID": "HGNC:1005",
+      "Approved_Symbol": "BCL7B"
+    },
+    {
+      "HGNC_ID": "HGNC:10050",
+      "Approved_Symbol": "RNASEL"
+    },
+    {
+      "HGNC_ID": "HGNC:10051",
+      "Approved_Symbol": "RNASEL1"
+    },
+    {
+      "HGNC_ID": "HGNC:10052",
+      "Approved_Symbol": "RNE1"
+    },
+    {
+      "HGNC_ID": "HGNC:10053",
+      "Approved_Symbol": "RNE2"
+    },
+    {
+      "HGNC_ID": "HGNC:10054",
+      "Approved_Symbol": "RNE3"
+    },
+    {
+      "HGNC_ID": "HGNC:10055",
+      "Approved_Symbol": "RNF10"
+    },
+    {
+      "HGNC_ID": "HGNC:10056",
+      "Approved_Symbol": "RNF11"
+    },
+    {
+      "HGNC_ID": "HGNC:10057",
+      "Approved_Symbol": "RNF13"
+    },
+    {
+      "HGNC_ID": "HGNC:10058",
+      "Approved_Symbol": "RNF14"
+    },
+    {
+      "HGNC_ID": "HGNC:10059",
+      "Approved_Symbol": "TRIM38"
+    },
+    {
+      "HGNC_ID": "HGNC:1006",
+      "Approved_Symbol": "BCL7C"
+    },
+    {
+      "HGNC_ID": "HGNC:10060",
+      "Approved_Symbol": "RNF17"
+    },
+    {
+      "HGNC_ID": "HGNC:10061",
+      "Approved_Symbol": "RNF2"
+    },
+    {
+      "HGNC_ID": "HGNC:10062",
+      "Approved_Symbol": "RNF20"
+    },
+    {
+      "HGNC_ID": "HGNC:10063",
+      "Approved_Symbol": "TRIM34"
+    },
+    {
+      "HGNC_ID": "HGNC:10064",
+      "Approved_Symbol": "TRIM3"
+    },
+    {
+      "HGNC_ID": "HGNC:10065",
+      "Approved_Symbol": "TRIM39"
+    },
+    {
+      "HGNC_ID": "HGNC:10066",
+      "Approved_Symbol": "PCGF3"
+    },
+    {
+      "HGNC_ID": "HGNC:10067",
+      "Approved_Symbol": "RNF4"
+    },
+    {
+      "HGNC_ID": "HGNC:10068",
+      "Approved_Symbol": "RNF5"
+    },
+    {
+      "HGNC_ID": "HGNC:10069",
+      "Approved_Symbol": "RNF6"
+    },
+    {
+      "HGNC_ID": "HGNC:1007",
+      "Approved_Symbol": "NBEAP1"
+    },
+    {
+      "HGNC_ID": "HGNC:10070",
+      "Approved_Symbol": "RNF7"
+    },
+    {
+      "HGNC_ID": "HGNC:10071",
+      "Approved_Symbol": "RNF8"
+    },
+    {
+      "HGNC_ID": "HGNC:10072",
+      "Approved_Symbol": "TRIM10"
+    },
+    {
+      "HGNC_ID": "HGNC:10073",
+      "Approved_Symbol": "RNGTT"
+    },
+    {
+      "HGNC_ID": "HGNC:10074",
+      "Approved_Symbol": "RNH1"
+    },
+    {
+      "HGNC_ID": "HGNC:10075",
+      "Approved_Symbol": "RNMT"
+    },
+    {
+      "HGNC_ID": "HGNC:10076",
+      "Approved_Symbol": "RNN"
+    },
+    {
+      "HGNC_ID": "HGNC:10077",
+      "Approved_Symbol": "RNNL"
+    },
+    {
+      "HGNC_ID": "HGNC:10078",
+      "Approved_Symbol": "RNPEP"
+    },
+    {
+      "HGNC_ID": "HGNC:10079",
+      "Approved_Symbol": "RNPEPL1"
+    },
+    {
+      "HGNC_ID": "HGNC:1008",
+      "Approved_Symbol": "BCL9"
+    },
+    {
+      "HGNC_ID": "HGNC:10080",
+      "Approved_Symbol": "RNPS1"
+    },
+    {
+      "HGNC_ID": "HGNC:10081",
+      "Approved_Symbol": "RNPU1Z"
+    },
+    {
+      "HGNC_ID": "HGNC:10082",
+      "Approved_Symbol": "RNR1"
+    },
+    {
+      "HGNC_ID": "HGNC:10083",
+      "Approved_Symbol": "RNR2"
+    },
+    {
+      "HGNC_ID": "HGNC:10084",
+      "Approved_Symbol": "RNR3"
+    },
+    {
+      "HGNC_ID": "HGNC:10085",
+      "Approved_Symbol": "RNR4"
+    },
+    {
+      "HGNC_ID": "HGNC:10086",
+      "Approved_Symbol": "RNR5"
+    }
+  ]
+}

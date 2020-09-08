@@ -1,0 +1,400 @@
+{
+  "data": [
+    {
+      "GenAge_ID": "1",
+      "name_gene": "AMP-Activated Kinase"
+    },
+    {
+      "GenAge_ID": "10",
+      "name_gene": "AKT kinase family"
+    },
+    {
+      "GenAge_ID": "100",
+      "name_gene": "Chaperonin Containing TCP-1"
+    },
+    {
+      "GenAge_ID": "1000",
+      "name_gene": "Temporarily Assigned Gene name"
+    },
+    {
+      "GenAge_ID": "1001",
+      "name_gene": "hypothetical protein"
+    },
+    {
+      "GenAge_ID": "1002",
+      "name_gene": "hypothetical protein"
+    },
+    {
+      "GenAge_ID": "1003",
+      "name_gene": "hypothetical protein"
+    },
+    {
+      "GenAge_ID": "1004",
+      "name_gene": "hypothetical protein"
+    },
+    {
+      "GenAge_ID": "1005",
+      "name_gene": "hypothetical protein"
+    },
+    {
+      "GenAge_ID": "1006",
+      "name_gene": "hypothetical protein"
+    },
+    {
+      "GenAge_ID": "1007",
+      "name_gene": "hypothetical protein"
+    },
+    {
+      "GenAge_ID": "1008",
+      "name_gene": "hypothetical protein"
+    },
+    {
+      "GenAge_ID": "1009",
+      "name_gene": "hypothetical protein"
+    },
+    {
+      "GenAge_ID": "101",
+      "name_gene": "CTP:phosphocholine cytidylyltransferase 1"
+    },
+    {
+      "GenAge_ID": "1010",
+      "name_gene": "ADP-ribosyltransferase (NAD+; poly (ADP-ribose) polymerase)"
+    },
+    {
+      "GenAge_ID": "1011",
+      "name_gene": "Sirtuin 1 ((silent mating type information regulation 2"
+    },
+    {
+      "GenAge_ID": "1012",
+      "name_gene": "Phosphatase and tensin homolog"
+    },
+    {
+      "GenAge_ID": "1013",
+      "name_gene": "Heat shock 70kDa protein 1A"
+    },
+    {
+      "GenAge_ID": "1015",
+      "name_gene": "Pyrazinamidase and NiCotinamidase"
+    },
+    {
+      "GenAge_ID": "1016",
+      "name_gene": "Alpha1-proteinase inhibitor-Degradation Deficient"
+    },
+    {
+      "GenAge_ID": "1017",
+      "name_gene": "Alpha1-proteinase inhibitor-Degradation Deficient"
+    },
+    {
+      "GenAge_ID": "1018",
+      "name_gene": "ADEnine requiring"
+    },
+    {
+      "GenAge_ID": "1019",
+      "name_gene": "Alcohol DeHydrogenase"
+    },
+    {
+      "GenAge_ID": "102",
+      "name_gene": "related to yeast Vacuolar Protein Sorting factor"
+    },
+    {
+      "GenAge_ID": "1020",
+      "name_gene": "ATPase ExPression"
+    },
+    {
+      "GenAge_ID": "1021",
+      "name_gene": "Altered Inheritance rate of Mitochondria"
+    },
+    {
+      "GenAge_ID": "1022",
+      "name_gene": "Antagonist of Mitotic exit Network"
+    },
+    {
+      "GenAge_ID": "1023",
+      "name_gene": "ARGinine requiring"
+    },
+    {
+      "GenAge_ID": "1024",
+      "name_gene": "AROmatic amino acid requiring"
+    },
+    {
+      "GenAge_ID": "1025",
+      "name_gene": "Activator of Stress Genes"
+    },
+    {
+      "GenAge_ID": "1026",
+      "name_gene": "AuTophaGy related"
+    },
+    {
+      "GenAge_ID": "1027",
+      "name_gene": "AuTophaGy related"
+    },
+    {
+      "GenAge_ID": "1028",
+      "name_gene": "Acid TreHalase"
+    },
+    {
+      "GenAge_ID": "1029",
+      "name_gene": "Amino acid Vacuolar Transport"
+    },
+    {
+      "GenAge_ID": "103",
+      "name_gene": "Cell Division Cycle related"
+    },
+    {
+      "GenAge_ID": "1030",
+      "name_gene": "Branched-chain Amino acid Permease"
+    },
+    {
+      "GenAge_ID": "1031",
+      "name_gene": "Bypass of C Kinase"
+    },
+    {
+      "GenAge_ID": "1032",
+      "name_gene": "ubiquinol-cytochrome c reductase (bc1) Synthesis"
+    },
+    {
+      "GenAge_ID": "1033",
+      "name_gene": "Brain Modulosignalin Homologue"
+    },
+    {
+      "GenAge_ID": "1034",
+      "name_gene": "Caj1p"
+    },
+    {
+      "GenAge_ID": "1035",
+      "name_gene": "Cytochrome B mRNA Processing"
+    },
+    {
+      "GenAge_ID": "1036",
+      "name_gene": "CITrate synthase"
+    },
+    {
+      "GenAge_ID": "1037",
+      "name_gene": "CycLin B"
+    },
+    {
+      "GenAge_ID": "1038",
+      "name_gene": "Cyclin-Like Gene"
+    },
+    {
+      "GenAge_ID": "1039",
+      "name_gene": "COenzyme Q"
+    },
+    {
+      "GenAge_ID": "104",
+      "name_gene": "Cell Division Cycle related"
+    },
+    {
+      "GenAge_ID": "1040",
+      "name_gene": "COenzyme Q"
+    },
+    {
+      "GenAge_ID": "1041",
+      "name_gene": "COenzyme Q"
+    },
+    {
+      "GenAge_ID": "1042",
+      "name_gene": "Cytochrome c OXidase"
+    },
+    {
+      "GenAge_ID": "1043",
+      "name_gene": "CarboxyPeptidase yscS"
+    },
+    {
+      "GenAge_ID": "1044",
+      "name_gene": "Calcofluor White Hypersensitive"
+    },
+    {
+      "GenAge_ID": "1045",
+      "name_gene": "CYtochrome C"
+    },
+    {
+      "GenAge_ID": "1046",
+      "name_gene": "CYtochrome C"
+    },
+    {
+      "GenAge_ID": "1047",
+      "name_gene": "cytochrome c1 heme lyase CYT2"
+    },
+    {
+      "GenAge_ID": "1048",
+      "name_gene": "Defective in Cullin Neddylation"
+    },
+    {
+      "GenAge_ID": "1049",
+      "name_gene": "2-Deoxy-Glucose Resistant 2"
+    },
+    {
+      "GenAge_ID": "105",
+      "name_gene": "Cdc25p"
+    },
+    {
+      "GenAge_ID": "1050",
+      "name_gene": "DiPHthamide biosynthesis"
+    },
+    {
+      "GenAge_ID": "1051",
+      "name_gene": "DYNein"
+    },
+    {
+      "GenAge_ID": "1052",
+      "name_gene": "Elongation Factor Two"
+    },
+    {
+      "GenAge_ID": "1053",
+      "name_gene": "Enhancer of Gal4 DNA binding"
+    },
+    {
+      "GenAge_ID": "1054",
+      "name_gene": "Early Meiotic Induction"
+    },
+    {
+      "GenAge_ID": "1055",
+      "name_gene": "Few Lipid Droplets"
+    },
+    {
+      "GenAge_ID": "1056",
+      "name_gene": "Formyl-Methionyl-tRNA Transformylase"
+    },
+    {
+      "GenAge_ID": "1057",
+      "name_gene": "GALactose metabolism"
+    },
+    {
+      "GenAge_ID": "1058",
+      "name_gene": "General Control Nonderepressible"
+    },
+    {
+      "GenAge_ID": "1059",
+      "name_gene": "Glutamate DeHydrogenase"
+    },
+    {
+      "GenAge_ID": "106",
+      "name_gene": "Cell Division Cycle"
+    },
+    {
+      "GenAge_ID": "1060",
+      "name_gene": "Great for Full DEAD box protein activity"
+    },
+    {
+      "GenAge_ID": "1061",
+      "name_gene": "Glucose Induced Degradation deficient"
+    },
+    {
+      "GenAge_ID": "1062",
+      "name_gene": "Glucose Induced Degradation deficient"
+    },
+    {
+      "GenAge_ID": "1063",
+      "name_gene": "Gpb1p"
+    },
+    {
+      "GenAge_ID": "1064",
+      "name_gene": "Glycerol-3-Phosphate acylTransferase"
+    },
+    {
+      "GenAge_ID": "1065",
+      "name_gene": "TRapp Subunit"
+    },
+    {
+      "GenAge_ID": "1066",
+      "name_gene": "Gtpase-activating protein for YPt1p"
+    },
+    {
+      "GenAge_ID": "1067",
+      "name_gene": "acetyl-CoA carboxylase HFA1"
+    },
+    {
+      "GenAge_ID": "1068",
+      "name_gene": "HIstone Regulation"
+    },
+    {
+      "GenAge_ID": "1069",
+      "name_gene": "HIstone Regulation"
+    },
+    {
+      "GenAge_ID": "107",
+      "name_gene": "Cyclin-Dependent Kinase family"
+    },
+    {
+      "GenAge_ID": "1070",
+      "name_gene": "HIstone Regulation"
+    },
+    {
+      "GenAge_ID": "1071",
+      "name_gene": "HIStidine requiring"
+    },
+    {
+      "GenAge_ID": "1072",
+      "name_gene": "Histidine triad NucleoTide-binding"
+    },
+    {
+      "GenAge_ID": "1073",
+      "name_gene": "Has Symptoms of class E mutants; resembles Hbp"
+    },
+    {
+      "GenAge_ID": "1074",
+      "name_gene": "Homolog of SIR Two (SIR2)"
+    },
+    {
+      "GenAge_ID": "1075",
+      "name_gene": "IsoCitrate Lyase"
+    },
+    {
+      "GenAge_ID": "1076",
+      "name_gene": "Implicated in Zinc Homeostasis"
+    },
+    {
+      "GenAge_ID": "1077",
+      "name_gene": "Just Nuclear Migration"
+    },
+    {
+      "GenAge_ID": "1078",
+      "name_gene": "alpha-KetoGlutarate Dehydrogenase"
+    },
+    {
+      "GenAge_ID": "1079",
+      "name_gene": "Low Dye Binding"
+    },
+    {
+      "GenAge_ID": "108",
+      "name_gene": "Cyclin-dependent kinase 5"
+    },
+    {
+      "GenAge_ID": "1080",
+      "name_gene": "Low Dye Binding"
+    },
+    {
+      "GenAge_ID": "1081",
+      "name_gene": "LIPoyl ligase"
+    },
+    {
+      "GenAge_ID": "1082",
+      "name_gene": "Loss Of Suppression"
+    },
+    {
+      "GenAge_ID": "1083",
+      "name_gene": "LYSine requiring"
+    },
+    {
+      "GenAge_ID": "1084",
+      "name_gene": "MAintenance of Killer"
+    },
+    {
+      "GenAge_ID": "1085",
+      "name_gene": "MAintenance of Killer"
+    },
+    {
+      "GenAge_ID": "1086",
+      "name_gene": "MALtose fermentation"
+    },
+    {
+      "GenAge_ID": "1087",
+      "name_gene": "Multi-copy Bypass of AFG3"
+    },
+    {
+      "GenAge_ID": "1088",
+      "name_gene": "MEDiator complex"
+    }
+  ]
+}

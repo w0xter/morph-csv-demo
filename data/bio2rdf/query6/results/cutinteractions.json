@@ -1,0 +1,697 @@
+{
+  "data": [
+    {
+      "WBInteractionID": "WBInteraction000000001",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001080",
+      "Interactor2": "WBGene00003003"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000002",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001080",
+      "Interactor2": "WBGene00023498"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000003",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001080",
+      "Interactor2": "WBGene00006962"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000004",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001081",
+      "Interactor2": "WBGene00003003"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000005",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001085",
+      "Interactor2": "WBGene00003003"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000006",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001086",
+      "Interactor2": "WBGene00003003"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000007",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001087",
+      "Interactor2": "WBGene00003003"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000008",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001193",
+      "Interactor2": "WBGene00006606"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000009",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001481",
+      "Interactor2": "WBGene00006604"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000010",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004880",
+      "Interactor2": "WBGene00006606"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000011",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004879",
+      "Interactor2": "WBGene00006606"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000012",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006335",
+      "Interactor2": "WBGene00006606"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000013",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006336",
+      "Interactor2": "WBGene00006606"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000014",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001482",
+      "Interactor2": "WBGene00006605"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000015",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001413",
+      "Interactor2": "WBGene00001482"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000016",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006316",
+      "Interactor2": "WBGene00006786"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000017",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001482",
+      "Interactor2": "WBGene00006605"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000018",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001079",
+      "Interactor2": "WBGene00006330"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000019",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006330",
+      "Interactor2": "WBGene00006752"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000020",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006330",
+      "Interactor2": "WBGene00006787"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000021",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001079",
+      "Interactor2": "WBGene00006333"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000022",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006333",
+      "Interactor2": "WBGene00006752"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000023",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001079",
+      "Interactor2": "WBGene00006334"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000024",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006334",
+      "Interactor2": "WBGene00006606"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000025",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006314",
+      "Interactor2": "WBGene00006752"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000026",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001079",
+      "Interactor2": "WBGene00006316"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000027",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006316",
+      "Interactor2": "WBGene00006752"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000028",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006316",
+      "Interactor2": "WBGene00006787"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000029",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001080",
+      "Interactor2": "WBGene00003003"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000030",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001086",
+      "Interactor2": "WBGene00006316"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000031",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004747",
+      "Interactor2": "WBGene00006316"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000032",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000417",
+      "Interactor2": "WBGene00001170"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000033",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004767",
+      "Interactor2": "WBGene00006605"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000034",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006743",
+      "Interactor2": "WBGene00006749"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000035",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006741",
+      "Interactor2": "WBGene00006794"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000036",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001087",
+      "Interactor2": "WBGene00006962"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000037",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001413",
+      "Interactor2": "WBGene00001842"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000038",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001842",
+      "Interactor2": "WBGene00004746"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000039",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004745",
+      "Interactor2": "WBGene00004746"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000040",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004746",
+      "Interactor2": "WBGene00006962"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000041",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002997",
+      "Interactor2": "WBGene00002998"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000042",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002335",
+      "Interactor2": "WBGene00006316"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000043",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00003015",
+      "Interactor2": "WBGene00004879"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000044",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00003015",
+      "Interactor2": "WBGene00004880"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000045",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004880",
+      "Interactor2": "WBGene00006604"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000046",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00003015",
+      "Interactor2": "WBGene00004881"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000047",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004881",
+      "Interactor2": "WBGene00006789"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000048",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004882",
+      "Interactor2": "WBGene00006789"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000049",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00003015",
+      "Interactor2": "WBGene00004883"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000050",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00003015",
+      "Interactor2": "WBGene00004884"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000051",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004884",
+      "Interactor2": "WBGene00006606"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000052",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004884",
+      "Interactor2": "WBGene00006789"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000053",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001413",
+      "Interactor2": "WBGene00006604"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000054",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006604",
+      "Interactor2": "WBGene00006605"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000055",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006605",
+      "Interactor2": "WBGene00006606"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000056",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004745",
+      "Interactor2": "WBGene00006962"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000057",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006319",
+      "Interactor2": "WBGene00006822"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000058",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006318",
+      "Interactor2": "WBGene00006822"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000060",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000950",
+      "Interactor2": "WBGene00003170"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000061",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00003168",
+      "Interactor2": "WBGene00003170"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000062",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006781",
+      "Interactor2": "WBGene00006789"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000063",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00003183",
+      "Interactor2": "WBGene00003209"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000064",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00003184",
+      "Interactor2": "WBGene00003209"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000065",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002299",
+      "Interactor2": "WBGene00003004"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000066",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002335",
+      "Interactor2": "WBGene00003004"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000068",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002335",
+      "Interactor2": "WBGene00003001"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000069",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002335",
+      "Interactor2": "WBGene00002990"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000070",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002299",
+      "Interactor2": "WBGene00002335"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000071",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002335",
+      "Interactor2": "WBGene00002999"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000072",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002299",
+      "Interactor2": "WBGene00002993"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000073",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006319",
+      "Interactor2": "WBGene00006822"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000075",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002335",
+      "Interactor2": "WBGene00003004"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000076",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002299",
+      "Interactor2": "WBGene00003004"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000077",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002299",
+      "Interactor2": "WBGene00002335"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000078",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000950",
+      "Interactor2": "WBGene00003170"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000079",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00003168",
+      "Interactor2": "WBGene00003170"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000080",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006316",
+      "Interactor2": "WBGene00006606"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000081",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001072",
+      "Interactor2": "WBGene00004397"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000082",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00002299",
+      "Interactor2": "WBGene00003004"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000083",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001842",
+      "Interactor2": "WBGene00004745"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000084",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004745",
+      "Interactor2": "WBGene00006962"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000085",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001842",
+      "Interactor2": "WBGene00004746"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000086",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004746",
+      "Interactor2": "WBGene00006962"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000087",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004010",
+      "Interactor2": "WBGene00018164"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000088",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004010",
+      "Interactor2": "WBGene00006342"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000089",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000254",
+      "Interactor2": "WBGene00001071"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000090",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00004397",
+      "Interactor2": "WBGene00005017"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000091",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00001609",
+      "Interactor2": "WBGene00004879"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000092",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00006759",
+      "Interactor2": "WBGene00006789"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000093",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000898",
+      "Interactor2": "WBGene00000908"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000094",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000907",
+      "Interactor2": "WBGene00000912"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000095",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000907",
+      "Interactor2": "WBGene00000908"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000096",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000908",
+      "Interactor2": "WBGene00000910"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000097",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000904",
+      "Interactor2": "WBGene00000908"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000098",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000898",
+      "Interactor2": "WBGene00000912"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000099",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000898",
+      "Interactor2": "WBGene00000913"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000101",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000898",
+      "Interactor2": "WBGene00000901"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000102",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000897",
+      "Interactor2": "WBGene00000899"
+    },
+    {
+      "WBInteractionID": "WBInteraction000000103",
+      "Interaction_type": "Genetic",
+      "Interaction_subtype": "Genetic_interaction",
+      "Interactor1": "WBGene00000899",
+      "Interactor2": "WBGene00000910"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "data": [
+    {
+      "tax_id": "1",
+      "name_txt": "all"
+    },
+    {
+      "tax_id": "1",
+      "name_txt": "root"
+    },
+    {
+      "tax_id": "10",
+      "name_txt": "Cellvibrio (ex Winogradsky 1929) Blackall et al. 1986 emend. Humphry et al. 2003"
+    },
+    {
+      "tax_id": "10",
+      "name_txt": "Cellvibrio (ex Winogradsky 1929) Blackall et al. 1986 emend. Suarez et al. 2014"
+    },
+    {
+      "tax_id": "10",
+      "name_txt": "Cellvibrio Winogradsky 1929"
+    },
+    {
+      "tax_id": "10",
+      "name_txt": "Cellvibrio"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "ATCC 25396"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "Ancylobacter aquaticus (Orskov 1928) Raj 1983"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "Ancylobacter aquaticus"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "CCUG 1820"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "CCUG 30551"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "DSM 101"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "JCM 20518"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "LMG 4052"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "LMG:4052"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "Microcyclus aquaticus Orskov 1928 (Approved Lists 1980)"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "Microcyclus aquaticus"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "NBRC 102453"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "VKM B-1287"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "strain rskov"
+    },
+    {
+      "tax_id": "100000",
+      "name_txt": "Herbaspirillum sp. BA12"
+    },
+    {
+      "tax_id": "100000",
+      "name_txt": "Herbispirillum sp. BA12"
+    },
+    {
+      "tax_id": "1000000",
+      "name_txt": "Microbacterium sp. 6.11-VPa"
+    },
+    {
+      "tax_id": "1000001",
+      "name_txt": "Mycobacterium sp. 1.1-VEs"
+    },
+    {
+      "tax_id": "1000002",
+      "name_txt": "Mycobacterium sp. 1.12-VEs"
+    },
+    {
+      "tax_id": "1000003",
+      "name_txt": "Nocardia sp. 3.2-VPr"
+    },
+    {
+      "tax_id": "1000004",
+      "name_txt": "Polaromonas sp. 7.23-VPa"
+    },
+    {
+      "tax_id": "1000005",
+      "name_txt": "Promicromonospora sp. 10.25-Bb"
+    },
+    {
+      "tax_id": "1000006",
+      "name_txt": "Promicromonospora sp. 3.1- VPr"
+    },
+    {
+      "tax_id": "1000007",
+      "name_txt": "Pseudomonas sp. 10S-VPa"
+    },
+    {
+      "tax_id": "1000008",
+      "name_txt": "Pseudomonas sp. 5B-VPa"
+    },
+    {
+      "tax_id": "1000009",
+      "name_txt": "Pseudomonas sp. 5K-VPa"
+    },
+    {
+      "tax_id": "100001",
+      "name_txt": "Herbaspirillum sp. BA14"
+    },
+    {
+      "tax_id": "100001",
+      "name_txt": "Herbispirillum sp. BA14"
+    },
+    {
+      "tax_id": "1000010",
+      "name_txt": "Pseudomonas sp. 5KS-VPa"
+    },
+    {
+      "tax_id": "1000011",
+      "name_txt": "Pseudomonas sp. 5KW-VPa"
+    },
+    {
+      "tax_id": "1000012",
+      "name_txt": "Pseudomonas sp. 5S-VPa"
+    },
+    {
+      "tax_id": "1000013",
+      "name_txt": "Pseudomonas sp. 5T-VPa"
+    },
+    {
+      "tax_id": "1000014",
+      "name_txt": "Pseudomonas sp. 6S-VPa"
+    },
+    {
+      "tax_id": "1000015",
+      "name_txt": "Rhodococcus sp. 1.15-VEs"
+    },
+    {
+      "tax_id": "1000016",
+      "name_txt": "Rhodococcus sp. 1.3-VEs"
+    },
+    {
+      "tax_id": "1000017",
+      "name_txt": "Rhodococcus sp. 3.3-VPr"
+    },
+    {
+      "tax_id": "1000018",
+      "name_txt": "Rhodococcus sp. 4.20-VOd"
+    },
+    {
+      "tax_id": "1000019",
+      "name_txt": "Rhodococcus sp. 4.20ST-VOd"
+    },
+    {
+      "tax_id": "100002",
+      "name_txt": "Herbaspirillum sp. BA15"
+    },
+    {
+      "tax_id": "100002",
+      "name_txt": "Herbispirillum sp. BA15"
+    },
+    {
+      "tax_id": "1000020",
+      "name_txt": "Sanguibacter sp. 1.16-VEs"
+    },
+    {
+      "tax_id": "1000021",
+      "name_txt": "Sanguibacter sp. 1.23-VEs"
+    },
+    {
+      "tax_id": "1000022",
+      "name_txt": "Sanguibacter sp. 1.23S-VEs"
+    },
+    {
+      "tax_id": "1000023",
+      "name_txt": "Comamonadaceae bacterium 12S-VPa"
+    },
+    {
+      "tax_id": "1000024",
+      "name_txt": "Intrasporangiaceae bacterium 7.31-VPa"
+    },
+    {
+      "tax_id": "1000025",
+      "name_txt": "Intrasporangiaceae bacterium 7.4-VPa"
+    },
+    {
+      "tax_id": "1000026",
+      "name_txt": "Micrococcineae bacterium 9.2-BP"
+    },
+    {
+      "tax_id": "1000027",
+      "name_txt": "alpha proteobacterium 6.6-VPa"
+    },
+    {
+      "tax_id": "1000028",
+      "name_txt": "Bacillus sp. enrichment culture clone w-181"
+    },
+    {
+      "tax_id": "1000029",
+      "name_txt": "Pseudomonas sp. MBYD-1"
+    },
+    {
+      "tax_id": "100003",
+      "name_txt": "Herbaspirillum sp. BA16"
+    },
+    {
+      "tax_id": "100003",
+      "name_txt": "Herbispirillum sp. BA16"
+    },
+    {
+      "tax_id": "1000030",
+      "name_txt": "Agrobacterium sp. G21-07"
+    },
+    {
+      "tax_id": "1000031",
+      "name_txt": "Agrobacterium sp. G21-09"
+    },
+    {
+      "tax_id": "1000032",
+      "name_txt": "Enterobacter sp. P19-19"
+    },
+    {
+      "tax_id": "1000033",
+      "name_txt": "Flavobacterium sp. G23-27"
+    },
+    {
+      "tax_id": "1000034",
+      "name_txt": "Erwinia sp. Koakin"
+    },
+    {
+      "tax_id": "100004",
+      "name_txt": "Herbaspirillum sp. BA134"
+    },
+    {
+      "tax_id": "100004",
+      "name_txt": "Herbispirillum sp. BA134"
+    },
+    {
+      "tax_id": "100005",
+      "name_txt": "Herbaspirillum sp. BA161"
+    },
+    {
+      "tax_id": "100005",
+      "name_txt": "Herbispirillum sp. BA161"
+    },
+    {
+      "tax_id": "100006",
+      "name_txt": "Azospirillum sp. Ala"
+    },
+    {
+      "tax_id": "100007",
+      "name_txt": "Mycobacterium sp. C2-3"
+    },
+    {
+      "tax_id": "100008",
+      "name_txt": "Dangeardiella"
+    },
+    {
+      "tax_id": "100009",
+      "name_txt": "Dangeardiella macrospora"
+    },
+    {
+      "tax_id": "10001",
+      "name_txt": "Sciurus"
+    },
+    {
+      "tax_id": "100010",
+      "name_txt": "Leptospora"
+    },
+    {
+      "tax_id": "100011",
+      "name_txt": "Leptospora rubella"
+    },
+    {
+      "tax_id": "100012",
+      "name_txt": "Bartonella sp. RR13863PO"
+    },
+    {
+      "tax_id": "100013",
+      "name_txt": "Bartonella sp. MM5136CA"
+    },
+    {
+      "tax_id": "100014",
+      "name_txt": "diazotroph str. AB48"
+    },
+    {
+      "tax_id": "100015",
+      "name_txt": "diazotroph str. AB71"
+    },
+    {
+      "tax_id": "100016",
+      "name_txt": "diazotroph str. AB117"
+    },
+    {
+      "tax_id": "100017",
+      "name_txt": "diazotroph str. BA22"
+    },
+    {
+      "tax_id": "100018",
+      "name_txt": "diazotroph str. BA23"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "CBS 183.55"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "CBS H-20123"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "Cercidospora exigua"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "Didymella exigua (Niessl) Sacc."
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "Didymella exigua"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "Didymosphaeria exigua"
+    },
+    {
+      "tax_id": "10002",
+      "name_txt": "Sciurus aberti aberti"
+    },
+    {
+      "tax_id": "100020",
+      "name_txt": "diazotroph str. BA27"
+    },
+    {
+      "tax_id": "100021",
+      "name_txt": "diazotroph str. BA123"
+    },
+    {
+      "tax_id": "100022",
+      "name_txt": "diazotroph str. BA126"
+    },
+    {
+      "tax_id": "100023",
+      "name_txt": "diazotroph str. BA136"
+    },
+    {
+      "tax_id": "100024",
+      "name_txt": "diazotroph str. O1"
+    },
+    {
+      "tax_id": "100025",
+      "name_txt": "Hysteriaceae"
+    },
+    {
+      "tax_id": "100026",
+      "name_txt": "Hysterium"
+    },
+    {
+      "tax_id": "100027",
+      "name_txt": "Hysterium pulicare"
+    },
+    {
+      "tax_id": "1000273",
+      "name_txt": "Klebsiella sp. NCCP 232"
+    },
+    {
+      "tax_id": "1000274",
+      "name_txt": "Acinetobacter sp. NCCP-233"
+    },
+    {
+      "tax_id": "1000275",
+      "name_txt": "Psychrobacter sp. NCCP 234"
+    }
+  ]
+}

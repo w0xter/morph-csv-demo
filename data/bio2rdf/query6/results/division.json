@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "division_id": "0",
+      "division_name": "Bacteria"
+    },
+    {
+      "division_id": "1",
+      "division_name": "Invertebrates"
+    },
+    {
+      "division_id": "10",
+      "division_name": "Vertebrates"
+    },
+    {
+      "division_id": "11",
+      "division_name": "Environmental samples"
+    },
+    {
+      "division_id": "2",
+      "division_name": "Mammals"
+    },
+    {
+      "division_id": "3",
+      "division_name": "Phages"
+    },
+    {
+      "division_id": "4",
+      "division_name": "Plants and Fungi"
+    },
+    {
+      "division_id": "5",
+      "division_name": "Primates"
+    },
+    {
+      "division_id": "6",
+      "division_name": "Rodents"
+    },
+    {
+      "division_id": "7",
+      "division_name": "Synthetic and Chimeric"
+    },
+    {
+      "division_id": "8",
+      "division_name": "Unassigned"
+    },
+    {
+      "division_id": "9",
+      "division_name": "Viruses"
+    }
+  ]
+}

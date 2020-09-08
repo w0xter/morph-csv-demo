@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "genetic_code_id": "0",
+      "name": "Unspecified",
+      "cde": "Null"
+    },
+    {
+      "genetic_code_id": "1",
+      "name": "Standard",
+      "cde": "FFLLSSSSYY**CC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "10",
+      "name": "Euplotid Nuclear",
+      "cde": "FFLLSSSSYY**CCCWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "11",
+      "name": "Bacterial; Archaeal and Plant Plastid",
+      "cde": "FFLLSSSSYY**CC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "12",
+      "name": "Alternative Yeast Nuclear",
+      "cde": "FFLLSSSSYY**CC*WLLLSPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "13",
+      "name": "Ascidian Mitochondrial",
+      "cde": "FFLLSSSSYY**CCWWLLLLPPPPHHQQRRRRIIMMTTTTNNKKSSGGVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "14",
+      "name": "Alternative Flatworm Mitochondrial",
+      "cde": "FFLLSSSSYYY*CCWWLLLLPPPPHHQQRRRRIIIMTTTTNNNKSSSSVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "15",
+      "name": "Blepharisma Macronuclear",
+      "cde": "FFLLSSSSYY*QCC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "16",
+      "name": "Chlorophycean Mitochondrial",
+      "cde": "FFLLSSSSYY*LCC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "2",
+      "name": "Vertebrate Mitochondrial",
+      "cde": "FFLLSSSSYY**CCWWLLLLPPPPHHQQRRRRIIMMTTTTNNKKSS**VVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "21",
+      "name": "Trematode Mitochondrial",
+      "cde": "FFLLSSSSYY**CCWWLLLLPPPPHHQQRRRRIIMMTTTTNNNKSSSSVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "22",
+      "name": "Scenedesmus obliquus mitochondrial",
+      "cde": "FFLLSS*SYY*LCC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "23",
+      "name": "Thraustochytrium mitochondrial code",
+      "cde": "FF*LSSSSYY**CC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "24",
+      "name": "Pterobranchia Mitochondrial",
+      "cde": "FFLLSSSSYY**CCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSSKVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "25",
+      "name": "Candidate Division SR1 and Gracilibacteria",
+      "cde": "FFLLSSSSYY**CCGWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "26",
+      "name": "Pachysolen tannophilus Nuclear",
+      "cde": "FFLLSSSSYY**CC*WLLLAPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "27",
+      "name": "Karyorelict Nuclear",
+      "cde": "FFLLSSSSYYQQCCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "28",
+      "name": "Condylostoma Nuclear",
+      "cde": "FFLLSSSSYYQQCCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "29",
+      "name": "Mesodinium Nuclear",
+      "cde": "FFLLSSSSYYYYCC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "3",
+      "name": "Yeast Mitochondrial",
+      "cde": "FFLLSSSSYY**CCWWTTTTPPPPHHQQRRRRIIMMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "30",
+      "name": "Peritrich Nuclear",
+      "cde": "FFLLSSSSYYEECC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "31",
+      "name": "Blastocrithidia Nuclear",
+      "cde": "FFLLSSSSYYEECCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "32",
+      "name": "Balanophoraceae Plastid",
+      "cde": "FFLLSSSSYY*WCC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "33",
+      "name": "Cephalodiscidae Mitochondrial",
+      "cde": "FFLLSSSSYYY*CCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSSKVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "4",
+      "name": "Mold Mitochondrial; Protozoan Mitochondrial; Coelenterate Mitochondrial; Mycoplasma; Spiroplasma",
+      "cde": "FFLLSSSSYY**CCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "5",
+      "name": "Invertebrate Mitochondrial",
+      "cde": "FFLLSSSSYY**CCWWLLLLPPPPHHQQRRRRIIMMTTTTNNKKSSSSVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "6",
+      "name": "Ciliate Nuclear; Dasycladacean Nuclear; Hexamita Nuclear",
+      "cde": "FFLLSSSSYYQQCC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG "
+    },
+    {
+      "genetic_code_id": "9",
+      "name": "Echinoderm Mitochondrial; Flatworm Mitochondrial",
+      "cde": "FFLLSSSSYY**CCWWLLLLPPPPHHQQRRRRIIIMTTTTNNNKSSSSVVVVAAAADDEEGGGG "
+    }
+  ]
+}

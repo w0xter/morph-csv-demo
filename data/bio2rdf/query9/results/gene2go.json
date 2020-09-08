@@ -1,0 +1,598 @@
+{
+  "data": [
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0002576",
+      "Evidence": "TAS",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0003674",
+      "Evidence": "ND",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0005576",
+      "Evidence": "HDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0005576",
+      "Evidence": "IDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0005576",
+      "Evidence": "TAS",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0005615",
+      "Evidence": "HDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0008150",
+      "Evidence": "ND",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0031093",
+      "Evidence": "TAS",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0034774",
+      "Evidence": "TAS",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0043312",
+      "Evidence": "TAS",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0062023",
+      "Evidence": "HDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0070062",
+      "Evidence": "HDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:0072562",
+      "Evidence": "HDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1",
+      "GO_ID": "GO:1904813",
+      "Evidence": "TAS",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "10",
+      "GO_ID": "GO:0004060",
+      "Evidence": "IBA",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "10",
+      "GO_ID": "GO:0004060",
+      "Evidence": "TAS",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "10",
+      "GO_ID": "GO:0005515",
+      "Evidence": "IPI",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "10",
+      "GO_ID": "GO:0005829",
+      "Evidence": "TAS",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "10",
+      "GO_ID": "GO:0006805",
+      "Evidence": "TAS",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0001666",
+      "Evidence": "IDA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0001821",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0001829",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0001883",
+      "Evidence": "IEA",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0001889",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0001890",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0002314",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0002636",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0002686",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0002906",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0004000",
+      "Evidence": "EXP",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0004000",
+      "Evidence": "IBA",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0004000",
+      "Evidence": "IDA",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0004000",
+      "Evidence": "ISS",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0005515",
+      "Evidence": "IPI",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0005615",
+      "Evidence": "IEA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0005764",
+      "Evidence": "IDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0005829",
+      "Evidence": "IBA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0005829",
+      "Evidence": "IDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0005829",
+      "Evidence": "TAS",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0005886",
+      "Evidence": "IDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0006154",
+      "Evidence": "IBA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0006154",
+      "Evidence": "IDA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0006154",
+      "Evidence": "ISS",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0006157",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0007155",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0007568",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0008270",
+      "Evidence": "IMP",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0008270",
+      "Evidence": "ISS",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0009168",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0009897",
+      "Evidence": "IBA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0009897",
+      "Evidence": "IDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0009986",
+      "Evidence": "IDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0010460",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0016020",
+      "Evidence": "IDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0030054",
+      "Evidence": "IEA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0030890",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0032261",
+      "Evidence": "IMP",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0032839",
+      "Evidence": "IEA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0033089",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0033197",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0033632",
+      "Evidence": "IDA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0042110",
+      "Evidence": "IBA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0042110",
+      "Evidence": "IDA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0042323",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0042542",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0043025",
+      "Evidence": "IEA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0043101",
+      "Evidence": "TAS",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0043103",
+      "Evidence": "IBA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0043278",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0045987",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0046061",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0046103",
+      "Evidence": "IBA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0046103",
+      "Evidence": "IDA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0046103",
+      "Evidence": "ISS",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0046111",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0046638",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0048286",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0048541",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0048566",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0050728",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0050850",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0050862",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0060169",
+      "Evidence": "IBA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0060169",
+      "Evidence": "IDA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0060205",
+      "Evidence": "IEA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0060407",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0070244",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "100",
+      "GO_ID": "GO:0070256",
+      "Evidence": "IEA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0000902",
+      "Evidence": "IBA",
+      "Category": "Process"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005509",
+      "Evidence": "IBA",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005509",
+      "Evidence": "ISS",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005515",
+      "Evidence": "IPI",
+      "Category": "Function"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005737",
+      "Evidence": "IBA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005737",
+      "Evidence": "IDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005788",
+      "Evidence": "TAS",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005886",
+      "Evidence": "IBA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005886",
+      "Evidence": "IDA",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005886",
+      "Evidence": "TAS",
+      "Category": "Component"
+    },
+    {
+      "GeneID": "1000",
+      "GO_ID": "GO:0005887",
+      "Evidence": "ISS",
+      "Category": "Component"
+    }
+  ]
+}

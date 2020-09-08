@@ -1,0 +1,499 @@
+{
+  "data": [
+    {
+      "hid": "100",
+      "genesymbol": "AGOS_AGL054W",
+      "refseq": "NP_986612.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "AIM45",
+      "refseq": "NP_015329.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "AgaP_AGAP004031",
+      "refseq": "XP_318487.4"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "CELE_F27D4.1",
+      "refseq": "NP_492146.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "ETFA",
+      "refseq": "NP_000117.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "ETFA",
+      "refseq": "NP_001025714.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "ETFA",
+      "refseq": "NP_001069290.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "ETFA",
+      "refseq": "XP_001104838.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "ETFA",
+      "refseq": "XP_510690.2"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "ETFA",
+      "refseq": "XP_853387.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "ETFALPHA",
+      "refseq": "NP_175507.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "Etfa",
+      "refseq": "NP_001009668.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "Etfa",
+      "refseq": "NP_663590.3"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "KLLA0E14037g",
+      "refseq": "XP_454584.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "MGG_01719",
+      "refseq": "XP_003714716.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "NCU08004",
+      "refseq": "XP_962674.2"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "Os03g0835400",
+      "refseq": "NP_001051818.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "SPAC27D7.06",
+      "refseq": "NP_594612.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "etfa",
+      "refseq": "NP_001016738.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "etfa",
+      "refseq": "NP_944591.1"
+    },
+    {
+      "hid": "100",
+      "genesymbol": "wal",
+      "refseq": "NP_476975.1"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "CLDN4",
+      "refseq": "NP_001014413.1"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "CLDN4",
+      "refseq": "NP_001296.1"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "CLDN4",
+      "refseq": "XP_001112477.1"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "CLDN4",
+      "refseq": "XP_001148188.1"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "CLDN4",
+      "refseq": "XP_003642430.1"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "CLDN4",
+      "refseq": "XP_005621019.1"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "Cldn4",
+      "refseq": "NP_001012022.1"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "Cldn4",
+      "refseq": "NP_034033.1"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "cldna",
+      "refseq": "NP_571837.2"
+    },
+    {
+      "hid": "1000",
+      "genesymbol": "cldnb",
+      "refseq": "NP_571838.1"
+    },
+    {
+      "hid": "100002",
+      "genesymbol": "AgaP_AGAP000877",
+      "refseq": "XP_555875.4"
+    },
+    {
+      "hid": "100002",
+      "genesymbol": "Cyp4g1",
+      "refseq": "NP_525031.1"
+    },
+    {
+      "hid": "100008",
+      "genesymbol": "MMZ1",
+      "refseq": "NP_564191.1"
+    },
+    {
+      "hid": "100008",
+      "genesymbol": "MMZ2",
+      "refseq": "NP_564994.1"
+    },
+    {
+      "hid": "100008",
+      "genesymbol": "Os03g0712300",
+      "refseq": "NP_001051063.1"
+    },
+    {
+      "hid": "100008",
+      "genesymbol": "TMEM189-UBE2V1",
+      "refseq": "NP_954673.1"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "HAUS2",
+      "refseq": "NP_001070287.1"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "HAUS2",
+      "refseq": "NP_001186596.1"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "HAUS2",
+      "refseq": "NP_060567.1"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "HAUS2",
+      "refseq": "XP_001105290.1"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "HAUS2",
+      "refseq": "XP_001154778.2"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "HAUS2",
+      "refseq": "XP_535444.1"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "Haus2",
+      "refseq": "NP_079751.1"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "Haus2",
+      "refseq": "XP_002728665.2"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "LOC100912076",
+      "refseq": "XP_003751947.1"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "haus2",
+      "refseq": "NP_001015864.1"
+    },
+    {
+      "hid": "10001",
+      "genesymbol": "si:dkey-170l10.1",
+      "refseq": "NP_001188359.1"
+    },
+    {
+      "hid": "100024",
+      "genesymbol": "AGOS_AFL041C",
+      "refseq": "NP_985507.1"
+    },
+    {
+      "hid": "100024",
+      "genesymbol": "SPCC18.15",
+      "refseq": "NP_588394.2"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "AgaP_AGAP003805",
+      "refseq": "XP_310360.7"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "EFHC1",
+      "refseq": "NP_001179173.1"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "EFHC1",
+      "refseq": "NP_060570.2"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "EFHC1",
+      "refseq": "XP_001107470.1"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "EFHC1",
+      "refseq": "XP_001152433.1"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "EFHC1",
+      "refseq": "XP_005627529.1"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "EFHC1",
+      "refseq": "XP_420047.2"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "Efhc1",
+      "refseq": "NP_001116419.2"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "Efhc1",
+      "refseq": "NP_082250.1"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "efhc1",
+      "refseq": "NP_001008106.1"
+    },
+    {
+      "hid": "10003",
+      "genesymbol": "efhc1",
+      "refseq": "NP_957261.1"
+    },
+    {
+      "hid": "100035",
+      "genesymbol": "AgaP_AGAP008245",
+      "refseq": "XP_317223.4"
+    },
+    {
+      "hid": "100035",
+      "genesymbol": "AgaP_AGAP012478",
+      "refseq": "XP_001230560.1"
+    },
+    {
+      "hid": "100035",
+      "genesymbol": "LOC101905856",
+      "refseq": "XP_005228564.1"
+    },
+    {
+      "hid": "100035",
+      "genesymbol": "LOC101905937",
+      "refseq": "XP_005228565.1"
+    },
+    {
+      "hid": "100037",
+      "genesymbol": "LOC100486032",
+      "refseq": "XP_002934006.1"
+    },
+    {
+      "hid": "100037",
+      "genesymbol": "MNR2",
+      "refseq": "XP_004942913.1"
+    },
+    {
+      "hid": "100037",
+      "genesymbol": "mnx2a",
+      "refseq": "NP_001009886.2"
+    },
+    {
+      "hid": "100037",
+      "genesymbol": "mnx2b",
+      "refseq": "NP_001009887.1"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "LRRC8D",
+      "refseq": "NP_001077210.1"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "LRRC8D",
+      "refseq": "NP_060573.2"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "LRRC8D",
+      "refseq": "XP_001150929.1"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "LRRC8D",
+      "refseq": "XP_002801674.1"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "LRRC8D",
+      "refseq": "XP_004936686.1"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "LRRC8D",
+      "refseq": "XP_005622006.1"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "Lrrc8d",
+      "refseq": "NP_001008339.2"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "Lrrc8d",
+      "refseq": "NP_848816.3"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "lrrc8d",
+      "refseq": "NP_001120353.1"
+    },
+    {
+      "hid": "10004",
+      "genesymbol": "lrrc8db",
+      "refseq": "NP_001070848.1"
+    },
+    {
+      "hid": "10005",
+      "genesymbol": "THAP1",
+      "refseq": "NP_001029820.1"
+    },
+    {
+      "hid": "10005",
+      "genesymbol": "THAP1",
+      "refseq": "NP_060575.1"
+    },
+    {
+      "hid": "10005",
+      "genesymbol": "THAP1",
+      "refseq": "XP_001099355.1"
+    },
+    {
+      "hid": "10005",
+      "genesymbol": "THAP1",
+      "refseq": "XP_004949398.1"
+    },
+    {
+      "hid": "10005",
+      "genesymbol": "THAP1",
+      "refseq": "XP_528123.1"
+    },
+    {
+      "hid": "10005",
+      "genesymbol": "THAP1",
+      "refseq": "XP_848435.1"
+    },
+    {
+      "hid": "10005",
+      "genesymbol": "Thap1",
+      "refseq": "NP_001008341.1"
+    },
+    {
+      "hid": "10005",
+      "genesymbol": "Thap1",
+      "refseq": "NP_950243.1"
+    },
+    {
+      "hid": "10005",
+      "genesymbol": "thap1",
+      "refseq": "NP_001006738.1"
+    },
+    {
+      "hid": "100051",
+      "genesymbol": "AT2G07751",
+      "refseq": "NP_671803.1"
+    },
+    {
+      "hid": "100051",
+      "genesymbol": "ArthMp086",
+      "refseq": "NP_085553.2"
+    },
+    {
+      "hid": "100054",
+      "genesymbol": "DGKD",
+      "refseq": "NP_001030359.2"
+    },
+    {
+      "hid": "100054",
+      "genesymbol": "DGKD",
+      "refseq": "NP_690618.2"
+    },
+    {
+      "hid": "100054",
+      "genesymbol": "DGKD",
+      "refseq": "XP_001114920.1"
+    },
+    {
+      "hid": "100054",
+      "genesymbol": "DGKD",
+      "refseq": "XP_003309576.1"
+    },
+    {
+      "hid": "100054",
+      "genesymbol": "DGKD",
+      "refseq": "XP_004937002.1"
+    },
+    {
+      "hid": "100054",
+      "genesymbol": "DGKD",
+      "refseq": "XP_005635924.1"
+    },
+    {
+      "hid": "100054",
+      "genesymbol": "Dgkd",
+      "refseq": "NP_808314.2"
+    },
+    {
+      "hid": "100054",
+      "genesymbol": "Dgkd",
+      "refseq": "XP_006245566.1"
+    },
+    {
+      "hid": "100054",
+      "genesymbol": "dgkd",
+      "refseq": "XP_002936660.1"
+    }
+  ]
+}

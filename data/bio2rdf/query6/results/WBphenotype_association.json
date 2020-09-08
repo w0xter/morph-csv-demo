@@ -1,0 +1,499 @@
+{
+  "data": [
+    {
+      "gene_id": "WBGene00000001",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "phenotype": "WBPhenotype:0000525",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "phenotype": "WBPhenotype:0000674",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000001",
+      "phenotype": "WBPhenotype:0000964",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000002",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000003",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000004",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "phenotype": "WBPhenotype:0000031",
+      "variant": "WB:WBRNAi00003248"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "phenotype": "WBPhenotype:0000049",
+      "variant": "WB:WBRNAi00003248"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "phenotype": "WBPhenotype:0000050",
+      "variant": "WB:WBRNAi00003248"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "phenotype": "WBPhenotype:0000054",
+      "variant": "WB:WBRNAi00003248"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "phenotype": "WBPhenotype:0000059",
+      "variant": "WB:WBRNAi00003248"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "phenotype": "WBPhenotype:0000689",
+      "variant": "WB:WBRNAi00003248"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "phenotype": "WBPhenotype:0000886",
+      "variant": "WB:WBRNAi00003248"
+    },
+    {
+      "gene_id": "WBGene00000006",
+      "phenotype": "WBPhenotype:0001037",
+      "variant": "WB:WBRNAi00003248"
+    },
+    {
+      "gene_id": "WBGene00000007",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000008",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000010",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "phenotype": "WBPhenotype:0000050",
+      "variant": "WB:WBVar00091444"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "phenotype": "WBPhenotype:0000059",
+      "variant": "WB:WBVar00091444"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "phenotype": "WBPhenotype:0000504",
+      "variant": "WB:WBVar00091444"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "phenotype": "WBPhenotype:0000643",
+      "variant": "WB:WBVar00091444"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "phenotype": "WBPhenotype:0000688",
+      "variant": "WB:WBVar00091444"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "phenotype": "WBPhenotype:0000697",
+      "variant": "WB:WBVar00091444"
+    },
+    {
+      "gene_id": "WBGene00000011",
+      "phenotype": "WBPhenotype:0000698",
+      "variant": "WB:WBVar00091444"
+    },
+    {
+      "gene_id": "WBGene00000012",
+      "phenotype": "WBPhenotype:0000050",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000012",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000012",
+      "phenotype": "WBPhenotype:0000535",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000012",
+      "phenotype": "WBPhenotype:0000689",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000012",
+      "phenotype": "WBPhenotype:0000886",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "phenotype": "WBPhenotype:0000050",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "phenotype": "WBPhenotype:0000535",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "phenotype": "WBPhenotype:0000689",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000013",
+      "phenotype": "WBPhenotype:0000886",
+      "variant": "WB:WBRNAi00001904"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "phenotype": "WBPhenotype:0000386",
+      "variant": "WB:WBVar00091489"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "phenotype": "WBPhenotype:0000436",
+      "variant": "WB:WBVar00091489"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "phenotype": "WBPhenotype:0000730",
+      "variant": "WB:WBVar00091489"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "phenotype": "WBPhenotype:0001391",
+      "variant": "WB:WBVar00091489"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "phenotype": "WBPhenotype:0001742",
+      "variant": "WB:WBVar00091489"
+    },
+    {
+      "gene_id": "WBGene00000018",
+      "phenotype": "WBPhenotype:0001851",
+      "variant": "WB:WBVar00091489"
+    },
+    {
+      "gene_id": "WBGene00000019",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0000031",
+      "variant": "WB:WBRNAi00003366"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0000049",
+      "variant": "WB:WBRNAi00003366"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0000050",
+      "variant": "WB:WBRNAi00003366"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0000054",
+      "variant": "WB:WBRNAi00003366"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0000059",
+      "variant": "WB:WBRNAi00003366"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0000689",
+      "variant": "WB:WBRNAi00003366"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0000743",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0000886",
+      "variant": "WB:WBRNAi00003366"
+    },
+    {
+      "gene_id": "WBGene00000020",
+      "phenotype": "WBPhenotype:0001037",
+      "variant": "WB:WBRNAi00003366"
+    },
+    {
+      "gene_id": "WBGene00000021",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000022",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000022",
+      "phenotype": "WBPhenotype:0000743",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000023",
+      "phenotype": "WBPhenotype:0000050",
+      "variant": "WB:WBRNAi00000515"
+    },
+    {
+      "gene_id": "WBGene00000023",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "WB:WBRNAi00000515"
+    },
+    {
+      "gene_id": "WBGene00000023",
+      "phenotype": "WBPhenotype:0000535",
+      "variant": "WB:WBRNAi00000515"
+    },
+    {
+      "gene_id": "WBGene00000023",
+      "phenotype": "WBPhenotype:0000689",
+      "variant": "WB:WBRNAi00000515"
+    },
+    {
+      "gene_id": "WBGene00000023",
+      "phenotype": "WBPhenotype:0000886",
+      "variant": "WB:WBRNAi00000515"
+    },
+    {
+      "gene_id": "WBGene00000031",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000031",
+      "phenotype": "WBPhenotype:0001012",
+      "variant": "WB:WBVar00092824"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0000124",
+      "variant": "WB:WBVar00095133"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0000177",
+      "variant": "WB:WBPerson261"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0000517",
+      "variant": "WB:WBPerson261"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0000643",
+      "variant": "WB:WBVar00095133"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0001289",
+      "variant": "WB:WBVar00095133"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0001987",
+      "variant": "WB:WBVar00095133"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0001988",
+      "variant": "WB:WBVar00095133"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0002077",
+      "variant": "WB:WBVar00604230"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0002114",
+      "variant": "WB:WBVar00604230"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0002241",
+      "variant": "WB:WBVar00095133"
+    },
+    {
+      "gene_id": "WBGene00000035",
+      "phenotype": "WBPhenotype:0004028",
+      "variant": "WB:WBVar00095133|WB:WBVar00604230"
+    },
+    {
+      "gene_id": "WBGene00000036",
+      "phenotype": "WBPhenotype:0000124",
+      "variant": "WB:WBVar00145393"
+    },
+    {
+      "gene_id": "WBGene00000036",
+      "phenotype": "WBPhenotype:0000177",
+      "variant": "WB:WBPerson261"
+    },
+    {
+      "gene_id": "WBGene00000036",
+      "phenotype": "WBPhenotype:0000517",
+      "variant": "WB:WBPerson261"
+    },
+    {
+      "gene_id": "WBGene00000036",
+      "phenotype": "WBPhenotype:0000643",
+      "variant": "WB:WBVar00145393"
+    },
+    {
+      "gene_id": "WBGene00000036",
+      "phenotype": "WBPhenotype:0001289",
+      "variant": "WB:WBVar00145393"
+    },
+    {
+      "gene_id": "WBGene00000036",
+      "phenotype": "WBPhenotype:0001987",
+      "variant": "WB:WBVar00145393"
+    },
+    {
+      "gene_id": "WBGene00000036",
+      "phenotype": "WBPhenotype:0001988",
+      "variant": "WB:WBVar00145393"
+    },
+    {
+      "gene_id": "WBGene00000036",
+      "phenotype": "WBPhenotype:0002114",
+      "variant": "WB:WBVar00145393"
+    },
+    {
+      "gene_id": "WBGene00000036",
+      "phenotype": "WBPhenotype:0004028",
+      "variant": "WB:WBVar00145393"
+    },
+    {
+      "gene_id": "WBGene00000037",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000037",
+      "phenotype": "WBPhenotype:0000177",
+      "variant": "WB:WBPerson261"
+    },
+    {
+      "gene_id": "WBGene00000037",
+      "phenotype": "WBPhenotype:0000517",
+      "variant": "WB:WBPerson261"
+    },
+    {
+      "gene_id": "WBGene00000037",
+      "phenotype": "WBPhenotype:0001987",
+      "variant": "WB:WBVar00095140|WB:WBVar00142796|WB:WBVar00142797|WB:WBVar00323191"
+    },
+    {
+      "gene_id": "WBGene00000038",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000038",
+      "phenotype": "WBPhenotype:0000177",
+      "variant": "WB:WBPerson261"
+    },
+    {
+      "gene_id": "WBGene00000038",
+      "phenotype": "WBPhenotype:0000517",
+      "variant": "WB:WBPerson261"
+    },
+    {
+      "gene_id": "WBGene00000038",
+      "phenotype": "WBPhenotype:0001987",
+      "variant": "WB:WBVar00142796"
+    },
+    {
+      "gene_id": "WBGene00000039",
+      "phenotype": "WBPhenotype:0000050",
+      "variant": "WB:WBRNAi00001202"
+    },
+    {
+      "gene_id": "WBGene00000039",
+      "phenotype": "WBPhenotype:0000050",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000039",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "WB:WBRNAi00001202"
+    },
+    {
+      "gene_id": "WBGene00000039",
+      "phenotype": "WBPhenotype:0000062",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000039",
+      "phenotype": "WBPhenotype:0000535",
+      "variant": "WB:WBRNAi00001202"
+    },
+    {
+      "gene_id": "WBGene00000039",
+      "phenotype": "WBPhenotype:0000688",
+      "variant": "Null"
+    },
+    {
+      "gene_id": "WBGene00000039",
+      "phenotype": "WBPhenotype:0000689",
+      "variant": "WB:WBRNAi00001202"
+    }
+  ]
+}

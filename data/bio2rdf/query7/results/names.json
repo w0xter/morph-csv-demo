@@ -1,0 +1,598 @@
+{
+  "data": [
+    {
+      "tax_id": "1",
+      "name_txt": "all",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "1",
+      "name_txt": "root",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "10",
+      "name_txt": "Cellvibrio (ex Winogradsky 1929) Blackall et al. 1986 emend. Humphry et al. 2003",
+      "unique_name": "Null",
+      "name_class": "authority"
+    },
+    {
+      "tax_id": "10",
+      "name_txt": "Cellvibrio (ex Winogradsky 1929) Blackall et al. 1986 emend. Suarez et al. 2014",
+      "unique_name": "Null",
+      "name_class": "authority"
+    },
+    {
+      "tax_id": "10",
+      "name_txt": "Cellvibrio Winogradsky 1929",
+      "unique_name": "Null",
+      "name_class": "authority"
+    },
+    {
+      "tax_id": "10",
+      "name_txt": "Cellvibrio",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "ATCC 25396",
+      "unique_name": "ATCC 25396 <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "Ancylobacter aquaticus (Orskov 1928) Raj 1983",
+      "unique_name": "Null",
+      "name_class": "authority"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "Ancylobacter aquaticus",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "CCUG 1820",
+      "unique_name": "CCUG 1820 <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "CCUG 30551",
+      "unique_name": "CCUG 30551 <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "DSM 101",
+      "unique_name": "DSM 101 <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "JCM 20518",
+      "unique_name": "JCM 20518 <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "LMG 4052",
+      "unique_name": "LMG 4052 <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "LMG:4052",
+      "unique_name": "LMG:4052 <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "Microcyclus aquaticus Orskov 1928 (Approved Lists 1980)",
+      "unique_name": "Null",
+      "name_class": "authority"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "Microcyclus aquaticus",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "NBRC 102453",
+      "unique_name": "NBRC 102453 <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "VKM B-1287",
+      "unique_name": "VKM B-1287 <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100",
+      "name_txt": "strain rskov",
+      "unique_name": "strain rskov <type strain>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100000",
+      "name_txt": "Herbaspirillum sp. BA12",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100000",
+      "name_txt": "Herbispirillum sp. BA12",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "1000000",
+      "name_txt": "Microbacterium sp. 6.11-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000001",
+      "name_txt": "Mycobacterium sp. 1.1-VEs",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000002",
+      "name_txt": "Mycobacterium sp. 1.12-VEs",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000003",
+      "name_txt": "Nocardia sp. 3.2-VPr",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000004",
+      "name_txt": "Polaromonas sp. 7.23-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000005",
+      "name_txt": "Promicromonospora sp. 10.25-Bb",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000006",
+      "name_txt": "Promicromonospora sp. 3.1- VPr",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000007",
+      "name_txt": "Pseudomonas sp. 10S-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000008",
+      "name_txt": "Pseudomonas sp. 5B-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000009",
+      "name_txt": "Pseudomonas sp. 5K-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100001",
+      "name_txt": "Herbaspirillum sp. BA14",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100001",
+      "name_txt": "Herbispirillum sp. BA14",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "1000010",
+      "name_txt": "Pseudomonas sp. 5KS-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000011",
+      "name_txt": "Pseudomonas sp. 5KW-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000012",
+      "name_txt": "Pseudomonas sp. 5S-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000013",
+      "name_txt": "Pseudomonas sp. 5T-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000014",
+      "name_txt": "Pseudomonas sp. 6S-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000015",
+      "name_txt": "Rhodococcus sp. 1.15-VEs",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000016",
+      "name_txt": "Rhodococcus sp. 1.3-VEs",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000017",
+      "name_txt": "Rhodococcus sp. 3.3-VPr",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000018",
+      "name_txt": "Rhodococcus sp. 4.20-VOd",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000019",
+      "name_txt": "Rhodococcus sp. 4.20ST-VOd",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100002",
+      "name_txt": "Herbaspirillum sp. BA15",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100002",
+      "name_txt": "Herbispirillum sp. BA15",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "1000020",
+      "name_txt": "Sanguibacter sp. 1.16-VEs",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000021",
+      "name_txt": "Sanguibacter sp. 1.23-VEs",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000022",
+      "name_txt": "Sanguibacter sp. 1.23S-VEs",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000023",
+      "name_txt": "Comamonadaceae bacterium 12S-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000024",
+      "name_txt": "Intrasporangiaceae bacterium 7.31-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000025",
+      "name_txt": "Intrasporangiaceae bacterium 7.4-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000026",
+      "name_txt": "Micrococcineae bacterium 9.2-BP",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000027",
+      "name_txt": "alpha proteobacterium 6.6-VPa",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000028",
+      "name_txt": "Bacillus sp. enrichment culture clone w-181",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000029",
+      "name_txt": "Pseudomonas sp. MBYD-1",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100003",
+      "name_txt": "Herbaspirillum sp. BA16",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100003",
+      "name_txt": "Herbispirillum sp. BA16",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "1000030",
+      "name_txt": "Agrobacterium sp. G21-07",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000031",
+      "name_txt": "Agrobacterium sp. G21-09",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000032",
+      "name_txt": "Enterobacter sp. P19-19",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000033",
+      "name_txt": "Flavobacterium sp. G23-27",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000034",
+      "name_txt": "Erwinia sp. Koakin",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100004",
+      "name_txt": "Herbaspirillum sp. BA134",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100004",
+      "name_txt": "Herbispirillum sp. BA134",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "100005",
+      "name_txt": "Herbaspirillum sp. BA161",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100005",
+      "name_txt": "Herbispirillum sp. BA161",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "100006",
+      "name_txt": "Azospirillum sp. Ala",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100007",
+      "name_txt": "Mycobacterium sp. C2-3",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100008",
+      "name_txt": "Dangeardiella",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100009",
+      "name_txt": "Dangeardiella macrospora",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "10001",
+      "name_txt": "Sciurus",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100010",
+      "name_txt": "Leptospora",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100011",
+      "name_txt": "Leptospora rubella",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100012",
+      "name_txt": "Bartonella sp. RR13863PO",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100013",
+      "name_txt": "Bartonella sp. MM5136CA",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100014",
+      "name_txt": "diazotroph str. AB48",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100015",
+      "name_txt": "diazotroph str. AB71",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100016",
+      "name_txt": "diazotroph str. AB117",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100017",
+      "name_txt": "diazotroph str. BA22",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100018",
+      "name_txt": "diazotroph str. BA23",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "CBS 183.55",
+      "unique_name": "CBS 183.55 <culture from neotype>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "CBS H-20123",
+      "unique_name": "CBS H-20123 <neotype>",
+      "name_class": "type material"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "Cercidospora exigua",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "Didymella exigua (Niessl) Sacc.",
+      "unique_name": " 1880",
+      "name_class": "Null"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "Didymella exigua",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100019",
+      "name_txt": "Didymosphaeria exigua",
+      "unique_name": "Null",
+      "name_class": "synonym"
+    },
+    {
+      "tax_id": "10002",
+      "name_txt": "Sciurus aberti aberti",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100020",
+      "name_txt": "diazotroph str. BA27",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100021",
+      "name_txt": "diazotroph str. BA123",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100022",
+      "name_txt": "diazotroph str. BA126",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100023",
+      "name_txt": "diazotroph str. BA136",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100024",
+      "name_txt": "diazotroph str. O1",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100025",
+      "name_txt": "Hysteriaceae",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100026",
+      "name_txt": "Hysterium",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "100027",
+      "name_txt": "Hysterium pulicare",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000273",
+      "name_txt": "Klebsiella sp. NCCP 232",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000274",
+      "name_txt": "Acinetobacter sp. NCCP-233",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    },
+    {
+      "tax_id": "1000275",
+      "name_txt": "Psychrobacter sp. NCCP 234",
+      "unique_name": "Null",
+      "name_class": "scientific name"
+    }
+  ]
+}
