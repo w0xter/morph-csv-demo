@@ -509,7 +509,7 @@ export default class Query extends React.Component{
       queryIdx:'',
       query:'',
       dir:'',
-      csvs:null,
+      csvs:[],
       csvw:null,
       strCsvw:'',
       yarrrml:null,
@@ -559,7 +559,7 @@ export default class Query extends React.Component{
           <Tabs>
             <TabPane tab="SQL Schema" key="1">
                 <SyntaxHighlighter language="sql" style={docco}>
-                {this.state.schema.replace(';', ';\n')}
+                {this.state.schema.replace(/;/gi, ';\n')}
                 </SyntaxHighlighter>
             </TabPane>             
             <TabPane tab="Simplified YARRRML Mapping" key="3">
@@ -591,20 +591,25 @@ export default class Query extends React.Component{
             </TabPane>
           </Tabs>
           <Divider></Divider>
-          <Title level={4}>
-            Processed CSVs
-          </Title>
-          <Tabs>
-            {outputCsv.map((csv) => {
-              return(
-                <TabPane key={csv.title} tab={csv.title}>
-                  <Table dataSource={csv.data} columns={csv.columns}></Table>
-                </TabPane>
-              )
-            })}
-
-          </Tabs>
-
+          {
+            this.state.csvs.length !== 0 ? (
+              <>
+              <Title level={4}>
+              Processed CSVs
+            </Title>
+            <Tabs>
+              {this.state.csvs.map((csv) => {
+                return(
+                  <TabPane key={csv.title} tab={csv.title}>
+                    <Table bordered dataSource={csv.data} columns={csv.columns}></Table>
+                  </TabPane>
+                )
+              })}
+  
+            </Tabs>              
+            </>
+            ):null
+          }
       </Layout>
    )    
   }
@@ -621,25 +626,42 @@ export default class Query extends React.Component{
       const yarrrml = await fetchData(dir + 'mapping.yaml')
       const schema = await fetchData(dir + 'schema.sql')
       const query = await fetchData(dir + 'rq')
-      const csvUrls = csvw['tables'].map(table =>  queryDir + '/results/' + table.url.split("/").pop())
-      const getCsvs = async () => {
-        let CSVs = [];
-        csvUrls.map(url => this.loadCSVs(url).then(data => CSVs.push(data)));
-        this.setState({csvs:CSVs})
-      }
-      await getCsvs()
+      const csvUrls = csvw['tables'].map(table =>  queryDir + '/results/' + table.url.split("/").pop().replace('.csv', '.json'))
+      console.log("CSV URLS: ")
+      console.log(csvUrls)
+      await this.getCsvs(csvUrls)
+      console.log("CSV:")
       console.log(this.state.csvs)
       this.setState({dataset:dataset, csvw:csvw,strCsvw:strCsvw, yarrrml:yarrrml,schema:schema, query:query})
    }catch(err){
      console.log(err)
    }
-  }
-  loadCSVs(url){
-    return new Promise(async (resolve, reject) =>{
-      const data = await fetchData(url).catch((err) => reject(err));
-      resolve(readString(data));
+  } 
+  async getCsvs(csvUrls){
+    let CSVs = [];
+    for(let i in csvUrls){
+      let url = csvUrls[i]
+      const title = url.split("/").pop().replace('.json', '.csv')
+      console.log(url)
+      let {data} = await fetchData(url);
+      console.log(data[0])
+      let columnNames = Object.keys(data[0]);
+      let columns = []
+      columnNames.map((name) => {
+        let aux =       {
+          title: name,
+          dataIndex: name,
+          ellipsis:true,
+          key: name,
+        }
+        columns.push(aux)
     });
-  }  
+      CSVs.push({title:title,data:data, columns:columns});
+    }
+    console.log("SEGUNDO")
+    this.setState({csvs:CSVs})
+    console.log(this.state.csvs)
+  }
   async componentDidMount(){
     await this.getData();  
   }
