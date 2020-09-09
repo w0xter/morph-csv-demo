@@ -28,6 +28,9 @@ def transformCSV(file):
 
 def main():
     path = "./bio2rdf/query2/results/"
+    transformDIR(path)
+    '''
+
     datasets = {
         'bio2rdf':10,
         'gtfs':18,
@@ -37,5 +40,6 @@ def main():
         for i in range(1,datasets[dataset]):
             path = './' + dataset + '/query' + str(i) + '/results/'
             transformDIR(path)
+    '''
 if __name__ == '__main__':
     main()

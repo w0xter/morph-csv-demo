@@ -1,2071 +1,690 @@
 {
   "data": [
     {
-      "{": "data: ["
+      "tax_id": "1000373",
+      "GeneID": "11569613",
+      "Symbol": "RdRp",
+      "LocusTag": "RnQV1s3_gp1",
+      "description": "RNA dependent RNA polymerase"
     },
     {
-      "{": "{"
+      "tax_id": "1000373",
+      "GeneID": "11604940",
+      "Symbol": "RnQV1s1_gp1",
+      "LocusTag": "RnQV1s1_gp1",
+      "description": "hypothetical protein"
     },
     {
-      "{": "tax_id: 1000373"
+      "tax_id": "1000373",
+      "GeneID": "11604942",
+      "Symbol": "RnQV1s4_gp1",
+      "LocusTag": "RnQV1s4_gp1",
+      "description": "structural protein"
     },
     {
-      "{": "GeneID: 11569613"
+      "tax_id": "1000373",
+      "GeneID": "11604944",
+      "Symbol": "RnQV1s2_gp1",
+      "LocusTag": "RnQV1s2_gp1",
+      "description": "structural protein"
     },
     {
-      "{": "Symbol: RdRp"
+      "tax_id": "1000373",
+      "GeneID": "11605649",
+      "Symbol": "Null",
+      "LocusTag": "Null",
+      "description": "Record to support submission of GeneRIFs for a gene not in Gene."
     },
     {
-      "{": "LocusTag: RnQV1s3_gp1"
+      "tax_id": "1000418",
+      "GeneID": "35988695",
+      "Symbol": "rps12",
+      "LocusTag": "C5S66_pgp044",
+      "description": "ribosomal protein S12"
     },
     {
-      "{": "description: RNA dependent RNA polymerase"
+      "tax_id": "1000418",
+      "GeneID": "35988696",
+      "Symbol": "clpP",
+      "LocusTag": "C5S66_pgp043",
+      "description": "ATP-dependent Clp protease proteolytic subunit"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988697",
+      "Symbol": "trnH(GUG)",
+      "LocusTag": "C5S66_pgt001",
+      "description": "tRNA"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988698",
+      "Symbol": "ycf15",
+      "LocusTag": "C5S66_pgp023",
+      "description": "Ycf15"
     },
     {
-      "{": "tax_id: 1000373"
+      "tax_id": "1000418",
+      "GeneID": "35988699",
+      "Symbol": "trnI(CAU)",
+      "LocusTag": "C5S66_pgt037",
+      "description": "tRNA"
     },
     {
-      "{": "GeneID: 11604940"
+      "tax_id": "1000418",
+      "GeneID": "35988700",
+      "Symbol": "rpoC1",
+      "LocusTag": "C5S66_pgp078",
+      "description": "RNA polymerase beta' subunit"
     },
     {
-      "{": "Symbol: RnQV1s1_gp1"
+      "tax_id": "1000418",
+      "GeneID": "35988701",
+      "Symbol": "trnC(GCA)",
+      "LocusTag": "C5S66_pgt007",
+      "description": "tRNA"
     },
     {
-      "{": "LocusTag: RnQV1s1_gp1"
+      "tax_id": "1000418",
+      "GeneID": "35988702",
+      "Symbol": "rpoB",
+      "LocusTag": "C5S66_pgp077",
+      "description": "RNA polymerase beta subunit"
     },
     {
-      "{": "description: hypothetical protein"
+      "tax_id": "1000418",
+      "GeneID": "35988703",
+      "Symbol": "rrn4.5",
+      "LocusTag": "C5S66_pgr006",
+      "description": "4.5S ribosomal RNA"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988704",
+      "Symbol": "trnA(UGC)",
+      "LocusTag": "C5S66_pgt033",
+      "description": "tRNA"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988705",
+      "Symbol": "matK",
+      "LocusTag": "C5S66_pgp088",
+      "description": "maturase K"
     },
     {
-      "{": "tax_id: 1000373"
+      "tax_id": "1000418",
+      "GeneID": "35988706",
+      "Symbol": "ycf3",
+      "LocusTag": "C5S66_pgp068",
+      "description": "photosystem I assembly protein Ycf3"
     },
     {
-      "{": "GeneID: 11604942"
+      "tax_id": "1000418",
+      "GeneID": "35988707",
+      "Symbol": "trnL(CAA)",
+      "LocusTag": "C5S66_pgt036",
+      "description": "tRNA"
     },
     {
-      "{": "Symbol: RnQV1s4_gp1"
+      "tax_id": "1000418",
+      "GeneID": "35988708",
+      "Symbol": "rps7",
+      "LocusTag": "C5S66_pgp021",
+      "description": "ribosomal protein S7"
     },
     {
-      "{": "LocusTag: RnQV1s4_gp1"
+      "tax_id": "1000418",
+      "GeneID": "35988709",
+      "Symbol": "psaA",
+      "LocusTag": "C5S66_pgp069",
+      "description": "photosystem I P700 chlorophyll a apoprotein A1"
     },
     {
-      "{": "description: structural protein"
+      "tax_id": "1000418",
+      "GeneID": "35988710",
+      "Symbol": "C5S66_pgp008",
+      "LocusTag": "C5S66_pgp008",
+      "description": "Ycf1"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988711",
+      "Symbol": "trnS(GGA)",
+      "LocusTag": "C5S66_pgt015",
+      "description": "tRNA"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988712",
+      "Symbol": "rps16",
+      "LocusTag": "C5S66_pgp087",
+      "description": "ribosomal protein S16"
     },
     {
-      "{": "tax_id: 1000373"
+      "tax_id": "1000418",
+      "GeneID": "35988713",
+      "Symbol": "psbT",
+      "LocusTag": "C5S66_pgp041",
+      "description": "photosystem II protein T"
     },
     {
-      "{": "GeneID: 11604944"
+      "tax_id": "1000418",
+      "GeneID": "35988714",
+      "Symbol": "atpF",
+      "LocusTag": "C5S66_pgp083",
+      "description": "ATP synthase CF0 B subunit"
     },
     {
-      "{": "Symbol: RnQV1s2_gp1"
+      "tax_id": "1000418",
+      "GeneID": "35988715",
+      "Symbol": "ccsA",
+      "LocusTag": "C5S66_pgp011",
+      "description": "cytochrome c biogenesis protein"
     },
     {
-      "{": "LocusTag: RnQV1s2_gp1"
+      "tax_id": "1000418",
+      "GeneID": "35988716",
+      "Symbol": "rbcL",
+      "LocusTag": "C5S66_pgp061",
+      "description": "ribulose-1"
     },
     {
-      "{": "description: structural protein"
+      "tax_id": "1000418",
+      "GeneID": "35988717",
+      "Symbol": "rps19",
+      "LocusTag": "C5S66_pgp001",
+      "description": "pseudo"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988718",
+      "Symbol": "rpl23",
+      "LocusTag": "C5S66_pgp025",
+      "description": "ribosomal protein L23"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988719",
+      "Symbol": "trnI(GAU)",
+      "LocusTag": "C5S66_pgt026",
+      "description": "tRNA"
     },
     {
-      "{": "tax_id: 1000373"
+      "tax_id": "1000418",
+      "GeneID": "35988720",
+      "Symbol": "trnV(GAC)",
+      "LocusTag": "C5S66_pgt035",
+      "description": "tRNA"
     },
     {
-      "{": "GeneID: 11605649"
+      "tax_id": "1000418",
+      "GeneID": "35988721",
+      "Symbol": "psaI",
+      "LocusTag": "C5S66_pgp059",
+      "description": "PSI reaction center subunit VIII"
     },
     {
-      "{": "Symbol: Null"
+      "tax_id": "1000418",
+      "GeneID": "35988722",
+      "Symbol": "accD",
+      "LocusTag": "C5S66_pgp060",
+      "description": "acetyl-CoA carboxylase beta subunit"
     },
     {
-      "{": "LocusTag: Null"
+      "tax_id": "1000418",
+      "GeneID": "35988723",
+      "Symbol": "trnS(UGA)",
+      "LocusTag": "C5S66_pgt012",
+      "description": "tRNA"
     },
     {
-      "{": "description: Record to support submission of GeneRIFs for a gene not in Gene."
+      "tax_id": "1000418",
+      "GeneID": "35988724",
+      "Symbol": "rps3",
+      "LocusTag": "C5S66_pgp029",
+      "description": "rps3"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988725",
+      "Symbol": "atpH",
+      "LocusTag": "C5S66_pgp082",
+      "description": "ATP synthase CF0 C subunit"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988726",
+      "Symbol": "rpoA",
+      "LocusTag": "C5S66_pgp036",
+      "description": "RNA polymerase alpha subunit"
     },
     {
-      "{": "tax_id: 1000418"
+      "tax_id": "1000418",
+      "GeneID": "35988727",
+      "Symbol": "ndhA",
+      "LocusTag": "C5S66_pgp017",
+      "description": "NADH dehydrogenase subunit 1"
     },
     {
-      "{": "GeneID: 35988695"
+      "tax_id": "1000418",
+      "GeneID": "35988728",
+      "Symbol": "psbC",
+      "LocusTag": "C5S66_pgp073",
+      "description": "photosystem II 44 kDa protein"
     },
     {
-      "{": "Symbol: rps12"
+      "tax_id": "1000418",
+      "GeneID": "35988729",
+      "Symbol": "trnK(UUU)",
+      "LocusTag": "C5S66_pgt002",
+      "description": "tRNA"
     },
     {
-      "{": "LocusTag: C5S66_pgp044"
+      "tax_id": "1000418",
+      "GeneID": "35988730",
+      "Symbol": "petD",
+      "LocusTag": "C5S66_pgp037",
+      "description": "cytochrome b6/f complex subunit IV"
     },
     {
-      "{": "description: ribosomal protein S12"
+      "tax_id": "1000418",
+      "GeneID": "35988731",
+      "Symbol": "rps11",
+      "LocusTag": "C5S66_pgp035",
+      "description": "ribosomal protein S11"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988732",
+      "Symbol": "trnA(UGC)",
+      "LocusTag": "C5S66_pgt027",
+      "description": "tRNA"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988733",
+      "Symbol": "rrn16",
+      "LocusTag": "C5S66_pgr001",
+      "description": "16S ribosomal RNA"
     },
     {
-      "{": "tax_id: 1000418"
+      "tax_id": "1000418",
+      "GeneID": "35988734",
+      "Symbol": "trnL(UAG)",
+      "LocusTag": "C5S66_pgt030",
+      "description": "tRNA"
     },
     {
-      "{": "GeneID: 35988696"
+      "tax_id": "1000418",
+      "GeneID": "35988735",
+      "Symbol": "psbJ",
+      "LocusTag": "C5S66_pgp055",
+      "description": "photosystem II protein J"
     },
     {
-      "{": "Symbol: clpP"
+      "tax_id": "1000418",
+      "GeneID": "35988736",
+      "Symbol": "rrn23",
+      "LocusTag": "C5S66_pgr007",
+      "description": "23S ribosomal RNA"
     },
     {
-      "{": "LocusTag: C5S66_pgp043"
+      "tax_id": "1000418",
+      "GeneID": "35988737",
+      "Symbol": "trnI(GAU)",
+      "LocusTag": "C5S66_pgt034",
+      "description": "tRNA"
     },
     {
-      "{": "description: ATP-dependent Clp protease proteolytic subunit"
+      "tax_id": "1000418",
+      "GeneID": "35988738",
+      "Symbol": "trnR(UCU)",
+      "LocusTag": "C5S66_pgt006",
+      "description": "tRNA"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988739",
+      "Symbol": "rps2",
+      "LocusTag": "C5S66_pgp080",
+      "description": "ribosomal protein S2"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988740",
+      "Symbol": "rpoC2",
+      "LocusTag": "C5S66_pgp079",
+      "description": "RNA polymerase beta'' subunit"
     },
     {
-      "{": "tax_id: 1000418"
+      "tax_id": "1000418",
+      "GeneID": "35988741",
+      "Symbol": "petA",
+      "LocusTag": "C5S66_pgp056",
+      "description": "cytochrome f"
     },
     {
-      "{": "GeneID: 35988697"
+      "tax_id": "1000418",
+      "GeneID": "35988742",
+      "Symbol": "ndhC",
+      "LocusTag": "C5S66_pgp064",
+      "description": "NADH dehydrogenase subunit 3"
     },
     {
-      "{": "Symbol: trnH(GUG)"
+      "tax_id": "1000418",
+      "GeneID": "35988743",
+      "Symbol": "rpl22",
+      "LocusTag": "C5S66_pgp028",
+      "description": "ribosomal protein L22"
     },
     {
-      "{": "LocusTag: C5S66_pgt001"
+      "tax_id": "1000418",
+      "GeneID": "35988744",
+      "Symbol": "trnM(CAU)",
+      "LocusTag": "C5S66_pgt020",
+      "description": "tRNA"
     },
     {
-      "{": "description: tRNA"
+      "tax_id": "1000418",
+      "GeneID": "35988745",
+      "Symbol": "trnT(UGU)",
+      "LocusTag": "C5S66_pgt016",
+      "description": "tRNA"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988746",
+      "Symbol": "trnF(GAA)",
+      "LocusTag": "C5S66_pgt018",
+      "description": "tRNA"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988747",
+      "Symbol": "cemA",
+      "LocusTag": "C5S66_pgp057",
+      "description": "envelope membrane protein"
     },
     {
-      "{": "tax_id: 1000418"
+      "tax_id": "1000418",
+      "GeneID": "35988748",
+      "Symbol": "ndhE",
+      "LocusTag": "C5S66_pgp014",
+      "description": "NADH dehydrogenase subunit 4L"
     },
     {
-      "{": "GeneID: 35988698"
+      "tax_id": "1000418",
+      "GeneID": "35988749",
+      "Symbol": "ndhG",
+      "LocusTag": "C5S66_pgp015",
+      "description": "NADH dehydrogenase subunit 6"
     },
     {
-      "{": "Symbol: ycf15"
+      "tax_id": "1000418",
+      "GeneID": "35988750",
+      "Symbol": "ndhK",
+      "LocusTag": "C5S66_pgp065",
+      "description": "NADH dehydrogenase subunit K"
     },
     {
-      "{": "LocusTag: C5S66_pgp023"
+      "tax_id": "1000418",
+      "GeneID": "35988751",
+      "Symbol": "ndhB",
+      "LocusTag": "C5S66_pgp006",
+      "description": "NADH dehydrogenase subunit 2"
     },
     {
-      "{": "description: Ycf15"
+      "tax_id": "1000418",
+      "GeneID": "35988752",
+      "Symbol": "trnV(GAC)",
+      "LocusTag": "C5S66_pgt025",
+      "description": "tRNA"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988753",
+      "Symbol": "rps19",
+      "LocusTag": "C5S66_pgp027",
+      "description": "ribosomal protein S19"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988754",
+      "Symbol": "rpl36",
+      "LocusTag": "C5S66_pgp034",
+      "description": "ribosomal protein L36"
     },
     {
-      "{": "tax_id: 1000418"
+      "tax_id": "1000418",
+      "GeneID": "35988755",
+      "Symbol": "rpl14",
+      "LocusTag": "C5S66_pgp031",
+      "description": "ribosomal protein L14"
     },
     {
-      "{": "GeneID: 35988699"
+      "tax_id": "1000418",
+      "GeneID": "35988756",
+      "Symbol": "atpB",
+      "LocusTag": "C5S66_pgp062",
+      "description": "ATP synthase CF1 beta subunit"
     },
     {
-      "{": "Symbol: trnI(CAU)"
+      "tax_id": "1000418",
+      "GeneID": "35988757",
+      "Symbol": "rps12",
+      "LocusTag": "C5S66_pgp045",
+      "description": "ribosomal protein S12"
     },
     {
-      "{": "LocusTag: C5S66_pgt037"
+      "tax_id": "1000418",
+      "GeneID": "35988758",
+      "Symbol": "rpl16",
+      "LocusTag": "C5S66_pgp030",
+      "description": "ribosomal protein L16"
     },
     {
-      "{": "description: tRNA"
+      "tax_id": "1000418",
+      "GeneID": "35988759",
+      "Symbol": "trnV(UAC)",
+      "LocusTag": "C5S66_pgt019",
+      "description": "tRNA"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988760",
+      "Symbol": "rpl20",
+      "LocusTag": "C5S66_pgp046",
+      "description": "ribosomal protein L20"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988761",
+      "Symbol": "psaC",
+      "LocusTag": "C5S66_pgp013",
+      "description": "photosystem I subunit VII"
     },
     {
-      "{": "tax_id: 1000418"
+      "tax_id": "1000418",
+      "GeneID": "35988762",
+      "Symbol": "psaB",
+      "LocusTag": "C5S66_pgp070",
+      "description": "photosystem I P700 chlorophyll a apoprotein A2"
     },
     {
-      "{": "GeneID: 35988700"
+      "tax_id": "1000418",
+      "GeneID": "35988763",
+      "Symbol": "rpl2",
+      "LocusTag": "C5S66_pgp002",
+      "description": "ribosomal protein L2"
     },
     {
-      "{": "Symbol: rpoC1"
+      "tax_id": "1000418",
+      "GeneID": "35988764",
+      "Symbol": "trnI(CAU)",
+      "LocusTag": "C5S66_pgt023",
+      "description": "tRNA"
     },
     {
-      "{": "LocusTag: C5S66_pgp078"
+      "tax_id": "1000418",
+      "GeneID": "35988765",
+      "Symbol": "rpl2",
+      "LocusTag": "C5S66_pgp026",
+      "description": "ribosomal protein L2"
     },
     {
-      "{": "description: RNA polymerase beta' subunit"
+      "tax_id": "1000418",
+      "GeneID": "35988766",
+      "Symbol": "ndhH",
+      "LocusTag": "C5S66_pgp018",
+      "description": "NADH dehydrogenase subunit 7"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988767",
+      "Symbol": "petL",
+      "LocusTag": "C5S66_pgp051",
+      "description": "cytochrome b6/f complex subunit VI"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988768",
+      "Symbol": "trnL(CAA)",
+      "LocusTag": "C5S66_pgt024",
+      "description": "tRNA"
     },
     {
-      "{": "tax_id: 1000418"
+      "tax_id": "1000418",
+      "GeneID": "35988769",
+      "Symbol": "ycf2",
+      "LocusTag": "C5S66_pgp004",
+      "description": "Ycf2"
     },
     {
-      "{": "GeneID: 35988701"
+      "tax_id": "1000418",
+      "GeneID": "35988770",
+      "Symbol": "atpI",
+      "LocusTag": "C5S66_pgp081",
+      "description": "ATP synthase CF0 A subunit"
     },
     {
-      "{": "Symbol: trnC(GCA)"
+      "tax_id": "1000418",
+      "GeneID": "35988771",
+      "Symbol": "ndhD",
+      "LocusTag": "C5S66_pgp012",
+      "description": "NADH dehydrogenase subunit 4"
     },
     {
-      "{": "LocusTag: C5S66_pgt007"
+      "tax_id": "1000418",
+      "GeneID": "35988772",
+      "Symbol": "rps8",
+      "LocusTag": "C5S66_pgp032",
+      "description": "ribosomal protein S8"
     },
     {
-      "{": "description: tRNA"
+      "tax_id": "1000418",
+      "GeneID": "35988773",
+      "Symbol": "petB",
+      "LocusTag": "C5S66_pgp038",
+      "description": "cytochrome b6"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988774",
+      "Symbol": "rps18",
+      "LocusTag": "C5S66_pgp047",
+      "description": "ribosomal protein S18"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988775",
+      "Symbol": "trnG(GCC)",
+      "LocusTag": "C5S66_pgt013",
+      "description": "tRNA"
     },
     {
-      "{": "tax_id: 1000418"
+      "tax_id": "1000418",
+      "GeneID": "35988776",
+      "Symbol": "psbI",
+      "LocusTag": "C5S66_pgp085",
+      "description": "photosystem II protein I"
     },
     {
-      "{": "GeneID: 35988702"
+      "tax_id": "1000418",
+      "GeneID": "35988777",
+      "Symbol": "ndhF",
+      "LocusTag": "C5S66_pgp009",
+      "description": "NADH dehydrogenase subunit 5"
     },
     {
-      "{": "Symbol: rpoB"
+      "tax_id": "1000418",
+      "GeneID": "35988778",
+      "Symbol": "rpl33",
+      "LocusTag": "C5S66_pgp048",
+      "description": "ribosomal protein L33"
     },
     {
-      "{": "LocusTag: C5S66_pgp077"
+      "tax_id": "1000418",
+      "GeneID": "35988779",
+      "Symbol": "psbH",
+      "LocusTag": "C5S66_pgp039",
+      "description": "photosystem II protein H"
     },
     {
-      "{": "description: RNA polymerase beta subunit"
+      "tax_id": "1000418",
+      "GeneID": "35988780",
+      "Symbol": "psbL",
+      "LocusTag": "C5S66_pgp054",
+      "description": "photosystem II protein L"
     },
     {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988781",
+      "Symbol": "trnR(ACG)",
+      "LocusTag": "C5S66_pgt028",
+      "description": "tRNA"
     },
     {
-      "{": "{"
+      "tax_id": "1000418",
+      "GeneID": "35988782",
+      "Symbol": "rrn4.5",
+      "LocusTag": "C5S66_pgr003",
+      "description": "4.5S ribosomal RNA"
     },
     {
-      "{": "tax_id: 1000418"
+      "tax_id": "1000418",
+      "GeneID": "35988783",
+      "Symbol": "psbE",
+      "LocusTag": "C5S66_pgp052",
+      "description": "photosystem II protein V"
     },
     {
-      "{": "GeneID: 35988703"
+      "tax_id": "1000418",
+      "GeneID": "35988784",
+      "Symbol": "psbF",
+      "LocusTag": "C5S66_pgp053",
+      "description": "photosystem II protein VI"
     },
     {
-      "{": "Symbol: rrn4.5"
+      "tax_id": "1000418",
+      "GeneID": "35988785",
+      "Symbol": "trnW(CCA)",
+      "LocusTag": "C5S66_pgt021",
+      "description": "tRNA"
     },
     {
-      "{": "LocusTag: C5S66_pgr006"
+      "tax_id": "1000418",
+      "GeneID": "35988786",
+      "Symbol": "infA",
+      "LocusTag": "C5S66_pgp033",
+      "description": "translation initiation factor 1"
     },
     {
-      "{": "description: 4.5S ribosomal RNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988704"
-    },
-    {
-      "{": "Symbol: trnA(UGC)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt033"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988705"
-    },
-    {
-      "{": "Symbol: matK"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp088"
-    },
-    {
-      "{": "description: maturase K"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988706"
-    },
-    {
-      "{": "Symbol: ycf3"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp068"
-    },
-    {
-      "{": "description: photosystem I assembly protein Ycf3"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988707"
-    },
-    {
-      "{": "Symbol: trnL(CAA)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt036"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988708"
-    },
-    {
-      "{": "Symbol: rps7"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp021"
-    },
-    {
-      "{": "description: ribosomal protein S7"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988709"
-    },
-    {
-      "{": "Symbol: psaA"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp069"
-    },
-    {
-      "{": "description: photosystem I P700 chlorophyll a apoprotein A1"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988710"
-    },
-    {
-      "{": "Symbol: C5S66_pgp008"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp008"
-    },
-    {
-      "{": "description: Ycf1"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988711"
-    },
-    {
-      "{": "Symbol: trnS(GGA)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt015"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988712"
-    },
-    {
-      "{": "Symbol: rps16"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp087"
-    },
-    {
-      "{": "description: ribosomal protein S16"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988713"
-    },
-    {
-      "{": "Symbol: psbT"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp041"
-    },
-    {
-      "{": "description: photosystem II protein T"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988714"
-    },
-    {
-      "{": "Symbol: atpF"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp083"
-    },
-    {
-      "{": "description: ATP synthase CF0 B subunit"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988715"
-    },
-    {
-      "{": "Symbol: ccsA"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp011"
-    },
-    {
-      "{": "description: cytochrome c biogenesis protein"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988716"
-    },
-    {
-      "{": "Symbol: rbcL"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp061"
-    },
-    {
-      "{": "description: ribulose-1"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988717"
-    },
-    {
-      "{": "Symbol: rps19"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp001"
-    },
-    {
-      "{": "description: pseudo"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988718"
-    },
-    {
-      "{": "Symbol: rpl23"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp025"
-    },
-    {
-      "{": "description: ribosomal protein L23"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988719"
-    },
-    {
-      "{": "Symbol: trnI(GAU)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt026"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988720"
-    },
-    {
-      "{": "Symbol: trnV(GAC)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt035"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988721"
-    },
-    {
-      "{": "Symbol: psaI"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp059"
-    },
-    {
-      "{": "description: PSI reaction center subunit VIII"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988722"
-    },
-    {
-      "{": "Symbol: accD"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp060"
-    },
-    {
-      "{": "description: acetyl-CoA carboxylase beta subunit"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988723"
-    },
-    {
-      "{": "Symbol: trnS(UGA)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt012"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988724"
-    },
-    {
-      "{": "Symbol: rps3"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp029"
-    },
-    {
-      "{": "description: rps3"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988725"
-    },
-    {
-      "{": "Symbol: atpH"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp082"
-    },
-    {
-      "{": "description: ATP synthase CF0 C subunit"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988726"
-    },
-    {
-      "{": "Symbol: rpoA"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp036"
-    },
-    {
-      "{": "description: RNA polymerase alpha subunit"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988727"
-    },
-    {
-      "{": "Symbol: ndhA"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp017"
-    },
-    {
-      "{": "description: NADH dehydrogenase subunit 1"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988728"
-    },
-    {
-      "{": "Symbol: psbC"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp073"
-    },
-    {
-      "{": "description: photosystem II 44 kDa protein"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988729"
-    },
-    {
-      "{": "Symbol: trnK(UUU)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt002"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988730"
-    },
-    {
-      "{": "Symbol: petD"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp037"
-    },
-    {
-      "{": "description: cytochrome b6/f complex subunit IV"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988731"
-    },
-    {
-      "{": "Symbol: rps11"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp035"
-    },
-    {
-      "{": "description: ribosomal protein S11"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988732"
-    },
-    {
-      "{": "Symbol: trnA(UGC)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt027"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988733"
-    },
-    {
-      "{": "Symbol: rrn16"
-    },
-    {
-      "{": "LocusTag: C5S66_pgr001"
-    },
-    {
-      "{": "description: 16S ribosomal RNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988734"
-    },
-    {
-      "{": "Symbol: trnL(UAG)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt030"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988735"
-    },
-    {
-      "{": "Symbol: psbJ"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp055"
-    },
-    {
-      "{": "description: photosystem II protein J"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988736"
-    },
-    {
-      "{": "Symbol: rrn23"
-    },
-    {
-      "{": "LocusTag: C5S66_pgr007"
-    },
-    {
-      "{": "description: 23S ribosomal RNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988737"
-    },
-    {
-      "{": "Symbol: trnI(GAU)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt034"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988738"
-    },
-    {
-      "{": "Symbol: trnR(UCU)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt006"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988739"
-    },
-    {
-      "{": "Symbol: rps2"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp080"
-    },
-    {
-      "{": "description: ribosomal protein S2"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988740"
-    },
-    {
-      "{": "Symbol: rpoC2"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp079"
-    },
-    {
-      "{": "description: RNA polymerase beta'' subunit"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988741"
-    },
-    {
-      "{": "Symbol: petA"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp056"
-    },
-    {
-      "{": "description: cytochrome f"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988742"
-    },
-    {
-      "{": "Symbol: ndhC"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp064"
-    },
-    {
-      "{": "description: NADH dehydrogenase subunit 3"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988743"
-    },
-    {
-      "{": "Symbol: rpl22"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp028"
-    },
-    {
-      "{": "description: ribosomal protein L22"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988744"
-    },
-    {
-      "{": "Symbol: trnM(CAU)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt020"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988745"
-    },
-    {
-      "{": "Symbol: trnT(UGU)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt016"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988746"
-    },
-    {
-      "{": "Symbol: trnF(GAA)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt018"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988747"
-    },
-    {
-      "{": "Symbol: cemA"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp057"
-    },
-    {
-      "{": "description: envelope membrane protein"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988748"
-    },
-    {
-      "{": "Symbol: ndhE"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp014"
-    },
-    {
-      "{": "description: NADH dehydrogenase subunit 4L"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988749"
-    },
-    {
-      "{": "Symbol: ndhG"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp015"
-    },
-    {
-      "{": "description: NADH dehydrogenase subunit 6"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988750"
-    },
-    {
-      "{": "Symbol: ndhK"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp065"
-    },
-    {
-      "{": "description: NADH dehydrogenase subunit K"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988751"
-    },
-    {
-      "{": "Symbol: ndhB"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp006"
-    },
-    {
-      "{": "description: NADH dehydrogenase subunit 2"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988752"
-    },
-    {
-      "{": "Symbol: trnV(GAC)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt025"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988753"
-    },
-    {
-      "{": "Symbol: rps19"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp027"
-    },
-    {
-      "{": "description: ribosomal protein S19"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988754"
-    },
-    {
-      "{": "Symbol: rpl36"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp034"
-    },
-    {
-      "{": "description: ribosomal protein L36"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988755"
-    },
-    {
-      "{": "Symbol: rpl14"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp031"
-    },
-    {
-      "{": "description: ribosomal protein L14"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988756"
-    },
-    {
-      "{": "Symbol: atpB"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp062"
-    },
-    {
-      "{": "description: ATP synthase CF1 beta subunit"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988757"
-    },
-    {
-      "{": "Symbol: rps12"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp045"
-    },
-    {
-      "{": "description: ribosomal protein S12"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988758"
-    },
-    {
-      "{": "Symbol: rpl16"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp030"
-    },
-    {
-      "{": "description: ribosomal protein L16"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988759"
-    },
-    {
-      "{": "Symbol: trnV(UAC)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt019"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988760"
-    },
-    {
-      "{": "Symbol: rpl20"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp046"
-    },
-    {
-      "{": "description: ribosomal protein L20"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988761"
-    },
-    {
-      "{": "Symbol: psaC"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp013"
-    },
-    {
-      "{": "description: photosystem I subunit VII"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988762"
-    },
-    {
-      "{": "Symbol: psaB"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp070"
-    },
-    {
-      "{": "description: photosystem I P700 chlorophyll a apoprotein A2"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988763"
-    },
-    {
-      "{": "Symbol: rpl2"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp002"
-    },
-    {
-      "{": "description: ribosomal protein L2"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988764"
-    },
-    {
-      "{": "Symbol: trnI(CAU)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt023"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988765"
-    },
-    {
-      "{": "Symbol: rpl2"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp026"
-    },
-    {
-      "{": "description: ribosomal protein L2"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988766"
-    },
-    {
-      "{": "Symbol: ndhH"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp018"
-    },
-    {
-      "{": "description: NADH dehydrogenase subunit 7"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988767"
-    },
-    {
-      "{": "Symbol: petL"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp051"
-    },
-    {
-      "{": "description: cytochrome b6/f complex subunit VI"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988768"
-    },
-    {
-      "{": "Symbol: trnL(CAA)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt024"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988769"
-    },
-    {
-      "{": "Symbol: ycf2"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp004"
-    },
-    {
-      "{": "description: Ycf2"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988770"
-    },
-    {
-      "{": "Symbol: atpI"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp081"
-    },
-    {
-      "{": "description: ATP synthase CF0 A subunit"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988771"
-    },
-    {
-      "{": "Symbol: ndhD"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp012"
-    },
-    {
-      "{": "description: NADH dehydrogenase subunit 4"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988772"
-    },
-    {
-      "{": "Symbol: rps8"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp032"
-    },
-    {
-      "{": "description: ribosomal protein S8"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988773"
-    },
-    {
-      "{": "Symbol: petB"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp038"
-    },
-    {
-      "{": "description: cytochrome b6"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988774"
-    },
-    {
-      "{": "Symbol: rps18"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp047"
-    },
-    {
-      "{": "description: ribosomal protein S18"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988775"
-    },
-    {
-      "{": "Symbol: trnG(GCC)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt013"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988776"
-    },
-    {
-      "{": "Symbol: psbI"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp085"
-    },
-    {
-      "{": "description: photosystem II protein I"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988777"
-    },
-    {
-      "{": "Symbol: ndhF"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp009"
-    },
-    {
-      "{": "description: NADH dehydrogenase subunit 5"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988778"
-    },
-    {
-      "{": "Symbol: rpl33"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp048"
-    },
-    {
-      "{": "description: ribosomal protein L33"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988779"
-    },
-    {
-      "{": "Symbol: psbH"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp039"
-    },
-    {
-      "{": "description: photosystem II protein H"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988780"
-    },
-    {
-      "{": "Symbol: psbL"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp054"
-    },
-    {
-      "{": "description: photosystem II protein L"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988781"
-    },
-    {
-      "{": "Symbol: trnR(ACG)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt028"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988782"
-    },
-    {
-      "{": "Symbol: rrn4.5"
-    },
-    {
-      "{": "LocusTag: C5S66_pgr003"
-    },
-    {
-      "{": "description: 4.5S ribosomal RNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988783"
-    },
-    {
-      "{": "Symbol: psbE"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp052"
-    },
-    {
-      "{": "description: photosystem II protein V"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988784"
-    },
-    {
-      "{": "Symbol: psbF"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp053"
-    },
-    {
-      "{": "description: photosystem II protein VI"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988785"
-    },
-    {
-      "{": "Symbol: trnW(CCA)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt021"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988786"
-    },
-    {
-      "{": "Symbol: infA"
-    },
-    {
-      "{": "LocusTag: C5S66_pgp033"
-    },
-    {
-      "{": "description: translation initiation factor 1"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "{"
-    },
-    {
-      "{": "tax_id: 1000418"
-    },
-    {
-      "{": "GeneID: 35988787"
-    },
-    {
-      "{": "Symbol: trnS(GCU)"
-    },
-    {
-      "{": "LocusTag: C5S66_pgt004"
-    },
-    {
-      "{": "description: tRNA"
-    },
-    {
-      "{": "}"
-    },
-    {
-      "{": "]"
-    },
-    {
-      "{": "}"
+      "tax_id": "1000418",
+      "GeneID": "35988787",
+      "Symbol": "trnS(GCU)",
+      "LocusTag": "C5S66_pgt004",
+      "description": "tRNA"
     }
   ]
 }
