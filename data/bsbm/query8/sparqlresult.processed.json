@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "title": "title",
+      "text": "text",
+      "reviewDate": "reviewDate",
+      "reviewer": "reviewer",
+      "reviewerName": "reviewerName",
+      "rating1": "rating1",
+      "rating2": "rating2",
+      "rating3": "rating3",
+      "rating4": "rating4"
+    }
+  ]
+}

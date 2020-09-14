@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer61/Product2851",
+      "productlabel": "aahed novelising"
+    },
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer683/Product33732",
+      "productlabel": "aahs samaritans situation"
+    },
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer207/Product10051",
+      "productlabel": "abandoned"
+    },
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer644/Product31846",
+      "productlabel": "abandoned"
+    },
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer707/Product34840",
+      "productlabel": "abandoning opponents"
+    },
+    {
+      "product": "product",
+      "productlabel": "productlabel"
+    },
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer61/Product2851",
+      "productlabel": "aahed novelising"
+    },
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer683/Product33732",
+      "productlabel": "aahs samaritans situation"
+    },
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer207/Product10051",
+      "productlabel": "abandoned"
+    },
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer644/Product31846",
+      "productlabel": "abandoned"
+    },
+    {
+      "product": "http://www4.wiwiss.fu-berlin.de/bizer/bsbm/v01/instances/dataFromProducer707/Product34840",
+      "productlabel": "abandoning opponents"
+    }
+  ]
+}

@@ -1,0 +1,3112 @@
+{
+  "data": [
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_10_34",
+      "stopDescription": "Calle de Barcel\u00f3 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.426280000000000",
+      "stopLong": "-3.700820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_10_35",
+      "stopDescription": "Calle de Fuencarral 78",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.426200000000000",
+      "stopLong": "-3.701030000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_10_36",
+      "stopDescription": "Calle de Fuencarral 81",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425690000000000",
+      "stopLong": "-3.701110000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_114_1038",
+      "stopDescription": "Calle del Doctor Esquerdo 68",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.414610000000000",
+      "stopLong": "-3.669740000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_114_1039",
+      "stopDescription": "Calle del Doctor Esquerdo 68",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.414570000000000",
+      "stopLong": "-3.669740000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_114_305",
+      "stopDescription": "Calle del Doctor Esquerdo 62",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.415480000000000",
+      "stopLong": "-3.669660000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_114_306",
+      "stopDescription": "Calle de Doctor Esquerdo 103",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.415400000000000",
+      "stopLong": "-3.669280000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_114_307",
+      "stopDescription": "Calle del Doctor Esquerdo 107",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.414690000000000",
+      "stopLong": "-3.669290000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_114_308",
+      "stopDescription": "Calle del Doctor Esquerdo 66",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.414790000000000",
+      "stopLong": "-3.669730000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_115_309",
+      "stopDescription": "Calle del Doctor Esquerdo 42",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.421500000000000",
+      "stopLong": "-3.669170000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_115_310",
+      "stopDescription": "Calle del Doctor Esquerdo 36",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.422660000000000",
+      "stopLong": "-3.669100000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_115_311",
+      "stopDescription": "Calle del Doctor Esquerdo 34",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423210000000000",
+      "stopLong": "-3.669050000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_115_312",
+      "stopDescription": "Calle del Doctor Esquerdo 49",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.422820000000000",
+      "stopLong": "-3.668590000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_119_313",
+      "stopDescription": "Plaza de la Rep\u00fablica Argentina 8",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.444950000000000",
+      "stopLong": "-3.684880000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_119_314",
+      "stopDescription": "Calle de Joaqu\u00edn Costa 41",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443690000000000",
+      "stopLong": "-3.683700000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_119_315",
+      "stopDescription": "Calle de Joaqu\u00edn Costa 26",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443360000000000",
+      "stopLong": "-3.683940000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_119_316",
+      "stopDescription": "Calle de Juan de la Cierva SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443200000000000",
+      "stopLong": "-3.683440000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_11_37",
+      "stopDescription": "Calle  Gran V\u00eda 21",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.419910000000000",
+      "stopLong": "-3.701300000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_11_38",
+      "stopDescription": "Calle  Gran V\u00eda 23",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.419920000000000",
+      "stopLong": "-3.701830000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_11_39",
+      "stopDescription": "Calle  Gran v\u00eda 28",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420130000000000",
+      "stopLong": "-3.701810000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_11_40",
+      "stopDescription": "Calle de la Montera 44",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.419510000000000",
+      "stopLong": "-3.701670000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_317",
+      "stopDescription": "Calle de Orense 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.447070000000000",
+      "stopLong": "-3.695380000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_318",
+      "stopDescription": "Calle de Agust\u00edn de Betancourt 25",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446100000000000",
+      "stopLong": "-3.695240000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_319",
+      "stopDescription": "Paseo de la Castellana 71",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446950000000000",
+      "stopLong": "-3.693140000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_320",
+      "stopDescription": "Calle de Raimundo Fern\u00e1ndez Villaverde 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446580000000000",
+      "stopLong": "-3.692430000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_321",
+      "stopDescription": "Calle de Raimundo Fernandez Villaverde 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446580000000000",
+      "stopLong": "-3.693010000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_322",
+      "stopDescription": "Calle de Raimundo Fernandez Villaverde 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446560000000000",
+      "stopLong": "-3.693010000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_395",
+      "stopDescription": "Paseo de la Castellana 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.445920000000000",
+      "stopLong": "-3.691700000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_396",
+      "stopDescription": "Paseo de la Castellana 110",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.445830000000000",
+      "stopLong": "-3.690730000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_397",
+      "stopDescription": "Paseo de la Castellana 69",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446620000000000",
+      "stopLong": "-3.691530000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_398",
+      "stopDescription": "Paseo de la Castellana 100",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.444370000000000",
+      "stopLong": "-3.690940000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_399",
+      "stopDescription": "Paseo de la Castellana 69",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446570000000000",
+      "stopLong": "-3.692180000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_403",
+      "stopDescription": "Paseo de la Castellana 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.444830000000000",
+      "stopLong": "-3.691750000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_404",
+      "stopDescription": "Paseo de la Castellana 69",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446520000000000",
+      "stopLong": "-3.691550000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_405",
+      "stopDescription": "Paseo de la Castellana 100",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.444570000000000",
+      "stopLong": "-3.690910000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_406",
+      "stopDescription": "Calle de Raimundo Fern\u00e1ndez Villaverde 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446570000000000",
+      "stopLong": "-3.692100000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_603",
+      "stopDescription": "Calle de Raimundo Fern\u00e1ndez Villaverde 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446580000000000",
+      "stopLong": "-3.692500000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_605",
+      "stopDescription": "Calle de Raimundo Fern\u00e1ndez Villaverde 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446240000000000",
+      "stopLong": "-3.693680000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_606",
+      "stopDescription": "Calle de Raimundo Fern\u00e1ndez Villaverde 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446300000000000",
+      "stopLong": "-3.693680000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_607",
+      "stopDescription": "Calle de Raimundo Fern\u00e1ndez Villaverde 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446190000000000",
+      "stopLong": "-3.693710000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_608",
+      "stopDescription": "Paseo de la Castellana 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.445170000000000",
+      "stopLong": "-3.691990000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_120_609",
+      "stopDescription": "Paseo de la Castellana 67",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.445050000000000",
+      "stopLong": "-3.692000000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_122_323",
+      "stopDescription": "Calle del General Rodrigo 17",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.445700000000000",
+      "stopLong": "-3.714010000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_122_324",
+      "stopDescription": "Avda de la Reina Victoria 55",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.445980000000000",
+      "stopLong": "-3.713210000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_122_325",
+      "stopDescription": "Avda de la Reina Victoria 55",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.445890000000000",
+      "stopLong": "-3.713660000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_122_326",
+      "stopDescription": "Calle de la Reina Victoria 32",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.447070000000000",
+      "stopLong": "-3.710230000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_122_327",
+      "stopDescription": "Calle de la Reina Victoria 30",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.447170000000000",
+      "stopLong": "-3.709790000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_123_328",
+      "stopDescription": "Avda de Gregorio del Amo 8",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446190000000000",
+      "stopLong": "-3.720030000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_123_329",
+      "stopDescription": "Avda de la Moncloa 15",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446640000000000",
+      "stopLong": "-3.717870000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_124_330",
+      "stopDescription": "Plaza de Ram\u00f3n y Cajal 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443590000000000",
+      "stopLong": "-3.726580000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_124_331",
+      "stopDescription": "Plaza de Ram\u00f3n y Cajal 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443560000000000",
+      "stopLong": "-3.726970000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_124_332",
+      "stopDescription": "Plaza de Ram\u00f3n y Cajal 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443630000000000",
+      "stopLong": "-3.726870000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_127_1052",
+      "stopDescription": "Paseo de la Florida 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420860000000000",
+      "stopLong": "-3.720370000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_127_333",
+      "stopDescription": "Paseo del Rey 12",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.421410000000000",
+      "stopLong": "-3.718590000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_127_334",
+      "stopDescription": "Paseo de la Florida 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420930000000000",
+      "stopLong": "-3.720450000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_127_336",
+      "stopDescription": "Paseo del Rey 14",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.421530000000000",
+      "stopLong": "-3.718730000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_127_610",
+      "stopDescription": "Custa de San Vicente 40",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420550000000000",
+      "stopLong": "-3.719680000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_127_612",
+      "stopDescription": "Custa de San Vicente 40",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420840000000000",
+      "stopLong": "-3.718920000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_127_613",
+      "stopDescription": "Gta de San Vicente 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420810000000000",
+      "stopLong": "-3.720120000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_127_614",
+      "stopDescription": "Paseo de la Florida 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.421370000000000",
+      "stopLong": "-3.721040000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_128_339",
+      "stopDescription": "Plaza de Santa Cristina 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.414230000000000",
+      "stopLong": "-3.727280000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_128_340",
+      "stopDescription": "Calle de Caramuel 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.413680000000000",
+      "stopLong": "-3.727060000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_12_1034",
+      "stopDescription": "Plaza de la Puerta del Sol 13",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417070000000000",
+      "stopLong": "-3.702960000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_12_1048",
+      "stopDescription": "Plaza de la Puerta del Sol 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.416850000000000",
+      "stopLong": "-3.702960000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_12_41",
+      "stopDescription": "Plaza de la Puerta del Sol 7",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.416650000000000",
+      "stopLong": "-3.703530000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_12_42",
+      "stopDescription": "Plaza de la Puerta del Sol 12",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417140000000000",
+      "stopLong": "-3.703290000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_12_43",
+      "stopDescription": "Plaza de la Puerta del Sol 9",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.416710000000000",
+      "stopLong": "-3.704580000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_12_776",
+      "stopDescription": "Plaza de la Puerta del Sol 8",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.416670000000000",
+      "stopLong": "-3.704410000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_12_777",
+      "stopDescription": "Calle de Preciados 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417240000000000",
+      "stopLong": "-3.704150000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_132_346",
+      "stopDescription": "Avda de Niza 59",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432560000000000",
+      "stopLong": "-3.607900000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_132_802",
+      "stopDescription": "Avda de Niza 59",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432600000000000",
+      "stopLong": "-3.607470000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_133_347",
+      "stopDescription": "Calle de Pobladura del Valle 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.427490000000000",
+      "stopLong": "-3.616170000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_133_348",
+      "stopDescription": "Calle de Pobladura del Valle 27",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.427890000000000",
+      "stopLong": "-3.615680000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_134_349",
+      "stopDescription": "Calle de Alberique 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.427650000000000",
+      "stopLong": "-3.622740000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_134_350",
+      "stopDescription": "Calle del Castillo de Ucl\u00e9s 11",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.427860000000000",
+      "stopLong": "-3.625810000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_134_351",
+      "stopDescription": "Calle de Zarat\u00e1n 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.428420000000000",
+      "stopLong": "-3.625640000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_135_352",
+      "stopDescription": "Calle de Luis del Campo SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.429170000000000",
+      "stopLong": "-3.632030000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_135_353",
+      "stopDescription": "Calle de Jos\u00e9 Arcones Gil 106",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.428210000000000",
+      "stopLong": "-3.634190000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_136_354",
+      "stopDescription": "Calle de Ascao 29",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.430170000000000",
+      "stopLong": "-3.641150000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_138_355",
+      "stopDescription": "Calle de Mart\u00ednez Villergas 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.439210000000000",
+      "stopLong": "-3.651730000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_138_356",
+      "stopDescription": "Plaza de la Virgen del Romero 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438550000000000",
+      "stopLong": "-3.651640000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_139_357",
+      "stopDescription": "Avda de Bruselas 57",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.439450000000000",
+      "stopLong": "-3.663070000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_139_358",
+      "stopDescription": "Avda de Bruselas 56",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.439450000000000",
+      "stopLong": "-3.662880000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_13_44",
+      "stopDescription": "Plaza de Tirso de Molina 14",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.412390000000000",
+      "stopLong": "-3.705050000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_13_45",
+      "stopDescription": "Plaza de Tirso de Molina 20",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.412450000000000",
+      "stopLong": "-3.703730000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_140_359",
+      "stopDescription": "Avda de Am\u00e9rica 32",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.439060000000000",
+      "stopLong": "-3.672030000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_140_360",
+      "stopDescription": "Avda de Am\u00e9rica 37",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.439450000000000",
+      "stopLong": "-3.672190000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_142_361",
+      "stopDescription": "Calle de Miguel \u00c1ngel 33",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.437920000000000",
+      "stopLong": "-3.691380000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_142_362",
+      "stopDescription": "Calle de Jos\u00e9 Abascal 65",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438230000000000",
+      "stopLong": "-3.691410000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_142_363",
+      "stopDescription": "Calle de Jos\u00e9 Abascal 58",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.437970000000000",
+      "stopLong": "-3.691670000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_143_364",
+      "stopDescription": "Calle de Jos\u00e9 Abascal 26",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438280000000000",
+      "stopLong": "-3.698190000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_143_365",
+      "stopDescription": "Calle de Jos\u00e9 Abascal 20",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438310000000000",
+      "stopLong": "-3.698880000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_143_366",
+      "stopDescription": "Calle de Jos\u00e9 Abascal 20",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438300000000000",
+      "stopLong": "-3.699200000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_145_367",
+      "stopDescription": "Calle de Cea Berm\u00fadez 64",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.439220000000000",
+      "stopLong": "-3.714970000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_145_368",
+      "stopDescription": "Calle de Cea Berm\u00fadez 55",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.439000000000000",
+      "stopLong": "-3.714980000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_145_369",
+      "stopDescription": "Calle de Cea Berm\u00fadez 51",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438980000000000",
+      "stopLong": "-3.714260000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_145_370",
+      "stopDescription": "Calle de Cea Berm\u00fadez 50",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.439150000000000",
+      "stopLong": "-3.713060000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_145_371",
+      "stopDescription": "Calle de Cea Berm\u00fadez 43",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438970000000000",
+      "stopLong": "-3.713020000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_147_372",
+      "stopDescription": "Calle de Moguer 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.456630000000000",
+      "stopLong": "-3.712400000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_147_373",
+      "stopDescription": "Calle de Alejandro Rodr\u00edguez 39",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.456310000000000",
+      "stopLong": "-3.711930000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_147_374",
+      "stopDescription": "Avda de Pablo Iglesias 93",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.457170000000000",
+      "stopLong": "-3.711870000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_147_375",
+      "stopDescription": "Avda de Pablo Iglesias 96",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.457140000000000",
+      "stopLong": "-3.711620000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_147_376",
+      "stopDescription": "Avda de Pablo Iglesias 92",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.456550000000000",
+      "stopLong": "-3.711950000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_148_377",
+      "stopDescription": "Calle de San Restituto 72",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.465130000000000",
+      "stopLong": "-3.716750000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_148_378",
+      "stopDescription": "Calle de San Restituto 72",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.464990000000000",
+      "stopLong": "-3.716580000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_148_379",
+      "stopDescription": "Calle de San Restituto 58",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.464930000000000",
+      "stopLong": "-3.714980000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_148_380",
+      "stopDescription": "Calle de Arciniega 11",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.464460000000000",
+      "stopLong": "-3.714490000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_149_381",
+      "stopDescription": "Calle de Valderrodrigo 82",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.470120000000000",
+      "stopLong": "-3.717750000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_149_382",
+      "stopDescription": "Calle de Valderrodrigo 82",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.469950000000000",
+      "stopLong": "-3.718090000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_149_383",
+      "stopDescription": "Calle de Valderrodrigo 55",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.470260000000000",
+      "stopLong": "-3.717880000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_14_46",
+      "stopDescription": "Calle del Amor de Dios 14",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.412300000000000",
+      "stopLong": "-3.698650000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_14_47",
+      "stopDescription": "Plaza de Ant\u00f3n Mart\u00edn 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.412420000000000",
+      "stopLong": "-3.699580000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_14_49",
+      "stopDescription": "Calle de Atocha 85",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.411520000000000",
+      "stopLong": "-3.697330000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_14_50",
+      "stopDescription": "Calle de Atocha 76",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.411420000000000",
+      "stopLong": "-3.697420000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_150_384",
+      "stopDescription": "Cmno de Ganapanes 35",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.476020000000000",
+      "stopLong": "-3.716110000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_150_385",
+      "stopDescription": "Cmno de Ganapanes SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.476070000000000",
+      "stopLong": "-3.715840000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_150_386",
+      "stopDescription": "Cmno de Ganapanes 35",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.475850000000000",
+      "stopLong": "-3.716130000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_151_387",
+      "stopDescription": "Calle de las Islas C\u00edes 23",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.480090000000000",
+      "stopLong": "-3.718350000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_151_388",
+      "stopDescription": "Calle de las Islas C\u00edes 21",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.480040000000000",
+      "stopLong": "-3.718340000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_152_389",
+      "stopDescription": "Calle de Ram\u00f3n G\u00f3mez de la Serna 37",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.484620000000000",
+      "stopLong": "-3.723290000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_152_390",
+      "stopDescription": "Calle de Riscos de Polanco 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.485170000000000",
+      "stopLong": "-3.722890000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_152_391",
+      "stopDescription": "Calle de Riscos de Polanco 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.484980000000000",
+      "stopLong": "-3.722880000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_154_392",
+      "stopDescription": "Calle de Gloria Fuertes 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.495190000000000",
+      "stopLong": "-3.725590000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_154_394",
+      "stopDescription": "Calle de Gloria Fuertes 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.495000000000000",
+      "stopLong": "-3.725560000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_156_409",
+      "stopDescription": "Calle del Pr\u00edncipe de Vergara 263",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.456700000000000",
+      "stopLong": "-3.677170000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_156_410",
+      "stopDescription": "Calle del Pr\u00edncipe de Vergara 260",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.456480000000000",
+      "stopLong": "-3.676920000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_156_411",
+      "stopDescription": "Calle del Pr\u00edncipe de Vergara 275",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.458110000000000",
+      "stopLong": "-3.677010000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_156_412",
+      "stopDescription": "Calle del Pr\u00edncipe de Vergara 268",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.457870000000000",
+      "stopLong": "-3.676690000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_156_413",
+      "stopDescription": "Calle de Colombia 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.457210000000000",
+      "stopLong": "-3.677230000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_158_414",
+      "stopDescription": "Avda de la Capital de Espa\u00f1a Madrid 13",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.463430000000000",
+      "stopLong": "-3.616190000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_158_415",
+      "stopDescription": "Avda del Parten\u00f3n 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.464050000000000",
+      "stopLong": "-3.616810000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_158_416",
+      "stopDescription": "Avda del Parten\u00f3n 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.464080000000000",
+      "stopLong": "-3.615800000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_158_417",
+      "stopDescription": "Avda del Parten\u00f3n 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.464190000000000",
+      "stopLong": "-3.615940000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_159_418",
+      "stopDescription": "Avda de la Hispanidad 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.468240000000000",
+      "stopLong": "-3.570990000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_159_419",
+      "stopDescription": "Avda de la Hispanidad 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.468230000000000",
+      "stopLong": "-3.571140000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_159_420",
+      "stopDescription": "Avda de la Hispanidad 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.467910000000000",
+      "stopLong": "-3.571910000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_160_421",
+      "stopDescription": "Avda de Logro\u00f1o 347",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.475760000000000",
+      "stopLong": "-3.582550000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_160_422",
+      "stopDescription": "Avda de Logro\u00f1o 347",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.475800000000000",
+      "stopLong": "-3.582530000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_161_423",
+      "stopDescription": "Calle de Ginzo de Limia 47",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.483770000000000",
+      "stopLong": "-3.706900000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_161_424",
+      "stopDescription": "Calle de Ginzo de Limia SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.485310000000000",
+      "stopLong": "-3.708470000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_162_425",
+      "stopDescription": "Calle de Ginzo de Limia 29",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.477970000000000",
+      "stopLong": "-3.704000000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_162_426",
+      "stopDescription": "Calle de Ginzo de Limia 36",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.478070000000000",
+      "stopLong": "-3.703540000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_162_427",
+      "stopDescription": "Calle de Ginzo de Limia 11",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.476250000000000",
+      "stopLong": "-3.703320000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_162_428",
+      "stopDescription": "Calle de Ginzo de Limia 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.476320000000000",
+      "stopLong": "-3.702940000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_163_429",
+      "stopDescription": "Avda de Asturias 33",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.469450000000000",
+      "stopLong": "-3.696100000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_163_430",
+      "stopDescription": "Avda de Asturias 34",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.469720000000000",
+      "stopLong": "-3.695710000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_165_431",
+      "stopDescription": "Calle de Mateo Inurria 58",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.467460000000000",
+      "stopLong": "-3.679290000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_166_432",
+      "stopDescription": "Avda de P\u00edo XII 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.462620000000000",
+      "stopLong": "-3.675960000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_166_433",
+      "stopDescription": "Avda de P\u00edo XII 16",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.465010000000000",
+      "stopLong": "-3.675520000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_168_434",
+      "stopDescription": "Calle del Pr\u00edncipe de Vergara 204",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.449430000000000",
+      "stopLong": "-3.677670000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_168_435",
+      "stopDescription": "Calle de Pr\u00edncipe de Vergara 246",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.452330000000000",
+      "stopLong": "-3.677250000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_169_436",
+      "stopDescription": "Calle del Pr\u00edncipe de Vergara 146",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446260000000000",
+      "stopLong": "-3.678030000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_169_437",
+      "stopDescription": "Calle del Pr\u00edncipe de Vergara 157",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446280000000000",
+      "stopLong": "-3.678340000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_169_438",
+      "stopDescription": "Calle del Pr\u00edncipe de Vergara 131",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443130000000000",
+      "stopLong": "-3.678690000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_169_439",
+      "stopDescription": "Calle del Pr\u00edncipe de Vergara 128",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443110000000000",
+      "stopLong": "-3.678390000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_173_440",
+      "stopDescription": "Calle de Ibiza 7",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418360000000000",
+      "stopLong": "-3.678030000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_175_441",
+      "stopDescription": "Calle del Camino de los Vinateros 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.411210000000000",
+      "stopLong": "-3.660110000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_175_442",
+      "stopDescription": "Calle del Camino de los Vinateros 12",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.410610000000000",
+      "stopLong": "-3.660170000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_175_443",
+      "stopDescription": "Calle de Sirio 24",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.411770000000000",
+      "stopLong": "-3.663420000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_176_446",
+      "stopDescription": "Calle del Camino de los Vinateros 59",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.410280000000000",
+      "stopLong": "-3.652700000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_176_447",
+      "stopDescription": "Calle del Arroyo Belincoso 36",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.410050000000000",
+      "stopLong": "-3.652460000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_187_471",
+      "stopDescription": "Calle de la Fuente Chica 23",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.495090000000000",
+      "stopLong": "-3.693260000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_188_472",
+      "stopDescription": "Paseo de la Castellana 261",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.480230000000000",
+      "stopLong": "-3.685890000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_188_473",
+      "stopDescription": "Calle de San Modesto 10",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.483450000000000",
+      "stopLong": "-3.687110000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_191_475",
+      "stopDescription": "Paseo de la Castellana 125",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.458460000000000",
+      "stopLong": "-3.690310000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_191_476",
+      "stopDescription": "Paseo de la Castellana 162",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.458460000000000",
+      "stopLong": "-3.689650000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_192_477",
+      "stopDescription": "Paseo de la Castellana 101",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.451510000000000",
+      "stopLong": "-3.691310000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_192_478",
+      "stopDescription": "Paseo de la Castellana 136",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.451450000000000",
+      "stopLong": "-3.690390000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_192_479",
+      "stopDescription": "Paseo de la Castellana 101",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.453830000000000",
+      "stopLong": "-3.690760000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_192_480",
+      "stopDescription": "Paseo de la Castellana 142 B",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.453810000000000",
+      "stopLong": "-3.690260000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_199_481",
+      "stopDescription": "Paseo de la Puerta del \u00c1ngel SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.416520000000000",
+      "stopLong": "-3.734770000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_1_1",
+      "stopDescription": "Paseo de la Castellana 189",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.466820000000000",
+      "stopLong": "-3.689180000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_1_1040",
+      "stopDescription": "Plaza de Castilla 9",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.465550000000000",
+      "stopLong": "-3.688770000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_1_1043",
+      "stopDescription": "Paseo de la Castellana 191 B",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.467280000000000",
+      "stopLong": "-3.689150000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_1_1044",
+      "stopDescription": "Paseo de la Castellana 189",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.467020000000000",
+      "stopLong": "-3.689180000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_1_2",
+      "stopDescription": "Paseo de la Castellana 189",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.467220000000000",
+      "stopLong": "-3.689520000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_1_3",
+      "stopDescription": "Calle de Bravo Murillo 377",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.466290000000000",
+      "stopLong": "-3.690360000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_1_4",
+      "stopDescription": "Plaza de Castilla 9",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.465460000000000",
+      "stopLong": "-3.688910000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_1_773",
+      "stopDescription": "Plaza de Castilla 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.466210000000000",
+      "stopLong": "-3.690280000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_252_623",
+      "stopDescription": "Calle de la Corbeta 12",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.457390000000000",
+      "stopLong": "-3.588100000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_252_624",
+      "stopDescription": "Calle de la Corbeta 14",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.457530000000000",
+      "stopLong": "-3.587750000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_253_625",
+      "stopDescription": "Calle de Velero 15",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.452940000000000",
+      "stopLong": "-3.594940000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_253_626",
+      "stopDescription": "Calle de Velero 17",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.453310000000000",
+      "stopLong": "-3.594380000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_253_627",
+      "stopDescription": "Calle de Pinos de Osuna 15",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.453610000000000",
+      "stopLong": "-3.593540000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_258_637",
+      "stopDescription": "G.v. de Hortaleza 49 A",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.468150000000000",
+      "stopLong": "-3.648310000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_258_638",
+      "stopDescription": "Avda de la Gran V\u00eda de Hortaleza SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.468010000000000",
+      "stopLong": "-3.648150000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_260_640",
+      "stopDescription": "Avda del Marqu\u00e9s de Corbera 56",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.426470000000000",
+      "stopLong": "-3.650710000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_260_641",
+      "stopDescription": "Avda del Marqu\u00e9s de Corbera 58",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.426510000000000",
+      "stopLong": "-3.650420000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_261_474",
+      "stopDescription": "Calle del Padre Francisco Palau y Quer SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.473140000000000",
+      "stopLong": "-3.683080000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_261_642",
+      "stopDescription": "Calle del Padre Francisco Palau y Quer SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.473230000000000",
+      "stopLong": "-3.683130000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_262_643",
+      "stopDescription": "Calle del Bamb\u00fa 14",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.476830000000000",
+      "stopLong": "-3.676420000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_262_644",
+      "stopDescription": "Calle del Bamb\u00fa 14",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.477050000000000",
+      "stopLong": "-3.676840000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_263_645",
+      "stopDescription": "Calle de Arturo Soria 330",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.480200000000000",
+      "stopLong": "-3.666820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_263_646",
+      "stopDescription": "Calle de Arturo Soria 330",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.480150000000000",
+      "stopLong": "-3.666930000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_264_647",
+      "stopDescription": "Calle del Capit\u00e1n Cort\u00e9s 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.474880000000000",
+      "stopLong": "-3.652340000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_264_648",
+      "stopDescription": "Calle de la Costa del sol 20 D",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.474200000000000",
+      "stopLong": "-3.652040000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_265_649",
+      "stopDescription": "Calle de V\u00e9lez Rubio 1 D",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.476840000000000",
+      "stopLong": "-3.662850000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_265_650",
+      "stopDescription": "Calle de V\u00e9lez Rubio 1 D",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.476840000000000",
+      "stopLong": "-3.662850000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_274_693",
+      "stopDescription": "Calle del Retablo de Melisendra SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.501080000000000",
+      "stopLong": "-3.694740000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_275_691",
+      "stopDescription": "Avda de Monasterio de Silos 63 A",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.505290000000000",
+      "stopLong": "-3.695820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_275_692",
+      "stopDescription": "Avda de Monasterio de Silos 63 A",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.505280000000000",
+      "stopLong": "-3.695840000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_276_689",
+      "stopDescription": "Calle de Palas de Rey 30",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.508430000000000",
+      "stopLong": "-3.669360000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_276_690",
+      "stopDescription": "Calle de Palas de Rey 30",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.508440000000000",
+      "stopLong": "-3.669390000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_277_687",
+      "stopDescription": "Ronda de la Comunicaci\u00f3n 20",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.515710000000000",
+      "stopLong": "-3.662840000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_277_688",
+      "stopDescription": "Ronda de la Comunicaci\u00f3n 20",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.515860000000000",
+      "stopLong": "-3.662890000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_278_685",
+      "stopDescription": "Calle de Sep\u00falveda 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.527630000000000",
+      "stopLong": "-3.658650000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_278_686",
+      "stopDescription": "Calle de la Granja 14",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.527720000000000",
+      "stopLong": "-3.658550000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_279_683",
+      "stopDescription": "Avda de la Ermita 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.531870000000000",
+      "stopLong": "-3.635500000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_279_684",
+      "stopDescription": "Avda de la Ermita 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.531990000000000",
+      "stopLong": "-3.635480000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_280_680",
+      "stopDescription": "Calle del Marqu\u00e9s de la Valdavia 21",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.541120000000000",
+      "stopLong": "-3.637390000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_280_681",
+      "stopDescription": "Calle del Marqu\u00e9s de la Valdavia 21",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.541070000000000",
+      "stopLong": "-3.637550000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_281_678",
+      "stopDescription": "Calle  Manuel de Falla 59",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.550440000000000",
+      "stopLong": "-3.647080000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_281_679",
+      "stopDescription": "Calle  Manuel de Falla 59",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.550630000000000",
+      "stopLong": "-3.646820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_282_676",
+      "stopDescription": "Avda de las Lomas del Rey 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.554390000000000",
+      "stopLong": "-3.635070000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_282_677",
+      "stopDescription": "Avda de las Lomas del Rey 8",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.554350000000000",
+      "stopLong": "-3.635400000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_283_674",
+      "stopDescription": "Avda de la Plaza de Toros 7",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.550280000000000",
+      "stopLong": "-3.623360000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_283_675",
+      "stopDescription": "Avda de la Plaza de Toros 7",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.550390000000000",
+      "stopLong": "-3.623270000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_284_671",
+      "stopDescription": "Paseo  Europa SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.560200000000000",
+      "stopLong": "-3.611430000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_284_672",
+      "stopDescription": "Paseo  Europa SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.559760000000000",
+      "stopLong": "-3.610660000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_284_673",
+      "stopDescription": "Paseo  Europa SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.559700000000000",
+      "stopLong": "-3.610770000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_285_694",
+      "stopDescription": "Ctra de Alcobendas a Barajas SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.492180000000000",
+      "stopLong": "-3.593160000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_286_710",
+      "stopDescription": "Avda de Arcentales SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433840000000000",
+      "stopLong": "-3.601020000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_286_711",
+      "stopDescription": "Calle de Estocolmo 91",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432980000000000",
+      "stopLong": "-3.601650000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_286_712",
+      "stopDescription": "Calle de Estocolmo 91",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432910000000000",
+      "stopLong": "-3.601520000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_287_708",
+      "stopDescription": "Avda de Espa\u00f1a 8",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.422700000000000",
+      "stopLong": "-3.568820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_287_709",
+      "stopDescription": "Avda de Espa\u00f1a 8",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.422730000000000",
+      "stopLong": "-3.568950000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_288_703",
+      "stopDescription": "Calle del Doctor Fleming SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423850000000000",
+      "stopLong": "-3.561970000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_288_704",
+      "stopDescription": "Calle de Luis Braille SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423820000000000",
+      "stopLong": "-3.561170000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_288_706",
+      "stopDescription": "Calle de Luis Braille SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423730000000000",
+      "stopLong": "-3.560830000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_288_707",
+      "stopDescription": "Calle del Doctor Fleming SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423550000000000",
+      "stopLong": "-3.562000000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_289_701",
+      "stopDescription": "Calle  Honduras SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425120000000000",
+      "stopLong": "-3.547820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_289_702",
+      "stopDescription": "Calle  Honduras SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425190000000000",
+      "stopLong": "-3.547980000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_28_93",
+      "stopDescription": "Calle de Alcal\u00e1 237",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.431040000000000",
+      "stopLong": "-3.663290000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_28_94",
+      "stopDescription": "Calle de Alcal\u00e1 237",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.431200000000000",
+      "stopLong": "-3.663380000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_290_699",
+      "stopDescription": "Calle de Gonzalo de C\u00f3rdoba 24",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424420000000000",
+      "stopLong": "-3.535350000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_290_700",
+      "stopDescription": "Calle de Gonzalo de C\u00f3rdoba 26",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424470000000000",
+      "stopLong": "-3.535870000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_291_697",
+      "stopDescription": "Plaza  Guernica 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.422860000000000",
+      "stopLong": "-3.525430000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_291_698",
+      "stopDescription": "Plaza  Guernica 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.422990000000000",
+      "stopLong": "-3.525440000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_292_695",
+      "stopDescription": "Avda de Algorta 12",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417790000000000",
+      "stopLong": "-3.527090000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_292_696",
+      "stopDescription": "Avda de Algorta 12",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417730000000000",
+      "stopLong": "-3.527250000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_296_761",
+      "stopDescription": "Camino  Labor SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417560000000000",
+      "stopLong": "-3.534420000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_296_762",
+      "stopDescription": "Camino  Labor SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417840000000000",
+      "stopLong": "-3.534950000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_29_95",
+      "stopDescription": "Plaza de Manuel Becerra 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.428200000000000",
+      "stopLong": "-3.669510000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_29_96",
+      "stopDescription": "Plaza de Manuel Becerra 20",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.427620000000000",
+      "stopLong": "-3.669270000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_2_5",
+      "stopDescription": "Calle de Bravo Murillo 324",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.464090000000000",
+      "stopLong": "-3.695770000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_2_6",
+      "stopDescription": "Calle de Bravo Murillo 350",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.464790000000000",
+      "stopLong": "-3.693990000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_100",
+      "stopDescription": "Avda de Felipe II 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424210000000000",
+      "stopLong": "-3.676100000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_101",
+      "stopDescription": "Calle de Goya 62",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424780000000000",
+      "stopLong": "-3.677580000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_778",
+      "stopDescription": "Calle de Goya 87",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424940000000000",
+      "stopLong": "-3.676620000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_779",
+      "stopDescription": "Calle de Goya 87",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424950000000000",
+      "stopLong": "-3.676660000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_780",
+      "stopDescription": "Avda de Felipe II 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424230000000000",
+      "stopLong": "-3.676190000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_781",
+      "stopDescription": "Avda de Felipe II 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424220000000000",
+      "stopLong": "-3.676150000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_782",
+      "stopDescription": "Calle del General D\u00edaz Porlier 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424410000000000",
+      "stopLong": "-3.677340000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_97",
+      "stopDescription": "Calle del Conde del Pe\u00f1alver 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424990000000000",
+      "stopLong": "-3.675560000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_98",
+      "stopDescription": "Calle de Goya 89",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425080000000000",
+      "stopLong": "-3.675810000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_30_99",
+      "stopDescription": "Avda de Felipe II 12",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423900000000000",
+      "stopLong": "-3.676140000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_31_103",
+      "stopDescription": "Calle de Alcal\u00e1 125",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423080000000000",
+      "stopLong": "-3.679760000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_322_1058",
+      "stopDescription": "Calle de Arriaga 75",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423740000000000",
+      "stopLong": "-3.639250000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_322_1059",
+      "stopDescription": "Calle de Francisco Largo Caballero 15",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423580000000000",
+      "stopLong": "-3.639090000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_323_1060",
+      "stopDescription": "Plaza de Alsacia S/N",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417670000000000",
+      "stopLong": "-3.623010000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_323_1061",
+      "stopDescription": "Plaza de Alsacia S/N",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418060000000000",
+      "stopLong": "-3.623260000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_323_1062",
+      "stopDescription": "Avda de Guadalajara 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418640000000000",
+      "stopLong": "-3.623190000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_323_1063",
+      "stopDescription": "Avda de Guadalajara 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418610000000000",
+      "stopLong": "-3.623400000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_324_1064",
+      "stopDescription": "Avda de Guadalajara 110",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.422330000000000",
+      "stopLong": "-3.611960000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_324_1065",
+      "stopDescription": "Avda de Guadalajara 110",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.422460000000000",
+      "stopLong": "-3.611620000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_325_1066",
+      "stopDescription": "Calle de Suecia 44",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423900000000000",
+      "stopLong": "-3.603660000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_325_1067",
+      "stopDescription": "Paseo de Ginebra 35",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423760000000000",
+      "stopLong": "-3.603040000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_326_1068",
+      "stopDescription": "Avda del Ventisquero de la Condesa 28",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.491030000000000",
+      "stopLong": "-3.716350000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_326_1069",
+      "stopDescription": "Avda del Ventisquero de la Condesa 28",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.491240000000000",
+      "stopLong": "-3.716870000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_32_104",
+      "stopDescription": "Calle de Lagasca 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420820000000000",
+      "stopLong": "-3.685820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_32_105",
+      "stopDescription": "Calle de Lagasca 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420960000000000",
+      "stopLong": "-3.685810000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_32_106",
+      "stopDescription": "Calle de Alcal\u00e1 60",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420050000000000",
+      "stopLong": "-3.686120000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_32_107",
+      "stopDescription": "Calle de Alcal\u00e1 75",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420440000000000",
+      "stopLong": "-3.687100000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_33_108",
+      "stopDescription": "Calle de Alcal\u00e1 51",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.419370000000000",
+      "stopLong": "-3.694190000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_33_109",
+      "stopDescription": "Calle de Alcal\u00e1 48",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418950000000000",
+      "stopLong": "-3.694510000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_33_110",
+      "stopDescription": "Calle de Alcal\u00e1 46",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418740000000000",
+      "stopLong": "-3.695630000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_33_111",
+      "stopDescription": "Calle de Alcal\u00e1 47",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.419070000000000",
+      "stopLong": "-3.695840000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_345_1075",
+      "stopDescription": "Calle de Monasterio de Las Huelgas 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.499630000000000",
+      "stopLong": "-3.709160000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_345_1076",
+      "stopDescription": "Calle de Monasterio de Las Huelgas 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.499620000000000",
+      "stopLong": "-3.709240000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_34_112",
+      "stopDescription": "Calle de Alcal\u00e1 16",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417730000000000",
+      "stopLong": "-3.699480000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_34_113",
+      "stopDescription": "Calle de Alcal\u00e1 21",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.417900000000000",
+      "stopLong": "-3.699630000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_34_114",
+      "stopDescription": "Calle de Alcal\u00e1 23",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418070000000000",
+      "stopLong": "-3.699110000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_36_1054",
+      "stopDescription": "Plaza de Isabel II 9",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418060000000000",
+      "stopLong": "-3.709360000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_36_1056",
+      "stopDescription": "Plaza de Isabel II 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418230000000000",
+      "stopLong": "-3.709350000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_36_1057",
+      "stopDescription": "Plaza de Isabel II 8",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.418110000000000",
+      "stopLong": "-3.709250000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_37_116",
+      "stopDescription": "Plaza de Santo Domingo 6",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420440000000000",
+      "stopLong": "-3.708600000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_37_117",
+      "stopDescription": "Calle  Gran V\u00eda 51",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.421300000000000",
+      "stopLong": "-3.707780000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_38_118",
+      "stopDescription": "Calle de San Bernardo 45",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424200000000000",
+      "stopLong": "-3.707460000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_38_119",
+      "stopDescription": "Calle de San Bernardo 51",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425500000000000",
+      "stopLong": "-3.707420000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_39_120",
+      "stopDescription": "Gta de Ruiz Jim\u00e9nez 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.429880000000000",
+      "stopLong": "-3.706040000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_39_121",
+      "stopDescription": "Gta de Ruiz Jim\u00e9nez 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.429670000000000",
+      "stopLong": "-3.705300000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_3_7",
+      "stopDescription": "Calle de Bravo Murillo 269",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.459820000000000",
+      "stopLong": "-3.699290000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_3_8",
+      "stopDescription": "Calle del General Margallo 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.461150000000000",
+      "stopLong": "-3.697880000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_40_122",
+      "stopDescription": "Gta de Quevedo 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433390000000000",
+      "stopLong": "-3.704720000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_40_123",
+      "stopDescription": "Gta de Quevedo 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433110000000000",
+      "stopLong": "-3.704340000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_41_124",
+      "stopDescription": "Calle de Bravo Murillo 40",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438320000000000",
+      "stopLong": "-3.704120000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_41_125",
+      "stopDescription": "Calle de Bravo Murillo 47",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438250000000000",
+      "stopLong": "-3.704340000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_41_126",
+      "stopDescription": "Calle de Bravo Murillo 47 A",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438460000000000",
+      "stopLong": "-3.704410000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_49_139",
+      "stopDescription": "Calle del Carmen 28",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.419710000000000",
+      "stopLong": "-3.705490000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_49_140",
+      "stopDescription": "Plaza del Callao 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420020000000000",
+      "stopLong": "-3.705810000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_49_141",
+      "stopDescription": "Calle  Gran V\u00eda 39",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420140000000000",
+      "stopLong": "-3.705240000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_49_142",
+      "stopDescription": "Calle  Gran V\u00eda 46",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420490000000000",
+      "stopLong": "-3.706070000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_49_792",
+      "stopDescription": "Calle de Jacometrezo 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420090000000000",
+      "stopLong": "-3.706130000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_49_793",
+      "stopDescription": "Calle de Jacometrezo 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420100000000000",
+      "stopLong": "-3.706140000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_49_794",
+      "stopDescription": "Plaza del Callao 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.420130000000000",
+      "stopLong": "-3.705800000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_4_10",
+      "stopDescription": "Calle de Bravo Murillo 170",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.453670000000000",
+      "stopLong": "-3.702830000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_4_11",
+      "stopDescription": "Calle de Bravo Murillo 194",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.455250000000000",
+      "stopLong": "-3.702480000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_4_12",
+      "stopDescription": "Calle de Bravo Murillo 205",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.455330000000000",
+      "stopLong": "-3.702740000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_4_9",
+      "stopDescription": "Calle de Bravo Murillo 183",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.453630000000000",
+      "stopLong": "-3.703090000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_50_143",
+      "stopDescription": "Plaza de Gran V\u00eda 73",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423190000000000",
+      "stopLong": "-3.710970000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_50_144",
+      "stopDescription": "Calle  Gran V\u00eda 80",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423310000000000",
+      "stopLong": "-3.710510000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_50_145",
+      "stopDescription": "Plaza de Espa\u00f1a 18",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424150000000000",
+      "stopLong": "-3.711960000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_50_146",
+      "stopDescription": "Calle de los Reyes 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423640000000000",
+      "stopLong": "-3.710670000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_50_147",
+      "stopDescription": "Calle de la Princesa 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.423670000000000",
+      "stopLong": "-3.710940000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_50_148",
+      "stopDescription": "Plaza del Conde de Toreno 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424350000000000",
+      "stopLong": "-3.709250000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_50_149",
+      "stopDescription": "Plaza del Conde de Toreno 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424350000000000",
+      "stopLong": "-3.709240000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_50_795",
+      "stopDescription": "Plaza de Espa\u00f1a 18",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424140000000000",
+      "stopLong": "-3.711820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_51_150",
+      "stopDescription": "Calle de la Princesa 23",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.426970000000000",
+      "stopLong": "-3.713750000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_51_618",
+      "stopDescription": "Calle de la Princesa 22",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.427180000000000",
+      "stopLong": "-3.713580000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_51_796",
+      "stopDescription": "Calle de la Princesa 22",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.426960000000000",
+      "stopLong": "-3.713420000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_52_151",
+      "stopDescription": "Calle de la Princesa 56",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.430270000000000",
+      "stopLong": "-3.715780000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_52_152",
+      "stopDescription": "Calle de Alberto Aguilera 70",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.430680000000000",
+      "stopLong": "-3.715590000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_52_153",
+      "stopDescription": "Calle de la Princesa 65",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.431380000000000",
+      "stopLong": "-3.716920000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_52_154",
+      "stopDescription": "Calle de Alberto Aguilera 62",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.430560000000000",
+      "stopLong": "-3.714350000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_52_797",
+      "stopDescription": "Calle de Alberto Aguilera 70",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.430680000000000",
+      "stopLong": "-3.715560000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_53_155",
+      "stopDescription": "Paseo de Moret 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434730000000000",
+      "stopLong": "-3.719610000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_53_156",
+      "stopDescription": "Calle de la Princesa 96",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434690000000000",
+      "stopLong": "-3.718970000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_53_157",
+      "stopDescription": "Calle de la Princesa 89",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434700000000000",
+      "stopLong": "-3.719490000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_53_579",
+      "stopDescription": "Plaza de la Moncloa 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.435100000000000",
+      "stopLong": "-3.719240000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_53_798",
+      "stopDescription": "Calle del Arcipreste de Hita 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433640000000000",
+      "stopLong": "-3.717820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_53_807",
+      "stopDescription": "Calle de la Princesa 87",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433810000000000",
+      "stopLong": "-3.718930000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_57_160",
+      "stopDescription": "Plaza de Santa B\u00e1rbara 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.427440000000000",
+      "stopLong": "-3.695930000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_57_161",
+      "stopDescription": "Calle de G\u00e9nova 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.427380000000000",
+      "stopLong": "-3.695440000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_57_162",
+      "stopDescription": "Plaza de Alonso Mart\u00ednez 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.428030000000000",
+      "stopLong": "-3.695600000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_57_163",
+      "stopDescription": "Calle de Sagasta 30",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.427840000000000",
+      "stopLong": "-3.697070000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_58_164",
+      "stopDescription": "Calle de G\u00e9nova 29",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425730000000000",
+      "stopLong": "-3.691670000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_58_165",
+      "stopDescription": "Calle de G\u00e9nova 28",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425400000000000",
+      "stopLong": "-3.691670000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_59_167",
+      "stopDescription": "Calle de Goya 15",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425480000000000",
+      "stopLong": "-3.687610000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_59_168",
+      "stopDescription": "Calle de Goya 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425280000000000",
+      "stopLong": "-3.687600000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_59_169",
+      "stopDescription": "Calle de Goya 23",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425400000000000",
+      "stopLong": "-3.686080000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_59_170",
+      "stopDescription": "Calle de Goya 10",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425210000000000",
+      "stopLong": "-3.686080000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_5_13",
+      "stopDescription": "Calle de Bravo Murillo 135",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.450260000000000",
+      "stopLong": "-3.703610000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_5_14",
+      "stopDescription": "Calle de Bravo Murillo 136",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.450170000000000",
+      "stopLong": "-3.703370000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_60_171",
+      "stopDescription": "Calle de Goya 41",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425250000000000",
+      "stopLong": "-3.683310000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_60_172",
+      "stopDescription": "Calle de Goya 20",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425070000000000",
+      "stopLong": "-3.683450000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_60_173",
+      "stopDescription": "Calle de Goya 53",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.425190000000000",
+      "stopLong": "-3.681820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_60_174",
+      "stopDescription": "Calle de Goya 32",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.424990000000000",
+      "stopLong": "-3.681820000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_62_175",
+      "stopDescription": "Calle del Conde de Pe\u00f1alver 49",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.429710000000000",
+      "stopLong": "-3.675420000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_62_176",
+      "stopDescription": "Calle del Conde de Pe\u00f1alver 39",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.428560000000000",
+      "stopLong": "-3.675540000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_63_177",
+      "stopDescription": "Calle de Diego de Le\u00f3n 69",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434630000000000",
+      "stopLong": "-3.675090000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_63_178",
+      "stopDescription": "Calle de Francisco Silvela 63",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434810000000000",
+      "stopLong": "-3.675010000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_63_179",
+      "stopDescription": "Calle de Francisco Silvela 56",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.435000000000000",
+      "stopLong": "-3.674520000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_63_180",
+      "stopDescription": "Calle  Francisco Silvela 54",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434050000000000",
+      "stopLong": "-3.674800000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_63_234",
+      "stopDescription": "Calle de Juan Bravo 52",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432410000000000",
+      "stopLong": "-3.674900000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_63_235",
+      "stopDescription": "Calle de Juan Bravo 69",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432350000000000",
+      "stopLong": "-3.673630000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_63_236",
+      "stopDescription": "Calle de Francisco Silvela 34",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432610000000000",
+      "stopLong": "-3.672370000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_63_237",
+      "stopDescription": "Calle de Francisco Silvela 40",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433190000000000",
+      "stopLong": "-3.672840000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_63_238",
+      "stopDescription": "Calle de Francisco Silvela 47",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433200000000000",
+      "stopLong": "-3.673320000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_64_181",
+      "stopDescription": "Avda de Am\u00e9rica 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.437810000000000",
+      "stopLong": "-3.677200000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_64_182",
+      "stopDescription": "Avda de Am\u00e9rica 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.437660000000000",
+      "stopLong": "-3.676640000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_64_184",
+      "stopDescription": "Avda de Am\u00e9rica 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.437780000000000",
+      "stopLong": "-3.677050000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_64_185",
+      "stopDescription": "Calle de Pedro de Valdivia 31",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438760000000000",
+      "stopLong": "-3.679400000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_65_186",
+      "stopDescription": "Plaza de la Prosperidad 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.444280000000000",
+      "stopLong": "-3.674740000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_66_187",
+      "stopDescription": "Calle de Clara del Rey 83",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.448220000000000",
+      "stopLong": "-3.667860000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_67_188",
+      "stopDescription": "Calle de Ram\u00f3n y Cajal 80",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.453250000000000",
+      "stopLong": "-3.661970000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_67_189",
+      "stopDescription": "Avda de Ram\u00f3n y Cajal 78",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.452640000000000",
+      "stopLong": "-3.663720000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_67_190",
+      "stopDescription": "Avda de Ram\u00f3n y Cajal 101",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.453480000000000",
+      "stopLong": "-3.662390000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_68_191",
+      "stopDescription": "Calle de Ulises 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.456040000000000",
+      "stopLong": "-3.656170000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_68_192",
+      "stopDescription": "Calle de Arturo Soria 172",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.455650000000000",
+      "stopLong": "-3.656030000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_68_193",
+      "stopDescription": "Calle de Jos\u00e9 Silva 1 A",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.455600000000000",
+      "stopLong": "-3.656740000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_68_194",
+      "stopDescription": "Calle de Ulises 11",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.456870000000000",
+      "stopLong": "-3.654570000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_69_195",
+      "stopDescription": "Calle de Andorra 51",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.459570000000000",
+      "stopLong": "-3.645860000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_6_15",
+      "stopDescription": "Gta de Cuatro Caminos 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446710000000000",
+      "stopLong": "-3.704280000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_6_16",
+      "stopDescription": "Calle de Santa Engracia 168",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446520000000000",
+      "stopLong": "-3.703620000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_6_17",
+      "stopDescription": "Avda de la Reina Victoria 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446890000000000",
+      "stopLong": "-3.704560000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_6_18",
+      "stopDescription": "Calle de Bravo Murillo 101",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.447370000000000",
+      "stopLong": "-3.704060000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_6_19",
+      "stopDescription": "Calle de Maudes 8",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.445340000000000",
+      "stopLong": "-3.702580000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_6_615",
+      "stopDescription": "Calle de Santa Engracia 179",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.446240000000000",
+      "stopLong": "-3.703750000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_70_196",
+      "stopDescription": "Avda de Machupichu 101",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.463770000000000",
+      "stopLong": "-3.635600000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_70_197",
+      "stopDescription": "Calle de Ram\u00f3n Power 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.463720000000000",
+      "stopLong": "-3.635160000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_70_198",
+      "stopDescription": "Avda de Machupichu 103",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.464610000000000",
+      "stopLong": "-3.635750000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_70_199",
+      "stopDescription": "Calle de Mota del Cuervo 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.465120000000000",
+      "stopLong": "-3.635410000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_70_200",
+      "stopDescription": "Avda de Machupichu 101",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.463710000000000",
+      "stopLong": "-3.635590000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_71_201",
+      "stopDescription": "Calle de los Emigrantes SN",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.468900000000000",
+      "stopLong": "-3.638330000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_71_202",
+      "stopDescription": "Gta del Mar de Cristal 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.469440000000000",
+      "stopLong": "-3.638880000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_71_203",
+      "stopDescription": "Calle de Mar Adri\u00e1tico 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.470170000000000",
+      "stopLong": "-3.638550000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_71_204",
+      "stopDescription": "Gta del Mar de Cristal 1 B",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.469390000000000",
+      "stopLong": "-3.638880000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_72_205",
+      "stopDescription": "Avda de la Barranquilla 15",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.474510000000000",
+      "stopLong": "-3.639570000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_72_206",
+      "stopDescription": "Calle de Baranoa 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.474540000000000",
+      "stopLong": "-3.639390000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_72_207",
+      "stopDescription": "Avda de la Barranquilla 9",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.474300000000000",
+      "stopLong": "-3.639420000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_73_208",
+      "stopDescription": "Calle de Santa Virgilia 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.477130000000000",
+      "stopLong": "-3.645520000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_73_209",
+      "stopDescription": "Calle de Arcos 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.477290000000000",
+      "stopLong": "-3.645170000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_73_210",
+      "stopDescription": "Calle de Santa Virgilia 6",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.476970000000000",
+      "stopLong": "-3.644970000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_74_1037",
+      "stopDescription": "Calle de Alcal\u00e1 636",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.449230000000000",
+      "stopLong": "-3.608970000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_74_211",
+      "stopDescription": "Calle de Alcal\u00e1 631",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.449490000000000",
+      "stopLong": "-3.608080000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_74_212",
+      "stopDescription": "Calle de Alcal\u00e1 640",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.449090000000000",
+      "stopLong": "-3.608140000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_75_213",
+      "stopDescription": "Calle de Alcal\u00e1 557",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443730000000000",
+      "stopLong": "-3.617120000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_75_214",
+      "stopDescription": "Calle de Alcal\u00e1 550",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.443570000000000",
+      "stopLong": "-3.617000000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_76_215",
+      "stopDescription": "Calle de Alcal\u00e1 506",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.440750000000000",
+      "stopLong": "-3.627200000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_76_216",
+      "stopDescription": "Calle de Alcal\u00e1 527",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.441010000000000",
+      "stopLong": "-3.626840000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_77_217",
+      "stopDescription": "Calle de los Hnos. Garc\u00eda Noblejas 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.437580000000000",
+      "stopLong": "-3.638060000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_77_218",
+      "stopDescription": "Calle de Alcal\u00e1 416",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.437840000000000",
+      "stopLong": "-3.638460000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_77_219",
+      "stopDescription": "Calle de Arturo Soria 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438190000000000",
+      "stopLong": "-3.638020000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_77_220",
+      "stopDescription": "Calle de Alcal\u00e1 434",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.438330000000000",
+      "stopLong": "-3.636040000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_78_1028",
+      "stopDescription": "Calle de Alcal\u00e1 366",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.435290000000000",
+      "stopLong": "-3.643480000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_78_221",
+      "stopDescription": "Calle de Alcal\u00e1 373",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.435250000000000",
+      "stopLong": "-3.643870000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_78_222",
+      "stopDescription": "Calle de Alcal\u00e1 360",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.435100000000000",
+      "stopLong": "-3.643890000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_78_223",
+      "stopDescription": "Calle de Alcal\u00e1 387",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.436080000000000",
+      "stopLong": "-3.642150000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_78_224",
+      "stopDescription": "Calle de Alcal\u00e1 380",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.436070000000000",
+      "stopLong": "-3.641810000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_78_225",
+      "stopDescription": "Calle de Alcal\u00e1 378",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.435930000000000",
+      "stopLong": "-3.642110000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_79_226",
+      "stopDescription": "Calle de Alcal\u00e1 306",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432900000000000",
+      "stopLong": "-3.649160000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_79_227",
+      "stopDescription": "Calle de Alcal\u00e1 333",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433070000000000",
+      "stopLong": "-3.649110000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_79_228",
+      "stopDescription": "Calle de Alcal\u00e1 328",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433580000000000",
+      "stopLong": "-3.646960000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_79_229",
+      "stopDescription": "Calle de la Virgen del Sagrario 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433680000000000",
+      "stopLong": "-3.647540000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_7_20",
+      "stopDescription": "Calle de R\u00edos Rosas 24",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.441890000000000",
+      "stopLong": "-3.701130000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_7_21",
+      "stopDescription": "Calle de R\u00edos Rosas 19",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.442030000000000",
+      "stopLong": "-3.701100000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_7_22",
+      "stopDescription": "Calle de Santa Engracia 120 A",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.440520000000000",
+      "stopLong": "-3.701270000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_80_230",
+      "stopDescription": "Calle de Alcal\u00e1 246",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432010000000000",
+      "stopLong": "-3.655600000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_80_231",
+      "stopDescription": "Calle del Alcalde L\u00f3pez Casero 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432440000000000",
+      "stopLong": "-3.655380000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_80_232",
+      "stopDescription": "Calle de Alcal\u00e1 234",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.431760000000000",
+      "stopLong": "-3.657390000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_80_233",
+      "stopDescription": "Calle de Alcal\u00e1 261 B",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.431900000000000",
+      "stopLong": "-3.657440000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_83_239",
+      "stopDescription": "Calle de Velazquez 92",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432810000000000",
+      "stopLong": "-3.683130000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_83_240",
+      "stopDescription": "Calle de Nu\u00f1ez de Balboa 85",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432770000000000",
+      "stopLong": "-3.682300000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_83_242",
+      "stopDescription": "Plaza del Marqu\u00e9s de Salamanca 10",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.429740000000000",
+      "stopLong": "-3.679350000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_84_243",
+      "stopDescription": "Gta de Rub\u00e9n Dar\u00edo 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.432760000000000",
+      "stopLong": "-3.690970000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_84_244",
+      "stopDescription": "Gta de Rub\u00e9n Dar\u00edo 3",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433180000000000",
+      "stopLong": "-3.691000000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_84_245",
+      "stopDescription": "Paseo de la Castellana 35",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433300000000000",
+      "stopLong": "-3.688730000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_86_246",
+      "stopDescription": "Plaza de Chueca 4",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.422630000000000",
+      "stopLong": "-3.697670000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_8_23",
+      "stopDescription": "Paseo del General Mart\u00ednez Campos 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.435060000000000",
+      "stopLong": "-3.698200000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_8_24",
+      "stopDescription": "Calle de Santa Engracia 58",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434750000000000",
+      "stopLong": "-3.698530000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_8_25",
+      "stopDescription": "Calle de Santa Engracia 61",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.433890000000000",
+      "stopLong": "-3.698400000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_8_26",
+      "stopDescription": "Calle de Eloy Gonzalo 38",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434720000000000",
+      "stopLong": "-3.699240000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_8_27",
+      "stopDescription": "Calle de Eloy Gonzalo 35",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434900000000000",
+      "stopLong": "-3.699320000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_8_774",
+      "stopDescription": "Gta del Pintor Sorolla 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.435070000000000",
+      "stopLong": "-3.698460000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_8_775",
+      "stopDescription": "Gta del Pintor Sorolla 1",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.434790000000000",
+      "stopLong": "-3.698960000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_90_247",
+      "stopDescription": "Calle de Toledo 56",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.411080000000000",
+      "stopLong": "-3.708680000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_90_248",
+      "stopDescription": "Calle de toledo 65",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.411130000000000",
+      "stopLong": "-3.708130000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_90_249",
+      "stopDescription": "Calle de Toledo 52 A",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.411660000000000",
+      "stopLong": "-3.708210000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_9_28",
+      "stopDescription": "Gta de Bilbao 5",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.429260000000000",
+      "stopLong": "-3.701930000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_9_29",
+      "stopDescription": "Gta de Bilbao 2",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.429100000000000",
+      "stopLong": "-3.701640000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_9_30",
+      "stopDescription": "Gta de Bilbao 7",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.428760000000000",
+      "stopLong": "-3.702060000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_9_31",
+      "stopDescription": "Calle de Luchana 22",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.430290000000000",
+      "stopLong": "-3.700230000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_9_32",
+      "stopDescription": "Calle de Luchana 21",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.430500000000000",
+      "stopLong": "-3.700300000000000"
+    },
+    {
+      "stop": "http://transport.linkeddata.es/madrid/metro/stops/acc_4_9_33",
+      "stopDescription": "Calle de Luchana 23",
+      "wheelchairAccesible": "http://transport.linkeddata.es/resource/WheelchairBoardingStatus/0",
+      "stopLat": "40.430890000000000",
+      "stopLong": "-3.699830000000000"
+    }
+  ]
+}

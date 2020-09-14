@@ -1,0 +1,284 @@
+{
+  "data": [
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-12-25"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-12-08"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-12-06"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-11-09"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-11-01"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-10-12"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-08-15"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-05-15"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-05-02"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-05-01"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-04-14"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-04-13"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-03-20"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I16",
+      "date": "2017-01-06"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-12-25"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-12-08"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-12-06"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-11-09"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-11-01"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-10-12"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-08-15"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-05-15"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-05-02"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-05-01"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-04-14"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-04-13"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-03-20"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I16",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I16",
+      "date": "2017-01-06"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-12-25"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-12-08"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-12-06"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-11-09"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-11-01"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-10-12"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-08-15"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-05-15"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-05-02"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-05-01"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-04-14"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-04-13"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-03-20"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_date_rule/4_I13",
+      "date": "2017-01-06"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-12-25"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-12-08"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-12-06"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-11-09"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-11-01"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-10-12"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-08-15"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-05-15"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-05-02"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-05-01"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-04-14"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-04-13"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-03-20"
+    },
+    {
+      "service": "http://transport.linkeddata.es/madrid/metro/services/4_I13",
+      "serviceRule": "http://transport.linkeddata.es/madrid/metro/calendar_rules/4_I13",
+      "date": "2017-01-06"
+    }
+  ]
+}
