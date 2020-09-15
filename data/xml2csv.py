@@ -1,16 +1,19 @@
 import xmltodict
+import sys
 import json
 def readxml(path):
     xml = xmltodict.parse(open(path, encoding='utf-8').read())
     print(xml['sparql']['head']['variable'])
     f = open(path.replace('.xml', '.json'), 'w')
-    f.write(json.dumps(xml, indent=2)) 
+    f.write(json.dumps(xml, indent=2))
 def main():
-    path = './bio2rdf/query5/sparqlresult.json'
+    path = sys.argv[1]
+    print(path)
+    readxml(path)
     jsontocsv(path)
 def jsontocsv(path):
-    data = json.loads(open(path).read())
-    f = open(path.replace('.json','.csv'), 'a')
+    data = json.loads(open(path.replace('.xml', '.json')).read())
+    f = open(path.replace('.xml','.csv'), 'a')
     columns = {name['@name']:'' for name in data['sparql']['head']['variable']}
     line = ''.join('"' + val + '",' for val in columns.keys())[:-1] + '\n'
     f.write(line)

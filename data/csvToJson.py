@@ -22,7 +22,7 @@ def transformCSV(file):
             result['data'].append(aux)
 
     #print(result)
-    output = open(file.replace('.csv', '.json'), 'w')
+    output = open(file.replace('.csv', '.processed.json'), 'w')
     output.write(json.dumps(result, indent=2))
     output.close()
 
@@ -30,13 +30,17 @@ def main():
 #    path = "./bio2rdf/query2/results/"
 #    transformDIR(path)
     datasets = {
-#        'bio2rdf':10,
-#        'gtfs':18,
+        'bio2rdf':10,
+        'gtfs':18,
         'bsbm':10
     }
     for dataset in datasets.keys():
         for i in range(1,datasets[dataset]):
-            path = './' + dataset + '/query' + str(i) + '/results/'
-            transformDIR(path)
+            path = './' + dataset + '/query' + str(i) + '/sparqlresult.csv'
+            try:
+                transformCSV(path)
+            except(Exception):
+                print(Exception)
+
 if __name__ == '__main__':
     main()
