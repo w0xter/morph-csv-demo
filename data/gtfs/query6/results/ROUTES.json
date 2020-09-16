@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "route_id": "4__10___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__11___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__12___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__1___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__2___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__3___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__4___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__5___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__6___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__7___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__8___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__9___",
+      "agency_id": "CRTM"
+    },
+    {
+      "route_id": "4__R___",
+      "agency_id": "CRTM"
+    }
+  ]
+}

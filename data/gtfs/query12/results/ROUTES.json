@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "route_id": "4__10___",
+      "route_long_name": "Hospital del Norte-Puerta del Sur"
+    },
+    {
+      "route_id": "4__11___",
+      "route_long_name": "Plaza El\u00edptica-La Fortuna"
+    },
+    {
+      "route_id": "4__12___",
+      "route_long_name": "MetroSur"
+    },
+    {
+      "route_id": "4__1___",
+      "route_long_name": "Pinar de Chamart\u00edn-Valdecarros"
+    },
+    {
+      "route_id": "4__2___",
+      "route_long_name": "Las Rosas-Cuatro Caminos"
+    },
+    {
+      "route_id": "4__3___",
+      "route_long_name": "Villaverde Alto-Moncloa"
+    },
+    {
+      "route_id": "4__4___",
+      "route_long_name": "Pinar de Chamart\u00edn-Arg\u00fcelles"
+    },
+    {
+      "route_id": "4__5___",
+      "route_long_name": "Alameda de Osuna-Casa de Campo"
+    },
+    {
+      "route_id": "4__6___",
+      "route_long_name": "Circular"
+    },
+    {
+      "route_id": "4__7___",
+      "route_long_name": "Hospital del Henares-Pitis"
+    },
+    {
+      "route_id": "4__8___",
+      "route_long_name": "Nuevos Ministerios - Aeropuerto T4"
+    },
+    {
+      "route_id": "4__9___",
+      "route_long_name": "Paco de Luc\u00eda-Arganda del Rey"
+    },
+    {
+      "route_id": "4__R___",
+      "route_long_name": "Opera-Pr\u00edncipe P\u00edo"
+    }
+  ]
+}

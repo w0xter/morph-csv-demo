@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "route_id": "4__10___",
+      "agency_id": "CRTM",
+      "route_short_name": "10",
+      "route_long_name": "Hospital del Norte-Puerta del Sur",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__11___",
+      "agency_id": "CRTM",
+      "route_short_name": "11",
+      "route_long_name": "Plaza El\u00edptica-La Fortuna",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__12___",
+      "agency_id": "CRTM",
+      "route_short_name": "12",
+      "route_long_name": "MetroSur",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__1___",
+      "agency_id": "CRTM",
+      "route_short_name": "1",
+      "route_long_name": "Pinar de Chamart\u00edn-Valdecarros",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__2___",
+      "agency_id": "CRTM",
+      "route_short_name": "2",
+      "route_long_name": "Las Rosas-Cuatro Caminos",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__3___",
+      "agency_id": "CRTM",
+      "route_short_name": "3",
+      "route_long_name": "Villaverde Alto-Moncloa",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__4___",
+      "agency_id": "CRTM",
+      "route_short_name": "4",
+      "route_long_name": "Pinar de Chamart\u00edn-Arg\u00fcelles",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__5___",
+      "agency_id": "CRTM",
+      "route_short_name": "5",
+      "route_long_name": "Alameda de Osuna-Casa de Campo",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__6___",
+      "agency_id": "CRTM",
+      "route_short_name": "6",
+      "route_long_name": "Circular",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__7___",
+      "agency_id": "CRTM",
+      "route_short_name": "7",
+      "route_long_name": "Hospital del Henares-Pitis",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__8___",
+      "agency_id": "CRTM",
+      "route_short_name": "8",
+      "route_long_name": "Nuevos Ministerios - Aeropuerto T4",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__9___",
+      "agency_id": "CRTM",
+      "route_short_name": "9",
+      "route_long_name": "Paco de Luc\u00eda-Arganda del Rey",
+      "route_desc": ""
+    },
+    {
+      "route_id": "4__R___",
+      "agency_id": "CRTM",
+      "route_short_name": "R",
+      "route_long_name": "Opera-Pr\u00edncipe P\u00edo",
+      "route_desc": ""
+    }
+  ]
+}

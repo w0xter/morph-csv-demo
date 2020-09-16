@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "service_id": "4_I12",
+      "start_date": "2017-06-29",
+      "end_date": "2018-06-29"
+    },
+    {
+      "service_id": "4_I13",
+      "start_date": "2017-06-29",
+      "end_date": "2018-06-29"
+    },
+    {
+      "service_id": "4_I14",
+      "start_date": "2017-06-29",
+      "end_date": "2018-06-29"
+    },
+    {
+      "service_id": "4_I15",
+      "start_date": "2017-06-29",
+      "end_date": "2018-06-29"
+    },
+    {
+      "service_id": "4_I16",
+      "start_date": "2017-06-29",
+      "end_date": "2018-06-29"
+    }
+  ]
+}
