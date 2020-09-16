@@ -21,7 +21,7 @@ function fetchData(url){
     console.log(url)
     axios.get(url).then((response) => {
       resolve(response.data);
-    }).catch((err) => reject(err))
+    }).catch((err) => reject( url + ': ' + err))
 
   })
 }
@@ -75,7 +75,7 @@ export default class Query extends React.Component{
           <Title level={3}>SPARQL Result</Title>
           {
             Object.keys(this.state.sparqlresult.data).length !== 0 ? (
-              <Table bordered dataSource={this.state.sparqlresult.data.data} columns={this.state.sparqlresult.columns} />
+              <Table bordered dataSource={this.state.sparqlresult.data} columns={this.state.sparqlresult.columns} />
             ):null
           }
           <Row gutter={16}>
@@ -150,15 +150,15 @@ export default class Query extends React.Component{
     this.setState({queryIdx:queryIdx, dataset:dataset})
     const queryDir = data[dataset]['url'] + 'query' + queryIdx;
     const dir =  queryDir + '/query' + queryIdx + '.';
-   try{
-      const csvw = await fetchData(dir + 'csvw.min.json') 
+      const csvw = await fetchData(dir + 'csvw.min.json') .catch((err) => console.log(err))
       const strCsvw = JSON.stringify(csvw,null,"  ");
-      const yarrrml = await fetchData(dir + 'mapping.yaml')
-      const schema = await fetchData(dir + 'schema.sql')
-      const query = await fetchData(dir + 'rq')
+      const yarrrml = await fetchData(dir + 'mapping.yaml').catch((err) => console.log(err))
+      const schema = await fetchData(dir + 'schema.sql').catch((err) => console.log(err))
+      const query = await fetchData(dir + 'rq').catch((err) => console.log(err))
       let sparqlresult = {}
-      sparqlresult.data = await fetchData(queryDir + '/sparqlresult.processed.json').catch((err) => { console.log(err); let a = {}; return a})
-      sparqlresult.columns = this.getColumnNames(Object.keys(sparqlresult.data.data[0]))
+      let sparqlResultData = await fetchData(queryDir + '/sparqlresult.processed.json').catch((err) => console.log(err))
+      sparqlresult.data = sparqlResultData !== undefined ? sparqlResultData.data:{};
+      sparqlresult.columns = sparqlResultData !== undefined ? this.getColumnNames(Object.keys(sparqlresult.data[0])):[]
       const csvUrls = csvw['tables'].map(table =>  queryDir + '/results/' + table.url.split("/").pop().replace('.csv', '.json'))
       console.log("CSV URLS: ")
       console.log(csvUrls)
@@ -166,9 +166,7 @@ export default class Query extends React.Component{
       console.log("CSV:")
       console.log(this.state.csvs)
       this.setState({dataset:dataset, csvw:csvw,strCsvw:strCsvw, yarrrml:yarrrml,schema:schema, query:query, sparqlresult:sparqlresult})
-   }catch(err){
-     console.log(err)
-   }
+
   } 
   async getCsvs(csvUrls){
     let CSVs = [];
