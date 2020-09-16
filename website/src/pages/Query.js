@@ -72,10 +72,12 @@ export default class Query extends React.Component{
               </Col>
           </Row>
           <Divider/>
-          <Title level={3}>SPARQL Result</Title>
           {
             Object.keys(this.state.sparqlresult.data).length !== 0 ? (
-              <Table bordered dataSource={this.state.sparqlresult.data} columns={this.state.sparqlresult.columns} />
+              <>
+                <Title level={3}>SPARQL Result</Title>
+                <Table bordered dataSource={this.state.sparqlresult.data} columns={this.state.sparqlresult.columns} />
+              </>
             ):null
           }
           <Row gutter={16}>
