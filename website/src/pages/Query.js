@@ -22,7 +22,6 @@ function fetchData(url){
     axios.get(url).then((response) => {
       resolve(response.data);
     }).catch((err) => reject( url + ': ' + err))
-
   })
 }
 
