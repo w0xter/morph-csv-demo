@@ -15,7 +15,7 @@ export default function Home(props){
                     <Paragraph style={{textAlign:'justify'}}>
                         Morph-CSV is an open source tool for querying tabular data sources using SPARQL. 
                         It exploits the information from the query, RML+FnO mappings and CSVW metadata to enhance the performance and completeness of traditional OBDA systems (SPARQL-to-SQL translators). 
-                        At this moment can be embedded in the top of any R2RML-compliant system at it has been tested over different benchmarks such as BSBM, Madrid-GTFS-Bench but also over real-use
+                        At this moment it can be embedded on top of any R2RML-compliant system at it has been tested over different benchmarks such as BSBM, Madrid-GTFS-Bench but also over real-use
                         cases such as querying the original data sources of the Bio2RDF project using different SPARQL-to-SQL engines such as Morph-RDB or Ontop.                        
                     </Paragraph>
                 </Col>
