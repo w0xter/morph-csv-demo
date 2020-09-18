@@ -24,7 +24,7 @@ export default class DatasetSelector extends React.Component{
                   return(
                       <SubMenu
                         key={"sub" + idx}
-                        title={dataset}
+                        title={dataset.toUpperCase()}
                       >
                           {Object.keys(data[dataset]["queries"]).map((query,jdx) => {
                               return(

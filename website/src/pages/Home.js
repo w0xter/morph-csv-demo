@@ -2,9 +2,11 @@ import React from 'react'
 import Layout from '../components/general/Layout'
 import {Row,Col,Button,Card,Divider, Typography} from 'antd'
 import EvaluationCharts from '../components/home/EvaluationCharts'
+import {evaluation} from '../data/data'
 const {Title, Text, Paragraph} = Typography
 
 export default function Home(props){
+    console.log(evaluation)
     return(
         <Layout>
            <Row gutter={16} align="top">
@@ -33,17 +35,119 @@ export default function Home(props){
                     </Paragraph>
                 </Col>
             </Row>
+            {/* GTFS */}
             <Row style={{marginTop:16}}>
                 <Col>
-                    <Title level={3}>GTFS</Title>
+                    <Title level={2}>GTFS</Title>
                 </Col>
             </Row>
             <Row >
                 <Col>
-                    <Title level={4}><a href="#">Load Time</a></Title>
+                    <Title level={4}>Load Time</Title>
                 </Col>
             </Row>
-            <EvaluationCharts charts={[1,2,3,4]}></EvaluationCharts>
+            <Row gutter={[16,16]}>
+            {
+                Object.keys(evaluation.gtfs.sizes).map((size) => {
+                    return(
+                        <Col xs={24} md={12} lg={6}>
+                            <EvaluationCharts size={size} labels={evaluation.gtfs.labels} naive={evaluation.gtfs.sizes[size].load.naive} morphcsv={evaluation.gtfs.sizes[size].load.morphcsv}></EvaluationCharts>
+                        </Col>
+                    )
+                })
+            }
+            </Row>
+            <Divider></Divider>
+            <Row >
+                <Col>
+                    <Title level={4}>Morph-RDB Execution Time</Title>
+                </Col>
+            </Row>            
+            <Row gutter={[16,16]}>
+            {
+                Object.keys(evaluation.gtfs.sizes).map((size) => {
+                    return(
+                        <Col xs={24} md={12} lg={6}>
+                            <EvaluationCharts size={size} labels={evaluation.gtfs.mrdblabels} naive={evaluation.gtfs.sizes[size].execution.mrdb.naive} morphcsv={evaluation.gtfs.sizes[size].execution.mrdb.morphcsv}></EvaluationCharts>
+                        </Col>
+                    )
+                })
+            }
+            </Row>  
+            <Divider></Divider>
+            <Row >
+                <Col>
+                    <Title level={4}>ONTOP Execution Time</Title>
+                </Col>
+            </Row>            
+            <Row gutter={[16,16]}>
+            {
+                Object.keys(evaluation.gtfs.sizes).map((size) => {
+                    return(
+                        <Col xs={24} md={12} lg={6}>
+                            <EvaluationCharts size={size} labels={evaluation.gtfs.ontoplabels} naive={evaluation.gtfs.sizes[size].execution.ontop.naive} morphcsv={evaluation.gtfs.sizes[size].execution.ontop.morphcsv}></EvaluationCharts>
+                        </Col>
+                    )
+                })
+            }
+            </Row>    
+            <Divider></Divider>            
+            {/* BSBM */}
+            <Row style={{marginTop:16}}>
+                <Col>
+                    <Title level={2}>BSBM</Title>
+                </Col>
+            </Row>
+            <Row >
+                <Col>
+                    <Title level={4}>Load Time</Title>
+                </Col>
+            </Row>
+            <Row gutter={[16,16]}>
+            {
+                Object.keys(evaluation.bsbm.sizes).map((size) => {
+                    return(
+                        <Col xs={24} md={12} lg={6}>
+                            <EvaluationCharts size={size} labels={evaluation.bsbm.labels} naive={evaluation.bsbm.sizes[size].load.naive} morphcsv={evaluation.bsbm.sizes[size].load.morphcsv}></EvaluationCharts>
+                        </Col>
+                    )
+                })
+            }
+            </Row>
+            <Divider></Divider>
+            <Row >
+                <Col>
+                    <Title level={4}>Morph-RDB Execution Time</Title>
+                </Col>
+            </Row>            
+            <Row gutter={[16,16]}>
+            {
+                Object.keys(evaluation.bsbm.sizes).map((size) => {
+                    return(
+                        <Col xs={24} md={12} lg={6}>
+                            <EvaluationCharts size={size} labels={evaluation.bsbm.mrdblabels} naive={evaluation.bsbm.sizes[size].execution.mrdb.naive} morphcsv={evaluation.bsbm.sizes[size].execution.mrdb.morphcsv}></EvaluationCharts>
+                        </Col>
+                    )
+                })
+            }
+            </Row>  
+            <Divider></Divider>
+            <Row >
+                <Col>
+                    <Title level={4}>ONTOP Execution Time</Title>
+                </Col>
+            </Row>            
+            <Row gutter={[16,16]}>
+            {
+                Object.keys(evaluation.bsbm.sizes).map((size) => {
+                    return(
+                        <Col xs={24} md={12} lg={6}>
+                            <EvaluationCharts size={size} labels={evaluation.bsbm.ontoplabels} naive={evaluation.bsbm.sizes[size].execution.ontop.naive} morphcsv={evaluation.bsbm.sizes[size].execution.ontop.morphcsv}></EvaluationCharts>
+                        </Col>
+                    )
+                })
+            }
+            </Row>                                   
         </Layout>
     )
 }
